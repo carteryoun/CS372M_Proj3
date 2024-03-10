@@ -1,0 +1,3517 @@
+amenities,bathrooms,bedrooms,pets_allowed,price,price_type,square_feet,cityname,state
+0,0,0.0,1,0,Monthly,1,Charlotte,NC
+0,0,1.0,1,1,Monthly,1,Arlington,MA
+1,0,0.0,1,0,Monthly,0,Bloomington,IN
+0,0,0.0,1,0,Monthly,0,Tulsa,OK
+1,0,0.0,1,0,Monthly,1,Apex,NC
+1,0,0.0,1,0,Monthly,1,Houston,TX
+1,0,0.0,1,0,Monthly,0,Tampa,FL
+1,0,0.0,1,0,Monthly,1,Cincinnati,OH
+1,0,0.0,1,1,Monthly,0,Attleboro,MA
+0,0,0.0,1,0,Monthly,0,Grand Haven,MI
+0,0,0.0,1,0,Monthly,1,Oklahoma City,OK
+0,0,0.0,1,0,Monthly,1,Dallas,TX
+1,0,0.0,1,0,Monthly,0,San Antonio,TX
+1,0,0.0,1,0,Monthly,0,Cherry Hill,NJ
+1,0,0.0,1,1,Monthly,0,Washington,DC
+0,0,1.0,1,0,Monthly,1,Manhattan,KS
+1,0,0.0,1,1,Monthly,0,Federal Way,WA
+1,0,0.0,1,0,Monthly,1,Mesquite,TX
+0,0,0.0,1,0,Monthly,0,Bellingham,WA
+0,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Colorado Springs,CO
+1,0,0.0,1,0,Monthly,0,Dickinson,ND
+1,0,0.0,1,1,Monthly,1,Boston,MA
+0,0,0.0,1,1,Monthly,1,,
+1,0,0.0,1,1,Monthly,1,Parsippany,NJ
+1,0,0.0,1,0,Monthly,0,Gaithersburg,MD
+1,0,0.0,1,1,Monthly,1,Seattle,WA
+0,0,0.0,1,1,Monthly,1,San Antonio,TX
+1,0,0.0,1,1,Monthly,0,Lexington,KY
+0,0,0.0,1,1,Monthly,1,Tallahassee,FL
+1,0,0.0,1,0,Monthly,0,Tucson,AZ
+1,0,0.0,1,0,Monthly,0,Jeffersonville,IN
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+0,0,0.0,1,0,Monthly,0,,
+1,0,0.0,1,1,Monthly,1,Cockeysville,MD
+1,0,0.0,1,0,Monthly,1,Greenville,NC
+1,0,0.0,1,0,Monthly,0,Lees Summit,MO
+0,0,0.0,1,1,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Bloomington,IN
+1,0,0.0,1,0,Monthly,0,Greensboro,NC
+1,0,0.0,1,1,Monthly,0,Marina Del Rey,CA
+1,0,0.0,1,0,Monthly,0,Colorado Springs,CO
+0,0,0.0,1,0,Monthly,0,Giddings,TX
+0,0,0.0,1,1,Monthly,1,Watford City,ND
+1,0,0.0,1,0,Monthly,0,Mansfield,TX
+1,0,0.0,1,0,Monthly,1,Raleigh,NC
+1,0,0.0,1,1,Monthly,0,Saint Louis Park,MN
+1,0,0.0,1,1,Monthly,0,Issaquah,WA
+0,0,0.0,1,0,Monthly,0,Portland,OR
+0,0,0.0,1,0,Monthly,0,Venice,FL
+1,0,0.0,1,0,Monthly,0,Minneapolis,MN
+1,0,0.0,1,0,Monthly,0,Manitowoc,WI
+0,0,0.0,1,1,Monthly,1,Newberg,OR
+0,0,0.0,1,0,Monthly,0,Cary,NC
+1,0,0.0,1,0,Monthly,0,Manchester,NH
+0,0,0.0,1,0,Monthly,0,Ames,IA
+1,0,0.0,1,0,Monthly,0,Phoenix,AZ
+0,0,0.0,1,1,Monthly,0,Saratoga Springs,NY
+1,0,0.0,1,0,Monthly,0,Randallstown,MD
+1,0,0.0,1,1,Monthly,0,Jersey City,NJ
+0,0,0.0,1,1,Monthly,1,Princeton,NJ
+1,0,0.0,1,0,Monthly,0,Overland Park,KS
+1,0,0.0,1,1,Monthly,0,Chicago,IL
+0,0,0.0,1,1,Monthly,1,Orange,CA
+0,0,1.0,1,1,Monthly,1,Chesterfield,VA
+0,0,0.0,1,0,Monthly,0,Leawood,KS
+1,0,0.0,1,0,Monthly,0,Manchester,CT
+0,0,0.0,1,1,Monthly,1,Bothell,WA
+1,0,1.0,1,1,Monthly,1,Glenn Heights,TX
+0,0,0.0,1,0,Monthly,0,Portland,OR
+1,0,1.0,1,1,Monthly,1,Buford,GA
+1,0,0.0,1,0,Monthly,0,Orlando,FL
+1,0,0.0,1,0,Monthly,0,Miami,FL
+0,1,1.0,1,1,Monthly,1,Christiansburg,VA
+0,0,0.0,1,1,Monthly,1,Bismarck,ND
+1,0,0.0,1,0,Monthly,0,Coppell,TX
+1,0,0.0,1,0,Monthly,0,Owings Mills,MD
+1,0,0.0,1,0,Monthly,0,Lanham,MD
+0,0,0.0,1,1,Monthly,0,Washington,DC
+0,0,0.0,1,1,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Columbus,OH
+0,0,0.0,1,0,Monthly,1,Dallas,OR
+1,0,1.0,1,1,Monthly,1,Spring,TX
+1,0,0.0,1,1,Monthly,0,Arlington,VA
+1,0,0.0,1,0,Monthly,0,Fort Washington,MD
+1,0,0.0,1,0,Monthly,0,Denver,CO
+0,0,0.0,1,1,Monthly,1,Philadelphia,PA
+1,0,0.0,1,1,Monthly,1,Palo Alto,CA
+1,0,0.0,1,0,Monthly,1,West Lafayette,IN
+0,0,0.0,1,1,Monthly,0,Washington,DC
+1,0,0.0,1,0,Monthly,0,Frederick,MD
+1,0,0.0,1,0,Monthly,0,Tampa,FL
+1,0,0.0,1,1,Monthly,0,Chicago,IL
+0,0,0.0,1,1,Monthly,0,La Mesa,CA
+1,0,0.0,1,0,Monthly,0,Burnsville,MN
+0,0,0.0,1,1,Monthly,1,Olathe,KS
+0,0,0.0,1,1,Monthly,0,Seattle,WA
+1,0,0.0,1,0,Monthly,0,Raleigh,NC
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,1,Monthly,0,Lake Forest Park,WA
+1,0,0.0,1,0,Monthly,0,Tyler,TX
+0,0,0.0,1,0,Monthly,0,Ames,IA
+1,0,0.0,1,1,Monthly,0,Mahtomedi,MN
+1,0,0.0,1,0,Monthly,0,Lafayette,IN
+0,0,0.0,1,1,Monthly,1,Ridgefield,WA
+1,0,0.0,1,1,Monthly,1,Dallas,TX
+1,0,0.0,1,0,Monthly,1,Saint Cloud,MN
+1,0,0.0,1,0,Monthly,0,Ozark,MO
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,1,Monthly,1,Buffalo,NY
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Ypsilanti,MI
+0,0,0.0,1,1,Monthly,0,Milwaukee,WI
+1,0,0.0,1,0,Monthly,0,Reno,NV
+0,0,0.0,1,1,Monthly,1,Los Angeles,CA
+0,0,0.0,1,0,Monthly,0,Portland,OR
+1,0,0.0,1,0,Monthly,0,North Salt Lake,UT
+1,0,0.0,1,0,Monthly,1,Phoenix,AZ
+0,0,1.0,1,1,Monthly,1,Tuscaloosa,AL
+0,0,0.0,1,0,Monthly,0,Lakewood,CO
+1,0,1.0,1,1,Monthly,1,Madison,WI
+0,0,0.0,1,0,Monthly,1,Tulsa,OK
+0,0,0.0,1,0,Monthly,0,Johnson City,TN
+1,0,0.0,1,0,Monthly,1,Bloomington,IN
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Lawrenceville,GA
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,1,Monthly,0,Bainbridge Island,WA
+0,0,1.0,1,1,Monthly,1,Binghamton,NY
+0,0,0.0,1,1,Monthly,1,West Caldwell,NJ
+1,0,0.0,1,1,Monthly,1,Charlestown,MA
+0,0,0.0,1,1,Monthly,0,Philadelphia,PA
+1,0,0.0,1,1,Monthly,1,Santa Monica,CA
+0,0,0.0,1,1,Monthly,0,Bridgewater,NJ
+0,0,0.0,1,1,Monthly,1,Saint Louis,MO
+1,0,0.0,1,0,Monthly,1,Tea,SD
+1,0,0.0,1,1,Monthly,1,Cary,NC
+1,0,0.0,1,1,Monthly,0,Suwanee,GA
+1,0,0.0,1,1,Monthly,1,Fall River,MA
+0,0,0.0,1,0,Monthly,0,Coeur D Alene,ID
+1,0,0.0,1,1,Monthly,0,Tampa,FL
+1,0,0.0,1,0,Monthly,1,Jackson,WI
+1,0,0.0,1,1,Monthly,1,Austin,TX
+1,0,0.0,1,0,Monthly,0,Cincinnati,OH
+0,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,0,Monthly,1,Marietta,GA
+1,0,0.0,1,1,Monthly,0,Warren,RI
+1,0,0.0,1,0,Monthly,0,Champaign,IL
+1,0,0.0,1,0,Monthly,0,Wilmington,NC
+0,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Lynnwood,WA
+1,0,0.0,1,0,Monthly,0,Saint Louis,MO
+1,0,0.0,1,1,Monthly,0,Denver,CO
+0,0,0.0,1,0,Monthly,0,Saint Louis,MO
+0,0,0.0,1,1,Monthly,0,Honolulu,HI
+1,0,0.0,1,0,Monthly,1,Alexandria,LA
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,0,Monthly,1,Clayton,NC
+1,0,0.0,1,0,Monthly,0,Bloomington,IN
+1,0,0.0,1,1,Monthly,1,Austin,TX
+0,0,0.0,1,1,Monthly,1,Charlotte,NC
+1,0,0.0,1,1,Monthly,0,Fairfax,VA
+1,0,0.0,1,0,Monthly,0,Castle Hills,TX
+1,0,0.0,1,0,Monthly,0,Corpus Christi,TX
+1,0,0.0,1,0,Monthly,1,Cincinnati,OH
+0,0,0.0,1,0,Monthly,1,Baton Rouge,LA
+0,0,0.0,1,1,Monthly,1,Charlotte,NC
+0,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,1,Monthly,1,East Orange,NJ
+1,0,0.0,1,0,Monthly,0,San Antonio,TX
+1,0,0.0,1,1,Monthly,1,Cedar Hill,TX
+1,0,0.0,1,0,Monthly,1,Olathe,KS
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,1.0,1,1,Monthly,1,Dallas,GA
+1,0,0.0,1,1,Monthly,1,Jacksonville,FL
+0,0,0.0,1,1,Monthly,0,Chicago,IL
+0,0,0.0,1,0,Monthly,0,Saint Louis,MO
+1,0,0.0,1,1,Monthly,0,Yonkers,NY
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+0,0,0.0,1,1,Monthly,1,Vancouver,WA
+1,0,0.0,1,0,Monthly,1,Tyler,TX
+1,0,0.0,1,0,Monthly,0,Euless,TX
+1,0,0.0,1,0,Monthly,0,Wichita,KS
+0,0,0.0,1,1,Monthly,1,Oregon City,OR
+0,0,0.0,1,1,Monthly,1,San Antonio,TX
+1,0,1.0,1,0,Monthly,1,Manchester,NH
+0,0,0.0,1,1,Monthly,1,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,1,1.0,1,1,Monthly,1,Castle Rock,CO
+1,0,0.0,1,0,Monthly,0,Baton Rouge,LA
+0,0,0.0,1,0,Monthly,0,Columbia,SC
+0,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,0,Monthly,1,Arlington,TX
+0,0,0.0,1,0,Monthly,0,Harrisburg,SD
+0,0,0.0,1,1,Monthly,1,Kent,WA
+1,0,0.0,1,0,Monthly,0,North Kansas City,MO
+1,0,0.0,1,0,Monthly,0,Madison,WI
+1,0,0.0,1,0,Monthly,1,Spring,TX
+0,0,0.0,1,0,Monthly,0,Chicago,IL
+0,0,0.0,1,0,Monthly,0,Kingsport,TN
+1,0,0.0,1,0,Monthly,0,Greenfield,WI
+1,0,0.0,1,0,Monthly,0,Charlotte,NC
+0,0,0.0,1,0,Monthly,1,Omaha,NE
+0,0,0.0,1,0,Monthly,0,Sioux Falls,SD
+0,0,0.0,1,0,Monthly,0,Baton Rouge,LA
+1,0,0.0,1,0,Monthly,0,Marietta,GA
+0,0,0.0,1,0,Monthly,1,Sioux Falls,SD
+0,0,0.0,1,0,Monthly,0,Lakewood,WA
+0,0,0.0,1,0,Monthly,1,Sour Lake,TX
+1,0,0.0,1,0,Monthly,0,Madison,WI
+0,0,0.0,1,1,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,0,Minneapolis,MN
+1,0,0.0,1,0,Monthly,1,Arlington,TX
+1,0,1.0,1,0,Monthly,1,Kennesaw,GA
+1,0,0.0,1,1,Monthly,1,Silver Spring,MD
+1,0,0.0,1,1,Monthly,1,Cumming,GA
+0,0,0.0,1,0,Monthly,0,Church Hill,TN
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,1,Monthly,0,Detroit,MI
+1,0,0.0,1,0,Monthly,0,Greensboro,NC
+0,0,0.0,1,1,Monthly,1,Murrieta,CA
+0,0,0.0,1,1,Monthly,1,Reston,VA
+1,0,0.0,1,0,Monthly,0,Silver Spring,MD
+1,0,0.0,1,0,Monthly,0,Youngsville,NC
+0,0,1.0,1,1,Monthly,1,Trenton,OH
+1,0,0.0,1,0,Monthly,1,Marietta,GA
+1,0,0.0,1,1,Monthly,1,Hackensack,NJ
+0,0,0.0,1,1,Monthly,1,Troutdale,OR
+1,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Colorado Springs,CO
+0,0,0.0,1,1,Monthly,1,Valley Village,CA
+1,0,0.0,1,1,Monthly,0,Concord,CA
+1,0,0.0,1,1,Monthly,0,Waldorf,MD
+0,0,0.0,1,1,Monthly,0,Arlington,VA
+0,0,0.0,1,1,Monthly,0,Miami Beach,FL
+1,0,0.0,1,0,Monthly,0,Apex,NC
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,1,Kernersville,NC
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,1.0,1,1,Monthly,1,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Winter Park,FL
+1,0,0.0,1,0,Monthly,0,Burnsville,MN
+1,0,0.0,1,1,Monthly,0,Evanston,IL
+1,0,0.0,1,0,Monthly,0,Manchester,NH
+1,0,0.0,1,1,Monthly,0,Arlington,VA
+0,0,0.0,1,0,Monthly,0,Kokomo,IN
+1,0,0.0,1,0,Monthly,1,Edmond,OK
+1,0,0.0,1,0,Monthly,1,Lebanon,OH
+1,0,0.0,1,0,Monthly,0,Las Vegas,NV
+1,0,0.0,1,0,Monthly,0,Winter Park,FL
+0,0,0.0,1,0,Monthly,0,Minot,ND
+1,0,0.0,1,0,Monthly,0,New London,CT
+1,0,0.0,1,1,Monthly,0,Lynnwood,WA
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Sun Prairie,WI
+0,1,1.0,1,1,Monthly,1,Mooresville,NC
+1,0,0.0,1,0,Monthly,0,Oklahoma City,OK
+1,0,0.0,1,0,Monthly,0,Venice,FL
+0,0,0.0,1,1,Monthly,1,Springtown,TX
+1,0,0.0,1,0,Monthly,0,Columbus,OH
+1,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Altamonte Springs,FL
+0,0,0.0,1,0,Monthly,0,Overland Park,KS
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,1,Monthly,0,Plainsboro,NJ
+1,0,0.0,1,1,Monthly,0,Madison,WI
+1,0,0.0,1,0,Monthly,0,Rocky Mount,NC
+1,0,0.0,1,1,Monthly,1,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Orlando,FL
+1,0,0.0,1,0,Monthly,0,Las Vegas,NV
+1,0,0.0,1,0,Monthly,0,Baton Rouge,LA
+1,0,0.0,1,1,Monthly,1,Signal Hill,CA
+1,0,1.0,1,1,Monthly,1,Richmond,TX
+1,0,0.0,1,0,Monthly,1,Morrisville,NC
+1,0,0.0,1,0,Monthly,0,Ann Arbor,MI
+0,0,0.0,1,1,Monthly,0,La Jolla,CA
+1,0,0.0,1,0,Monthly,0,,
+0,0,0.0,1,1,Monthly,1,Tuscaloosa,AL
+1,0,0.0,1,1,Monthly,0,Washington,DC
+0,0,0.0,1,1,Monthly,1,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Toledo,OH
+1,0,0.0,1,0,Monthly,0,Lakewood,CO
+0,0,0.0,1,1,Monthly,1,Denver,CO
+0,0,0.0,1,1,Monthly,1,Palo Alto,CA
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,1,Sioux Falls,SD
+1,0,0.0,1,0,Monthly,0,Randallstown,MD
+1,0,0.0,1,0,Monthly,0,West Des Moines,IA
+0,0,0.0,1,1,Monthly,1,Lawrenceville,GA
+1,0,0.0,1,0,Monthly,0,Dayton,OH
+1,0,0.0,1,0,Monthly,0,Sterling Heights,MI
+1,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,1,Monthly,1,Odessa,TX
+1,0,0.0,1,0,Monthly,1,Euless,TX
+1,0,0.0,1,1,Monthly,0,Livermore,CA
+1,0,0.0,1,0,Monthly,0,Milwaukee,WI
+1,0,0.0,1,0,Monthly,0,Madison,WI
+0,0,0.0,1,0,Monthly,1,Clayton,NC
+1,0,0.0,1,0,Monthly,0,Philadelphia,PA
+0,0,0.0,1,0,Monthly,0,Moorhead,MN
+0,0,0.0,1,0,Monthly,1,Junction City,KS
+0,0,0.0,1,0,Monthly,0,Chicago,IL
+0,0,0.0,1,0,Monthly,0,Saint Louis Park,MN
+1,0,0.0,1,0,Monthly,0,Pittsburgh,PA
+1,0,0.0,1,0,Monthly,0,Sioux Falls,SD
+1,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,1,Charlotte,NC
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,1,Monthly,0,Pasadena,CA
+0,0,0.0,1,0,Monthly,1,Springfield,MO
+0,0,0.0,1,1,Monthly,0,Atlanta,GA
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,1,Monthly,1,Lynnwood,WA
+1,0,0.0,1,0,Monthly,1,Graham,NC
+0,0,0.0,1,0,Monthly,0,Baltimore,MD
+1,0,0.0,1,1,Monthly,0,New Rochelle,NY
+0,0,0.0,1,0,Monthly,0,Milwaukee,WI
+1,0,0.0,1,1,Monthly,1,Manson,NC
+1,0,0.0,1,0,Monthly,0,Tallahassee,FL
+1,0,0.0,1,1,Monthly,0,Harrison,NJ
+1,0,0.0,1,1,Monthly,0,Minneapolis,MN
+1,0,0.0,1,1,Monthly,1,Hackensack,NJ
+1,0,0.0,1,0,Monthly,0,Saint Francis,WI
+1,0,0.0,1,1,Monthly,0,Austin,TX
+0,0,0.0,1,0,Monthly,0,Kenmore,WA
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,1,Monthly,1,Mequon,WI
+0,0,0.0,1,1,Monthly,1,Milan,IL
+1,0,0.0,1,1,Monthly,0,Cambridge,MA
+0,0,0.0,1,1,Monthly,1,La Vista,NE
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,1.0,1,1,Monthly,1,Pasadena,CA
+0,0,0.0,1,0,Monthly,0,Lexington,KY
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,1,Monthly,1,Charlotte,NC
+0,0,0.0,1,1,Monthly,0,State College,PA
+1,0,1.0,1,0,Monthly,0,East Lansing,MI
+1,0,0.0,1,1,Monthly,0,Woodland Hills,CA
+1,0,0.0,1,0,Monthly,1,Redding,CA
+1,0,0.0,1,0,Monthly,1,Fremont,NE
+1,0,0.0,1,0,Monthly,0,Tucson,AZ
+0,0,0.0,1,1,Monthly,0,Atlanta,GA
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,1,Raleigh,NC
+1,0,0.0,1,1,Monthly,1,Bothell,WA
+1,0,0.0,1,0,Monthly,0,Bloomington,IL
+1,0,0.0,1,0,Monthly,0,Alexandria,VA
+1,0,0.0,1,0,Monthly,1,Cumming,GA
+0,0,1.0,1,1,Monthly,1,Seattle,WA
+0,0,0.0,1,0,Monthly,1,Lubbock,TX
+0,0,0.0,1,0,Monthly,0,Sioux Falls,SD
+1,0,0.0,1,0,Monthly,0,Moraine,OH
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,0,Monthly,1,Dallas,GA
+0,0,0.0,1,1,Monthly,1,Portland,OR
+0,0,0.0,1,1,Monthly,0,Portland,OR
+1,0,0.0,1,0,Monthly,0,Oklahoma City,OK
+1,0,0.0,1,1,Monthly,0,Plainsboro,NJ
+0,0,0.0,1,1,Monthly,0,,
+1,0,0.0,1,0,Monthly,1,Houston,TX
+1,0,0.0,1,0,Monthly,1,Clairton,PA
+1,0,0.0,1,1,Monthly,0,Jersey City,NJ
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Fort Worth,TX
+1,0,0.0,1,1,Monthly,0,Westfield,NJ
+0,0,0.0,1,1,Monthly,1,Seattle,WA
+1,0,0.0,1,0,Monthly,1,Las Vegas,NV
+1,0,0.0,1,0,Monthly,0,Milwaukee,WI
+0,0,0.0,1,1,Monthly,1,Saint Louis,MO
+1,0,0.0,1,0,Monthly,0,Hickory,NC
+0,0,0.0,1,0,Monthly,0,Salt Lake City,UT
+1,0,0.0,1,1,Monthly,0,North Hollywood,CA
+1,0,0.0,1,1,Monthly,1,Montclair,NJ
+1,0,0.0,1,0,Monthly,1,Douglasville,GA
+1,0,0.0,1,0,Monthly,0,West Des Moines,IA
+0,0,0.0,1,1,Monthly,0,Silver Spring,MD
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,1,Roswell,GA
+1,0,0.0,1,0,Monthly,0,Odessa,TX
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,0,Monthly,0,Des Moines,IA
+1,0,0.0,1,0,Monthly,0,Wichita,KS
+0,0,0.0,1,1,Monthly,1,Agoura Hills,CA
+0,0,0.0,1,0,Monthly,1,Richardson,TX
+0,0,0.0,1,1,Monthly,0,,
+1,0,0.0,1,0,Monthly,0,Broadway,NC
+0,0,0.0,1,0,Monthly,0,Glendale,AZ
+1,0,0.0,1,0,Monthly,1,Grapevine,TX
+1,0,0.0,1,1,Monthly,1,Brandon,FL
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,1,Monthly,1,Bloomingdale,NJ
+1,0,0.0,1,1,Monthly,1,Pasadena,MD
+1,0,0.0,1,0,Monthly,0,Virginia Beach,VA
+1,0,0.0,1,0,Monthly,0,West Des Moines,IA
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,1,Humble,TX
+1,0,0.0,1,0,Monthly,1,Houston,TX
+1,0,1.0,1,0,Monthly,1,Acworth,GA
+0,0,0.0,1,0,Monthly,1,Tulsa,OK
+0,0,0.0,1,0,Monthly,0,West Columbia,SC
+1,0,0.0,1,0,Monthly,0,Norman,OK
+0,0,1.0,1,0,Monthly,1,Concord,NC
+0,0,0.0,1,1,Monthly,1,Portland,OR
+0,0,0.0,1,0,Monthly,0,Bellingham,WA
+1,0,0.0,1,1,Monthly,1,Charlotte,NC
+0,0,0.0,1,1,Monthly,1,Fremont,CA
+0,0,0.0,1,1,Monthly,1,Red Bluff,CA
+0,0,0.0,1,0,Monthly,1,Lubbock,TX
+1,0,0.0,1,0,Monthly,0,Alexandria,VA
+1,0,0.0,1,1,Monthly,1,Denver,CO
+1,0,0.0,1,0,Monthly,0,Tampa,FL
+0,0,0.0,1,0,Monthly,1,Fond Du Lac,WI
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,0,Monthly,0,Ames,IA
+1,0,0.0,1,1,Monthly,0,Laurel,MD
+1,0,0.0,1,0,Monthly,0,Vancouver,WA
+0,0,0.0,1,1,Monthly,0,Palo Alto,CA
+1,0,0.0,1,0,Monthly,0,Macon,GA
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,0,Monthly,0,Colorado Springs,CO
+1,0,0.0,1,0,Monthly,0,Plymouth,MN
+0,0,0.0,1,1,Monthly,1,Lemon Grove,CA
+1,0,0.0,1,0,Monthly,0,West Fargo,ND
+0,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Longview,TX
+1,0,0.0,1,1,Monthly,0,Phoenix,AZ
+1,0,0.0,1,0,Monthly,0,Norman,OK
+0,0,0.0,1,0,Monthly,1,Columbia,MO
+1,0,0.0,1,0,Monthly,0,Milwaukee,WI
+1,0,0.0,1,1,Monthly,0,Austin,TX
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+0,0,0.0,1,0,Monthly,0,San Antonio,TX
+1,0,0.0,1,0,Monthly,0,Loveland,OH
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+0,0,0.0,1,0,Monthly,0,Salem,OR
+0,0,0.0,1,0,Monthly,0,Anderson,SC
+1,0,0.0,1,0,Monthly,0,Madison,WI
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,0,Monthly,1,Gastonia,NC
+1,0,0.0,1,1,Monthly,0,Kirkland,WA
+0,0,0.0,1,0,Monthly,0,Sioux Falls,SD
+0,0,0.0,1,1,Monthly,1,Oxford,MS
+0,0,1.0,1,1,Monthly,1,Lexington,SC
+1,0,0.0,1,0,Monthly,0,Jacksonville,FL
+1,0,0.0,1,0,Monthly,0,Anchorage,AK
+1,0,0.0,1,0,Monthly,0,Springfield,MO
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,1,Monthly,0,Fulton,MD
+1,0,0.0,1,1,Monthly,1,East Rutherford,NJ
+1,0,0.0,1,0,Monthly,1,Cedar Falls,IA
+1,0,0.0,1,1,Monthly,0,Norwalk,CA
+0,0,0.0,1,1,Monthly,1,Coronado,CA
+0,0,0.0,1,1,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,1,Owings Mills,MD
+1,0,0.0,1,0,Monthly,0,Altamonte Springs,FL
+1,0,0.0,1,0,Monthly,0,Jackson,MI
+1,0,0.0,1,0,Monthly,0,Oklahoma City,OK
+0,0,0.0,1,1,Monthly,1,Christiansburg,VA
+1,0,0.0,1,0,Monthly,0,Ramsey,MN
+1,0,0.0,1,0,Monthly,0,Lawrenceville,GA
+1,0,0.0,1,0,Monthly,0,Cincinnati,OH
+0,0,0.0,1,0,Monthly,0,Saint Louis,MO
+1,0,0.0,1,0,Monthly,0,Kent,WA
+1,0,0.0,1,1,Monthly,1,Lawrence,NJ
+1,0,0.0,1,0,Monthly,0,East Lansing,MI
+1,0,0.0,1,0,Monthly,1,Irmo,SC
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,0,Monthly,0,Minneapolis,MN
+1,0,0.0,1,0,Monthly,0,Menomonee Falls,WI
+0,0,0.0,1,0,Monthly,0,San Antonio,TX
+1,0,0.0,1,0,Monthly,1,Smyrna,GA
+0,0,0.0,1,1,Monthly,1,Bismarck,ND
+1,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+0,0,0.0,1,1,Monthly,0,Hayward,CA
+1,0,0.0,1,0,Monthly,1,Houston,TX
+1,0,0.0,1,1,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Euless,TX
+1,0,1.0,1,1,Monthly,1,Urbana,IL
+1,0,0.0,1,1,Monthly,1,Mukwonago,WI
+0,0,0.0,1,0,Monthly,0,Renton,WA
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,1,Monthly,0,Manchester,CT
+0,0,0.0,1,1,Monthly,1,San Antonio,TX
+0,0,0.0,1,0,Monthly,0,Lawrence,KS
+1,0,0.0,1,0,Monthly,0,Chapel Hill,NC
+0,0,0.0,1,1,Monthly,0,Sherman Oaks,CA
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,1,Monthly,0,Washington,DC
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+0,0,0.0,1,1,Monthly,0,Palo Alto,CA
+0,0,0.0,1,1,Monthly,1,San Diego,CA
+1,0,0.0,1,0,Monthly,0,Lubbock,TX
+1,0,0.0,1,1,Monthly,1,Linthicum Heights,MD
+0,0,0.0,1,1,Monthly,0,White Plains,NY
+0,0,0.0,1,1,Monthly,1,Seattle,WA
+1,0,0.0,1,0,Monthly,0,New Kensington,PA
+1,0,0.0,1,0,Monthly,0,Spring Hill,TN
+1,0,0.0,1,0,Monthly,0,Sugar Land,TX
+1,0,0.0,1,0,Monthly,1,Hillsborough,NC
+1,0,0.0,1,0,Monthly,0,Bellmawr,NJ
+1,0,1.0,1,1,Monthly,1,Yuba City,CA
+0,0,0.0,1,1,Monthly,1,San Mateo,CA
+1,0,0.0,1,0,Monthly,0,Tucson,AZ
+1,0,0.0,1,1,Monthly,1,Alpharetta,GA
+1,0,0.0,1,0,Monthly,0,Federal Way,WA
+1,0,0.0,1,0,Monthly,0,Lexington Park,MD
+1,0,0.0,1,0,Monthly,0,North Miami,FL
+0,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,0,Monthly,1,Austin,TX
+0,0,0.0,1,0,Monthly,0,Columbus,OH
+1,0,0.0,1,1,Monthly,1,Glassboro,NJ
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+0,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,1.0,1,1,Monthly,1,Columbia,SC
+1,0,0.0,1,1,Monthly,0,Raleigh,NC
+0,0,0.0,1,1,Monthly,1,Cary,NC
+0,0,0.0,1,1,Monthly,1,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Blackwood,NJ
+1,0,0.0,1,0,Monthly,0,Madison,WI
+1,0,0.0,1,1,Monthly,0,Milwaukee,WI
+0,0,0.0,1,1,Monthly,0,Washington,DC
+1,0,1.0,1,0,Monthly,0,Springfield,MO
+1,0,0.0,1,0,Monthly,0,Ingleside,TX
+1,0,0.0,1,0,Monthly,0,Las Vegas,NV
+1,0,0.0,1,0,Monthly,0,Fond Du Lac,WI
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,0,Monthly,0,Phoenix,AZ
+1,0,0.0,1,0,Monthly,0,Milwaukee,WI
+1,0,0.0,1,0,Monthly,1,North Richland Hills,TX
+1,0,0.0,1,1,Monthly,0,Kirkland,WA
+1,0,1.0,1,0,Monthly,1,Spring,TX
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,0,Monthly,0,Rapid City,SD
+0,0,0.0,1,0,Monthly,1,Natchitoches,LA
+1,0,0.0,1,1,Monthly,1,New Rochelle,NY
+1,0,0.0,1,0,Monthly,1,Milwaukee,WI
+1,0,0.0,1,1,Monthly,0,Jersey City,NJ
+0,0,0.0,1,0,Monthly,0,Chicago,IL
+0,0,1.0,1,1,Monthly,1,Minneapolis,MN
+1,0,0.0,1,0,Monthly,0,Jamestown,NC
+0,0,0.0,1,0,Monthly,0,Vancouver,WA
+1,0,0.0,1,0,Monthly,1,Houston,TX
+0,0,0.0,1,1,Monthly,1,San Diego,CA
+1,0,0.0,1,0,Monthly,0,Fayetteville,AR
+1,0,0.0,1,0,Monthly,0,Cedar Falls,IA
+1,0,0.0,1,1,Monthly,0,West New York,NJ
+1,0,0.0,1,1,Monthly,1,Cleveland,OH
+0,0,0.0,1,0,Monthly,0,Farmington,MO
+1,0,0.0,1,1,Monthly,1,Edgewater,NJ
+0,0,0.0,1,0,Monthly,0,Oklahoma City,OK
+0,0,0.0,1,0,Monthly,1,Tulsa,OK
+0,0,0.0,1,1,Monthly,0,Seattle,WA
+1,0,0.0,1,1,Monthly,1,Roswell,GA
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Richmond,VA
+1,0,0.0,1,1,Monthly,0,Redmond,WA
+0,0,0.0,1,1,Monthly,0,Portland,OR
+1,0,1.0,1,0,Monthly,1,College Station,TX
+0,0,0.0,1,0,Monthly,0,Carbondale,IL
+1,0,0.0,1,0,Monthly,0,Pittsburgh,PA
+0,0,0.0,1,1,Monthly,0,Seattle,WA
+0,0,0.0,1,1,Monthly,1,Freeland,WA
+1,0,0.0,1,0,Monthly,0,Fort Wayne,IN
+1,0,0.0,1,0,Monthly,1,Phoenix,AZ
+0,0,0.0,1,0,Monthly,0,Phoenix,AZ
+0,0,0.0,1,0,Monthly,1,Columbia,SC
+1,0,0.0,1,0,Monthly,1,Apex,NC
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,1.0,1,0,Monthly,1,Concord,NC
+1,0,0.0,1,0,Monthly,0,New London,CT
+0,0,0.0,1,0,Monthly,0,Cedar Park,TX
+1,0,0.0,1,0,Monthly,0,Oaklyn,NJ
+0,0,0.0,1,0,Monthly,0,San Antonio,TX
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Arlington,TX
+1,0,0.0,1,1,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Lexington,KY
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+0,0,0.0,1,0,Monthly,0,Elyria,OH
+0,0,0.0,1,0,Monthly,0,Minneapolis,MN
+0,0,0.0,1,0,Monthly,0,Stillwater,OK
+1,0,0.0,1,0,Monthly,1,Dayton,OH
+1,0,0.0,1,0,Monthly,1,Fort Worth,TX
+1,0,0.0,1,0,Monthly,0,Lees Summit,MO
+0,0,0.0,1,0,Monthly,0,Wichita,KS
+1,0,0.0,1,1,Monthly,0,Long Beach,CA
+0,0,0.0,1,0,Monthly,0,Chicago,IL
+0,0,0.0,1,1,Monthly,1,Minneapolis,MN
+0,0,0.0,1,0,Monthly,1,Omaha,NE
+0,0,0.0,1,1,Monthly,1,Tampa,FL
+1,0,0.0,1,1,Monthly,1,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Akron,OH
+1,0,0.0,1,1,Monthly,0,Suwanee,GA
+0,0,0.0,1,1,Monthly,1,Bastrop,TX
+0,0,0.0,1,1,Monthly,1,Canoga Park,CA
+0,0,0.0,1,1,Monthly,1,Houston,TX
+1,0,0.0,1,0,Monthly,0,Peru,IN
+0,0,0.0,1,1,Monthly,1,Washington Township,MI
+1,0,0.0,1,1,Monthly,0,Sammamish,WA
+0,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,1,Cedar Falls,IA
+1,0,0.0,1,0,Monthly,0,Webster,TX
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+0,0,0.0,1,0,Monthly,0,Philadelphia,PA
+1,0,0.0,1,0,Monthly,0,Phoenix,AZ
+1,0,0.0,1,0,Monthly,1,Hartford,CT
+1,0,0.0,1,0,Monthly,0,Elizabethtown,KY
+1,0,0.0,1,0,Monthly,0,Tacoma,WA
+0,0,0.0,1,0,Monthly,0,Brighton,CO
+0,0,0.0,1,1,Monthly,0,Toluca Lake,CA
+1,0,0.0,1,0,Monthly,0,Springfield,MO
+0,0,0.0,1,1,Monthly,0,Portland,OR
+1,0,0.0,1,0,Monthly,0,Mountlake Terrace,WA
+1,0,0.0,1,0,Monthly,0,Edmonds,WA
+0,0,0.0,1,1,Monthly,0,Redondo Beach,CA
+1,0,0.0,1,1,Monthly,0,Weymouth,MA
+0,0,0.0,1,0,Monthly,0,Littleton,CO
+0,0,1.0,1,1,Monthly,1,Livermore,CA
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,1,Monthly,0,Philadelphia,PA
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+0,0,0.0,1,0,Monthly,0,Naperville,IL
+1,0,0.0,1,0,Monthly,0,Salt Lake City,UT
+1,0,0.0,1,0,Monthly,0,Minneapolis,MN
+1,0,0.0,1,0,Monthly,0,Wauwatosa,WI
+1,0,0.0,1,0,Monthly,0,Saint Paul,MN
+1,0,0.0,1,0,Monthly,0,Kent,WA
+1,0,0.0,1,1,Monthly,0,Denver,CO
+1,0,0.0,1,1,Monthly,1,Los Angeles,CA
+1,0,1.0,1,1,Monthly,1,Euless,TX
+1,0,0.0,1,0,Monthly,1,Edmond,OK
+1,0,0.0,1,1,Monthly,1,Odenton,MD
+1,0,0.0,1,0,Monthly,1,Roswell,GA
+1,0,0.0,1,1,Monthly,0,Redmond,WA
+0,0,0.0,1,1,Monthly,0,Austin,TX
+0,0,0.0,1,0,Monthly,1,Rochester,NY
+1,0,0.0,1,0,Monthly,0,Greensboro,NC
+1,0,0.0,1,0,Monthly,0,Indianapolis,IN
+1,0,0.0,1,0,Monthly,1,Greensboro,NC
+1,0,0.0,1,0,Monthly,0,Providence,RI
+0,0,0.0,1,0,Monthly,0,Chicago,IL
+0,0,0.0,1,1,Monthly,0,Seattle,WA
+0,0,0.0,1,0,Monthly,1,Leland,MS
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,1,Monthly,1,Brookfield,WI
+1,0,0.0,1,0,Monthly,0,Kansas City,KS
+0,0,0.0,1,1,Monthly,0,Arlington,VA
+0,0,0.0,1,1,Monthly,1,Chicago,IL
+1,0,0.0,1,1,Monthly,1,Lake Orion,MI
+1,0,0.0,1,1,Monthly,1,West New York,NJ
+0,0,0.0,1,1,Monthly,1,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,0,Monthly,0,Odessa,TX
+0,0,0.0,1,0,Monthly,0,Atlanta,GA
+1,0,0.0,1,0,Monthly,0,Pittsburgh,PA
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,0,Bothell,WA
+0,0,0.0,1,0,Monthly,0,Glenville,NY
+1,0,0.0,1,0,Monthly,1,Houston,TX
+0,0,0.0,1,0,Monthly,0,Spokane,WA
+1,0,0.0,1,0,Monthly,0,Woodbridge,VA
+1,0,0.0,1,0,Monthly,0,Raleigh,NC
+0,0,1.0,1,0,Monthly,1,Universal City,TX
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,1,Davidson,NC
+0,0,0.0,1,0,Monthly,0,Chattanooga,TN
+1,0,0.0,1,0,Monthly,1,Humble,TX
+0,0,0.0,1,1,Monthly,0,Mequon,WI
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+0,0,1.0,1,0,Monthly,1,Lincoln,AL
+1,0,0.0,1,1,Monthly,0,Denver,CO
+1,0,0.0,1,0,Monthly,1,Houston,TX
+0,0,0.0,1,0,Monthly,0,Portland,OR
+0,0,0.0,1,0,Monthly,0,Albuquerque,NM
+1,0,0.0,1,1,Monthly,0,Raleigh,NC
+1,0,0.0,1,0,Monthly,1,Nashville,TN
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Cincinnati,OH
+1,0,0.0,1,1,Monthly,0,Oak Park,IL
+1,0,0.0,1,1,Monthly,1,Windermere,FL
+1,0,0.0,1,0,Monthly,0,Milford,NH
+1,0,0.0,1,0,Monthly,0,Raleigh,NC
+1,0,0.0,1,0,Monthly,0,Mooresville,NC
+0,0,0.0,1,0,Monthly,1,Little Rock,AR
+1,0,0.0,1,0,Monthly,0,Minneapolis,MN
+1,0,0.0,1,0,Monthly,1,Cincinnati,OH
+0,0,1.0,1,1,Monthly,1,Baton Rouge,LA
+1,0,0.0,1,1,Monthly,1,West New York,NJ
+1,0,0.0,1,0,Monthly,1,Grapevine,TX
+1,0,1.0,1,1,Monthly,1,Chicago,IL
+1,0,0.0,1,0,Monthly,1,Charlotte,NC
+1,0,0.0,1,0,Monthly,1,Irmo,SC
+0,0,0.0,1,0,Monthly,0,Bloomington,MN
+1,0,0.0,1,0,Monthly,0,Pittsburgh,PA
+0,0,0.0,1,1,Monthly,0,Davenport,IA
+0,0,0.0,1,1,Monthly,0,Dover,NJ
+1,0,0.0,1,0,Monthly,1,Lithonia,GA
+1,0,0.0,1,0,Monthly,0,Tampa,FL
+1,0,0.0,1,1,Monthly,0,Washington,DC
+1,0,0.0,1,0,Monthly,1,Forest Lake,MN
+1,0,0.0,1,0,Monthly,0,Norfolk,VA
+0,0,0.0,1,0,Monthly,0,Gresham,OR
+1,0,0.0,1,0,Monthly,0,Anchorage,AK
+1,0,0.0,1,0,Monthly,0,Lafayette,IN
+1,0,0.0,1,0,Monthly,0,Denver,CO
+0,0,1.0,1,1,Monthly,1,Redmond,WA
+0,0,0.0,1,0,Monthly,1,Lincoln,AL
+0,0,0.0,1,0,Monthly,0,Milwaukee,WI
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Madison,WI
+1,0,0.0,1,0,Monthly,1,Sault Sainte Marie,MI
+0,0,0.0,1,0,Monthly,0,Lithonia,GA
+0,0,0.0,1,0,Monthly,0,San Antonio,TX
+0,0,0.0,1,1,Monthly,1,Centennial,CO
+1,0,0.0,1,0,Monthly,1,Berlin,WI
+0,0,0.0,1,1,Monthly,1,Reno,NV
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,0,Monthly,0,Weslaco,TX
+1,0,0.0,1,1,Monthly,0,Trenton,NJ
+0,0,0.0,1,0,Monthly,0,Johnson City,TN
+1,0,0.0,1,1,Monthly,0,Edina,MN
+0,0,0.0,1,1,Monthly,1,Portland,OR
+1,0,0.0,1,0,Monthly,0,Littleton,CO
+1,0,1.0,1,0,Monthly,1,Jonesboro,GA
+0,0,0.0,1,0,Monthly,1,Rock Island,IL
+1,0,0.0,1,0,Monthly,0,Groton,CT
+0,0,0.0,1,1,Monthly,1,Denver,CO
+0,0,0.0,1,0,Monthly,1,San Antonio,TX
+1,0,1.0,1,1,Monthly,1,Charlotte,NC
+1,0,0.0,1,0,Monthly,0,Shorewood,WI
+0,0,0.0,1,1,Monthly,1,Ypsilanti,MI
+1,0,0.0,1,0,Monthly,0,Duluth,GA
+1,0,0.0,1,1,Monthly,1,Burleson,TX
+1,0,0.0,1,0,Monthly,1,Neenah,WI
+1,0,0.0,1,0,Monthly,0,Indianapolis,IN
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,0,Monthly,0,Madison,WI
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,0,Woodbury,NJ
+1,0,0.0,1,0,Monthly,1,Marietta,GA
+0,0,0.0,1,0,Monthly,0,Austin,TX
+0,0,0.0,1,0,Monthly,0,Lake Oswego,OR
+1,0,0.0,1,1,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Spring,TX
+1,0,0.0,1,0,Monthly,0,Smyrna,GA
+0,0,0.0,1,1,Monthly,1,Oklahoma City,OK
+1,0,0.0,1,0,Monthly,0,Anchorage,AK
+1,0,0.0,1,1,Monthly,0,Somerset,NJ
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Omaha,NE
+0,0,0.0,1,0,Monthly,0,Williamstown,NJ
+1,0,0.0,1,0,Monthly,0,Orange,TX
+0,0,0.0,1,0,Monthly,0,Tigard,OR
+1,0,0.0,1,1,Monthly,1,Lawrenceville,GA
+1,0,0.0,1,0,Monthly,1,Franklin,IN
+1,0,0.0,1,0,Monthly,0,Macon,NC
+0,0,0.0,1,1,Monthly,1,Fort Worth,TX
+1,0,0.0,1,1,Monthly,0,Long Beach,CA
+0,0,0.0,1,0,Monthly,0,Denton,TX
+1,0,0.0,1,0,Monthly,1,Verona,WI
+0,0,0.0,1,0,Monthly,1,Brandon,FL
+0,0,0.0,1,0,Monthly,0,Ashland,OR
+1,0,0.0,1,0,Monthly,0,Anchorage,AK
+1,0,1.0,1,0,Monthly,1,Phoenix,AZ
+0,0,0.0,1,1,Monthly,1,West Hollywood,CA
+1,0,0.0,1,0,Monthly,0,Port Orchard,WA
+0,0,0.0,1,0,Monthly,1,Fort Smith,AR
+1,0,0.0,1,0,Monthly,0,Lone Tree,CO
+1,0,0.0,1,1,Monthly,0,Madison,WI
+1,0,0.0,1,0,Monthly,1,Cincinnati,OH
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Blaine,MN
+1,0,0.0,1,0,Monthly,0,Norman,OK
+1,0,0.0,1,0,Monthly,0,Springfield,MO
+0,0,0.0,1,1,Monthly,0,Arlington,VA
+1,0,0.0,1,0,Monthly,0,Portland,OR
+1,0,1.0,1,0,Monthly,1,San Antonio,TX
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+0,0,0.0,1,0,Monthly,0,Minot,ND
+1,0,1.0,1,1,Monthly,1,Tempe,AZ
+1,0,0.0,1,1,Monthly,0,Westfield,NJ
+0,0,1.0,1,1,Monthly,1,Monroe,OH
+1,0,0.0,1,0,Monthly,0,Lincoln,NE
+1,0,0.0,1,0,Monthly,0,Flanders,NJ
+1,0,0.0,1,0,Monthly,0,Spring,TX
+0,0,0.0,1,0,Monthly,1,Charlotte,NC
+1,0,0.0,1,1,Monthly,1,Bellevue,WA
+1,0,0.0,1,0,Monthly,0,Denver,CO
+1,0,0.0,1,0,Monthly,1,Tipp City,OH
+1,0,0.0,1,0,Monthly,1,Mill Creek,WA
+0,0,0.0,1,1,Monthly,0,North Hollywood,CA
+1,0,0.0,1,1,Monthly,1,South Burlington,VT
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Farmers Branch,TX
+0,0,0.0,1,1,Monthly,1,Vancouver,WA
+1,0,0.0,1,0,Monthly,1,Ripon,WI
+1,0,0.0,1,0,Monthly,0,Milwaukee,WI
+0,0,0.0,1,1,Monthly,0,Washington,DC
+1,0,0.0,1,0,Monthly,0,Woodinville,WA
+1,0,0.0,1,0,Monthly,0,Louisville,KY
+0,0,0.0,1,0,Monthly,0,Spring Park,MN
+0,0,0.0,1,1,Monthly,0,Parsippany,NJ
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+0,0,0.0,1,0,Monthly,0,Topeka,KS
+1,0,0.0,1,0,Monthly,0,Vernon,CT
+1,0,0.0,1,1,Monthly,1,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,1,1.0,1,1,Monthly,1,San Jose,CA
+0,0,0.0,1,1,Monthly,1,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Oklahoma City,OK
+0,0,0.0,1,0,Monthly,0,San Antonio,TX
+1,0,0.0,1,0,Monthly,0,West Des Moines,IA
+0,0,0.0,1,0,Monthly,0,Albuquerque,NM
+1,0,0.0,1,1,Monthly,0,Somerville,MA
+1,0,0.0,1,0,Monthly,0,Salt Lake City,UT
+1,0,0.0,1,0,Monthly,1,Tyler,TX
+1,0,0.0,1,0,Monthly,0,Lansing,MI
+1,0,1.0,1,1,Monthly,1,Lynnwood,WA
+1,0,0.0,1,0,Monthly,0,Portland,OR
+1,0,0.0,1,0,Monthly,0,Pawtucket,RI
+1,0,0.0,1,0,Monthly,0,Smyrna,TN
+1,0,0.0,1,0,Monthly,1,Platteville,WI
+1,0,0.0,1,1,Monthly,0,Lebanon,NH
+1,0,0.0,1,1,Monthly,0,Riverside,CA
+0,0,0.0,1,1,Monthly,1,West Hollywood,CA
+1,0,0.0,1,1,Monthly,0,Renton,WA
+1,0,0.0,1,1,Monthly,1,Wayne,NJ
+1,0,0.0,1,0,Monthly,1,Mesquite,TX
+0,0,0.0,1,0,Monthly,0,Sioux Falls,SD
+1,0,0.0,1,0,Monthly,0,Fayetteville,AR
+1,0,0.0,1,0,Monthly,0,Madison,WI
+1,0,0.0,1,0,Monthly,0,Saint Paul,MN
+1,0,0.0,1,0,Monthly,0,Reno,NV
+1,0,1.0,1,0,Monthly,1,Columbia,SC
+1,0,0.0,1,0,Monthly,0,Knoxville,TN
+1,0,0.0,1,0,Monthly,0,Suwanee,GA
+0,0,0.0,1,1,Monthly,1,Auburn Hills,MI
+0,0,0.0,1,1,Monthly,1,Newberg,OR
+1,0,0.0,1,0,Monthly,1,Marietta,GA
+1,0,0.0,1,0,Monthly,0,Cincinnati,OH
+1,0,0.0,1,0,Monthly,0,Las Vegas,NV
+1,0,0.0,1,0,Monthly,1,Las Vegas,NV
+1,0,0.0,1,0,Monthly,0,San Antonio,TX
+1,0,0.0,1,0,Monthly,0,Glen Burnie,MD
+1,0,0.0,1,0,Monthly,1,Euless,TX
+1,0,0.0,1,1,Monthly,0,Denver,CO
+1,0,0.0,1,0,Monthly,0,Chapel Hill,NC
+0,0,0.0,1,1,Monthly,0,Jersey City,NJ
+1,0,0.0,1,1,Monthly,0,Renton,WA
+0,0,0.0,1,0,Monthly,1,Canyon Lake,TX
+1,0,0.0,1,1,Monthly,1,South Weymouth,MA
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,1,Monthly,0,Avon,CT
+0,0,0.0,1,1,Monthly,1,Mesquite,TX
+1,0,1.0,1,0,Monthly,0,Nashua,NH
+1,0,0.0,1,0,Monthly,1,Winchester,VA
+0,0,0.0,1,1,Monthly,1,Long Beach,CA
+0,0,0.0,1,1,Monthly,0,Bozeman,MT
+1,0,0.0,1,0,Monthly,0,Cincinnati,OH
+1,0,0.0,1,0,Monthly,1,Sioux Falls,SD
+0,0,0.0,1,0,Monthly,0,Vancouver,WA
+1,0,0.0,1,0,Monthly,0,West Saint Paul,MN
+0,0,0.0,1,1,Monthly,1,Cincinnati,OH
+1,0,0.0,1,0,Monthly,1,Springfield,MO
+1,0,0.0,1,0,Monthly,0,Norman,OK
+1,0,0.0,1,0,Monthly,0,Crofton,MD
+0,0,0.0,1,1,Monthly,1,Coronado,CA
+0,0,0.0,1,0,Monthly,0,Portland,OR
+1,0,0.0,1,0,Monthly,1,Sioux Falls,SD
+1,0,0.0,1,0,Monthly,1,Arlington,TX
+0,0,0.0,1,1,Monthly,0,Seattle,WA
+0,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,1.0,1,1,Monthly,1,Fort Collins,CO
+1,0,0.0,1,0,Monthly,0,Madison,WI
+0,0,0.0,1,0,Monthly,0,Madison,WI
+1,0,0.0,1,1,Monthly,0,Arlington,VA
+0,0,0.0,1,0,Monthly,1,,
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,1,Dayton,OH
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+0,0,0.0,1,1,Monthly,1,Santa Monica,CA
+1,0,0.0,1,1,Monthly,0,Houston,TX
+0,0,0.0,1,1,Monthly,1,Pembroke Pines,FL
+1,0,0.0,1,0,Monthly,0,Orlando,FL
+0,0,0.0,1,1,Monthly,0,Kirkland,WA
+0,0,0.0,1,1,Monthly,1,Midlothian,TX
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,0,Monthly,0,Fort Collins,CO
+0,0,0.0,1,0,Monthly,0,Rogers,AR
+1,0,0.0,1,1,Monthly,1,Minneapolis,MN
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+0,0,0.0,1,1,Monthly,1,Minneapolis,MN
+1,0,0.0,1,0,Monthly,0,Prairie Village,KS
+1,0,0.0,1,0,Monthly,0,Towson,MD
+1,0,1.0,1,1,Monthly,1,Laveen,AZ
+1,0,0.0,1,0,Monthly,1,Houston,TX
+0,0,1.0,1,1,Monthly,1,Iowa City,IA
+1,0,0.0,1,1,Monthly,1,Silver Spring,MD
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Milwaukee,WI
+1,0,0.0,1,0,Monthly,0,Cherry Hill,NJ
+0,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,1,Monthly,0,Walnut Creek,CA
+1,0,0.0,1,0,Monthly,1,Las Vegas,NV
+0,0,0.0,1,1,Monthly,1,San Jose,CA
+0,0,0.0,1,1,Monthly,1,Lancaster,TX
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Cincinnati,OH
+1,0,0.0,1,0,Monthly,0,Bloomington,MN
+0,0,0.0,1,0,Monthly,0,Bentonville,AR
+0,0,0.0,1,0,Monthly,1,Monroe,MI
+1,0,0.0,1,0,Monthly,0,Tucson,AZ
+1,0,0.0,1,0,Monthly,0,Milwaukee,WI
+0,0,0.0,1,1,Monthly,0,Jersey City,NJ
+1,0,0.0,1,1,Monthly,1,West New York,NJ
+0,0,0.0,1,0,Monthly,0,Grand Junction,CO
+0,0,0.0,1,0,Monthly,0,Palestine,TX
+1,0,0.0,1,0,Monthly,0,Independence,MO
+1,0,0.0,1,1,Monthly,0,Randolph,MA
+0,0,0.0,1,1,Monthly,1,Irondale,AL
+0,0,0.0,1,1,Monthly,1,Philadelphia,PA
+0,0,0.0,1,0,Monthly,1,Bryan,TX
+0,0,0.0,1,1,Monthly,0,Seattle,WA
+1,0,0.0,1,0,Monthly,0,Frisco,TX
+1,0,0.0,1,1,Monthly,1,Los Angeles,CA
+1,0,0.0,1,1,Monthly,1,Knoxville,TN
+1,0,0.0,1,0,Monthly,0,Raleigh,NC
+1,0,0.0,1,0,Monthly,1,Humble,TX
+1,0,0.0,1,1,Monthly,0,Renton,WA
+0,0,0.0,1,0,Monthly,0,Minneapolis,MN
+1,0,0.0,1,1,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Minneapolis,MN
+1,0,0.0,1,0,Monthly,1,Round Rock,TX
+0,0,1.0,1,1,Monthly,1,Cameron Park,CA
+1,0,0.0,1,1,Monthly,1,Odenton,MD
+0,0,0.0,1,0,Monthly,0,Tuscaloosa,AL
+0,0,0.0,1,1,Monthly,0,Wayne,PA
+0,0,0.0,1,1,Monthly,1,Los Angeles,CA
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Kennesaw,GA
+1,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Flanders,NJ
+1,0,0.0,1,1,Monthly,1,Long Beach,CA
+0,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,1,Monthly,0,Revere,MA
+1,0,0.0,1,0,Monthly,0,Michigan City,IN
+1,0,0.0,1,0,Monthly,1,Marietta,GA
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Milwaukee,WI
+0,0,0.0,1,1,Monthly,1,Bloomington,IN
+0,0,0.0,1,0,Monthly,1,Grand Forks,ND
+0,0,0.0,1,1,Monthly,0,Bismarck,ND
+0,0,0.0,1,0,Monthly,0,Ferndale,MI
+1,0,0.0,1,1,Monthly,0,Denver,CO
+1,0,0.0,1,0,Monthly,0,Las Vegas,NV
+1,0,0.0,1,1,Monthly,0,North Bergen,NJ
+1,0,0.0,1,0,Monthly,0,Brookfield,WI
+1,0,0.0,1,0,Monthly,0,Lakewood,OH
+1,0,0.0,1,0,Monthly,1,Cary,NC
+1,0,0.0,1,1,Monthly,1,East Lansing,MI
+1,0,0.0,1,0,Monthly,0,Cincinnati,OH
+1,0,0.0,1,1,Monthly,1,Northridge,CA
+1,0,0.0,1,0,Monthly,0,Saint Louis,MO
+1,0,0.0,1,1,Monthly,1,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,1,Monthly,0,Seattle,WA
+1,0,0.0,1,1,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,1,Meriden,CT
+0,0,0.0,1,1,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,,
+1,0,0.0,1,0,Monthly,0,,
+0,0,0.0,1,0,Monthly,0,Atlanta,GA
+0,0,0.0,1,1,Monthly,1,West Palm Beach,FL
+1,0,0.0,1,0,Monthly,0,Kent,WA
+1,0,0.0,1,0,Monthly,1,Indianapolis,IN
+1,0,0.0,1,0,Monthly,0,Ypsilanti,MI
+1,0,0.0,1,0,Monthly,0,Milwaukee,WI
+1,0,0.0,1,0,Monthly,0,San Bernardino,CA
+1,0,0.0,1,0,Monthly,0,Bolingbrook,IL
+1,0,0.0,1,1,Monthly,0,Sacramento,CA
+1,0,0.0,1,1,Monthly,1,Tempe,AZ
+0,0,0.0,1,0,Monthly,0,La Vista,NE
+1,0,0.0,1,0,Monthly,0,Colorado Springs,CO
+1,0,0.0,1,1,Monthly,0,Baltimore,MD
+1,0,0.0,1,0,Monthly,0,Temple Hills,MD
+1,0,0.0,1,1,Monthly,0,Chicago,IL
+0,0,0.0,1,1,Monthly,1,Kansas City,MO
+0,0,0.0,1,0,Monthly,0,Mound,MN
+0,0,0.0,1,0,Monthly,1,Valdosta,GA
+0,0,1.0,1,1,Monthly,1,Clermont,FL
+1,0,0.0,1,0,Monthly,0,Portland,OR
+1,0,0.0,1,0,Monthly,0,Norman,OK
+1,0,0.0,1,0,Monthly,1,Mosinee,WI
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,0,Monthly,1,Ankeny,IA
+0,0,0.0,1,1,Monthly,0,Bethesda,MD
+1,0,0.0,1,0,Monthly,0,Lebanon,IN
+1,0,0.0,1,0,Monthly,0,Cherry Hill,NJ
+0,0,1.0,1,1,Monthly,1,Bothell,WA
+1,0,0.0,1,0,Monthly,0,Minnetonka,MN
+1,0,0.0,1,1,Monthly,1,Lynnwood,WA
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,1,Monthly,1,Orange,CA
+1,0,0.0,1,1,Monthly,1,Arlington,TX
+1,0,0.0,1,1,Monthly,1,Reno,NV
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Omaha,NE
+0,0,0.0,1,1,Monthly,1,Portland,OR
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+0,0,0.0,1,0,Monthly,0,Everett,WA
+1,0,0.0,1,1,Monthly,0,Portland,OR
+1,0,0.0,1,0,Monthly,0,Grandview,MO
+0,0,0.0,1,0,Monthly,0,Fort Worth,TX
+1,0,0.0,1,1,Monthly,1,Burtonsville,MD
+1,0,0.0,1,0,Monthly,0,Lexington,KY
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,1,Lancaster,TX
+0,0,0.0,1,0,Monthly,0,Big Rapids,MI
+0,0,0.0,1,0,Monthly,0,Cincinnati,OH
+1,0,0.0,1,1,Monthly,1,New Braunfels,TX
+0,0,0.0,1,0,Monthly,0,Minot,ND
+1,0,0.0,1,0,Monthly,0,Conway,AR
+1,0,0.0,1,0,Monthly,1,Lithonia,GA
+0,0,0.0,1,1,Monthly,0,Washington,DC
+0,0,0.0,1,0,Monthly,0,Clarksville,TN
+1,0,0.0,1,0,Monthly,1,Cincinnati,OH
+1,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,0,Woodbridge,VA
+1,0,0.0,1,1,Monthly,0,Long Beach,CA
+1,0,0.0,1,0,Monthly,0,Willoughby,OH
+0,0,0.0,1,0,Monthly,1,Jonesboro,AR
+1,0,0.0,1,0,Monthly,0,Lynnwood,WA
+0,0,0.0,1,0,Monthly,0,Galveston,TX
+1,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,0,Los Angeles,CA
+0,0,0.0,1,1,Monthly,0,Bend,OR
+0,0,0.0,1,0,Monthly,0,Atlanta,GA
+1,0,0.0,1,0,Monthly,0,Fayetteville,AR
+0,0,0.0,1,1,Monthly,1,Bella Vista,AR
+0,0,0.0,1,0,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,1,Greensboro,NC
+0,0,0.0,1,0,Monthly,0,Kingsport,TN
+0,0,0.0,1,0,Monthly,1,Taylorsville,UT
+1,0,0.0,1,1,Monthly,0,San Pablo,CA
+1,0,0.0,1,1,Monthly,1,Issaquah,WA
+1,0,0.0,1,1,Monthly,0,Westwood,NJ
+1,0,1.0,1,1,Monthly,1,Marietta,GA
+1,0,0.0,1,0,Monthly,0,Somerset,NJ
+1,0,0.0,1,0,Monthly,0,Raleigh,NC
+0,0,0.0,1,1,Monthly,0,Portland,OR
+0,0,0.0,1,1,Monthly,1,Rancho Santa Margarita,CA
+1,0,0.0,1,0,Monthly,1,Gastonia,NC
+1,0,0.0,1,0,Monthly,0,Chandler,AZ
+1,0,0.0,1,1,Monthly,0,Bellevue,WA
+1,0,0.0,1,0,Monthly,0,Minneapolis,MN
+1,0,0.0,1,0,Monthly,0,Euless,TX
+1,0,0.0,1,1,Monthly,0,Alexandria,VA
+1,0,0.0,1,0,Monthly,0,Columbus,IN
+1,0,0.0,1,1,Monthly,1,Verona,WI
+1,0,0.0,1,0,Monthly,0,Portland,OR
+0,0,0.0,1,0,Monthly,0,Brighton,CO
+1,0,0.0,1,0,Monthly,0,Nashville,TN
+1,0,0.0,1,1,Monthly,1,Ames,IA
+0,0,0.0,1,0,Monthly,0,Denver,CO
+1,0,0.0,1,0,Monthly,0,Euless,TX
+0,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Oaklyn,NJ
+0,0,0.0,1,1,Monthly,0,Artesia,CA
+1,0,0.0,1,0,Monthly,0,Ann Arbor,MI
+1,0,0.0,1,0,Monthly,0,Fort Washington,MD
+1,0,0.0,1,0,Monthly,0,Madison,WI
+0,0,0.0,1,0,Monthly,0,Memphis,TN
+0,0,0.0,1,1,Monthly,0,Martinez,CA
+1,0,0.0,1,1,Monthly,1,Colorado Springs,CO
+1,0,0.0,1,0,Monthly,1,Cleveland,OH
+1,0,0.0,1,0,Monthly,0,Tyler,TX
+1,0,0.0,1,1,Monthly,0,Salt Lake City,UT
+1,0,0.0,1,0,Monthly,1,Las Vegas,NV
+1,0,0.0,1,0,Monthly,0,Lawrence,KS
+1,0,0.0,1,0,Monthly,1,Noblesville,IN
+1,0,0.0,1,1,Monthly,1,Riverton,NJ
+1,0,0.0,1,0,Monthly,0,Renton,WA
+0,0,0.0,1,1,Monthly,0,Arlington,VA
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,1,Mebane,NC
+1,0,0.0,1,1,Monthly,1,Austin,TX
+1,0,0.0,1,0,Monthly,0,Arlington,TX
+1,0,0.0,1,0,Monthly,0,Waterloo,IA
+1,0,0.0,1,0,Monthly,1,Burleson,TX
+1,0,0.0,1,0,Monthly,0,O Fallon,MO
+1,0,0.0,1,0,Monthly,1,Charlotte,NC
+1,0,0.0,1,0,Monthly,0,Lafayette,IN
+1,0,0.0,1,0,Monthly,0,Olathe,KS
+1,0,0.0,1,0,Monthly,0,Arlington,TX
+1,0,0.0,1,0,Monthly,1,West Lafayette,IN
+0,0,0.0,1,0,Monthly,1,Clayton,NC
+0,0,0.0,1,0,Monthly,0,Pewaukee,WI
+1,0,0.0,1,1,Monthly,0,Cincinnati,OH
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Oklahoma City,OK
+0,0,0.0,1,0,Monthly,1,Omaha,NE
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,1,Monthly,0,Elizabeth,NJ
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,0,Monthly,0,Raleigh,NC
+1,0,0.0,1,1,Monthly,1,Mesquite,TX
+1,0,0.0,1,0,Monthly,0,Charlotte,NC
+0,0,0.0,1,0,Monthly,0,Springfield,MO
+1,0,0.0,1,1,Monthly,1,San Diego,CA
+1,0,0.0,1,1,Monthly,0,Landover,MD
+0,0,0.0,1,0,Monthly,1,Elgin,SC
+0,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,0,Monthly,0,Durham,NC
+1,0,1.0,1,1,Monthly,1,Brandon,FL
+0,0,0.0,1,1,Monthly,1,Alexandria,VA
+1,0,1.0,1,1,Monthly,1,Chicago,IL
+1,0,0.0,1,0,Monthly,0,West Bend,WI
+0,0,0.0,1,0,Monthly,1,High Point,NC
+0,0,0.0,1,0,Monthly,0,Springfield,VA
+0,0,0.0,1,0,Monthly,1,Spokane Valley,WA
+1,0,0.0,1,0,Monthly,0,Anchorage,AK
+0,0,0.0,1,0,Monthly,1,Indianapolis,IN
+0,0,0.0,1,1,Monthly,1,Omaha,NE
+0,0,0.0,1,0,Monthly,0,Grand Junction,CO
+1,0,0.0,1,0,Monthly,0,Baltimore,MD
+0,0,0.0,1,0,Monthly,0,Oklahoma City,OK
+1,0,0.0,1,0,Monthly,0,Hammond,LA
+1,0,0.0,1,1,Monthly,0,Long Branch,NJ
+0,0,0.0,1,0,Monthly,0,Tulsa,OK
+1,0,0.0,1,0,Monthly,0,Port Arthur,TX
+1,0,0.0,1,0,Monthly,0,Elkridge,MD
+1,0,0.0,1,0,Monthly,0,Renton,WA
+1,0,0.0,1,0,Monthly,0,Kalamazoo,MI
+0,0,0.0,1,1,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,1,Lynnwood,WA
+1,0,0.0,1,0,Monthly,0,Tempe,AZ
+1,0,0.0,1,1,Monthly,0,Detroit,MI
+1,0,0.0,1,1,Monthly,1,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Anchorage,AK
+1,0,0.0,1,0,Monthly,0,Pittsburgh,PA
+0,0,0.0,1,0,Monthly,0,Maple Shade,NJ
+1,0,0.0,1,0,Monthly,1,Bloomington,IN
+1,0,0.0,1,0,Monthly,0,Saint Joseph,MO
+1,0,0.0,1,1,Monthly,1,State College,PA
+0,0,0.0,1,0,Monthly,0,Tigard,OR
+1,0,0.0,1,1,Monthly,0,Kirkland,WA
+0,0,0.0,1,0,Monthly,0,Austin,TX
+0,0,0.0,1,0,Monthly,0,Chicago,IL
+0,0,0.0,1,1,Monthly,1,Austin,TX
+1,0,0.0,1,0,Monthly,1,Euless,TX
+1,0,0.0,1,0,Monthly,0,Kansas City,KS
+1,0,0.0,1,0,Monthly,0,Maumee,OH
+1,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,1,Monthly,1,San Francisco,CA
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+0,0,0.0,1,1,Monthly,1,Seattle,WA
+1,0,0.0,1,0,Monthly,0,Johnston,IA
+0,0,0.0,1,1,Monthly,0,Redondo Beach,CA
+1,0,0.0,1,1,Monthly,1,Chicago,IL
+0,0,0.0,1,1,Monthly,0,Dallas,TX
+1,0,0.0,1,1,Monthly,0,Collingswood,NJ
+0,0,0.0,1,1,Monthly,1,Wasilla,AK
+1,0,0.0,1,1,Monthly,1,Issaquah,WA
+0,0,1.0,1,0,Monthly,1,Lincoln,AL
+0,0,0.0,1,0,Monthly,0,Hope Mills,NC
+1,0,0.0,1,0,Monthly,0,Anchorage,AK
+0,0,0.0,1,0,Monthly,0,Liberty Hill,TX
+1,0,0.0,1,1,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Columbus,OH
+1,0,0.0,1,0,Monthly,0,Clearwater,FL
+0,0,0.0,1,0,Monthly,0,Abilene,TX
+0,0,0.0,1,0,Monthly,0,Seattle,WA
+0,0,0.0,1,0,Monthly,1,Lafayette,LA
+1,0,1.0,1,1,Monthly,1,Lexington,SC
+1,0,0.0,1,1,Monthly,1,Mountlake Terrace,WA
+1,0,0.0,1,1,Monthly,0,Norfolk,VA
+1,0,0.0,1,0,Monthly,1,Kansas City,MO
+0,1,1.0,1,0,Monthly,1,Cullowhee,NC
+1,0,0.0,1,0,Monthly,0,Salt Lake City,UT
+0,0,0.0,1,0,Monthly,0,Oklahoma City,OK
+1,0,0.0,1,1,Monthly,0,Chicago,IL
+0,0,1.0,1,1,Monthly,1,Mckinney,TX
+1,0,0.0,1,0,Monthly,0,Portland,OR
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Gainesville,FL
+1,0,0.0,1,0,Monthly,0,Plano,TX
+1,0,0.0,1,0,Monthly,0,Chattanooga,TN
+0,0,0.0,1,0,Monthly,0,Minot,ND
+1,0,0.0,1,0,Monthly,0,Davenport,IA
+0,0,0.0,1,1,Monthly,1,Jupiter,FL
+0,0,0.0,1,0,Monthly,0,Minot,ND
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,1,Monthly,1,Marietta,GA
+0,0,0.0,1,1,Monthly,1,Philadelphia,PA
+0,0,0.0,1,1,Monthly,1,Greenville,NC
+1,0,0.0,1,0,Monthly,1,Indianapolis,IN
+1,0,0.0,1,1,Monthly,0,Fox Point,WI
+0,0,0.0,1,1,Monthly,1,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Reisterstown,MD
+1,0,0.0,1,0,Monthly,0,Longview,TX
+1,0,0.0,1,0,Monthly,0,Colorado Springs,CO
+1,0,0.0,1,1,Monthly,1,Wildomar,CA
+1,0,0.0,1,0,Monthly,0,Plainfield,IN
+1,0,0.0,1,1,Monthly,1,Seattle,WA
+0,0,0.0,1,1,Monthly,0,Atlanta,GA
+0,0,0.0,1,1,Monthly,1,Atlanta,GA
+1,0,0.0,1,0,Monthly,1,Miamisburg,OH
+1,0,0.0,1,0,Monthly,1,Alpharetta,GA
+0,0,0.0,1,1,Monthly,1,Sarasota,FL
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,1,Maple Valley,WA
+1,0,0.0,1,0,Monthly,0,Tallahassee,FL
+0,0,0.0,1,1,Monthly,1,North Hollywood,CA
+1,0,0.0,1,0,Monthly,0,Las Vegas,NV
+0,0,0.0,1,0,Monthly,0,Phoenix,AZ
+1,0,0.0,1,0,Monthly,1,Greensboro,NC
+1,0,0.0,1,0,Monthly,1,Douglasville,GA
+1,0,0.0,1,1,Monthly,0,Lakewood,CO
+0,0,0.0,1,0,Monthly,0,Beaverton,OR
+1,0,0.0,1,1,Monthly,0,Roseville,CA
+1,0,1.0,1,0,Monthly,1,Fort Worth,TX
+0,0,0.0,1,1,Monthly,0,Arlington,VA
+1,0,1.0,1,1,Monthly,1,Renton,WA
+1,0,0.0,1,1,Monthly,1,Springfield,MO
+1,0,0.0,1,1,Monthly,1,Silver Spring,MD
+1,0,0.0,1,0,Monthly,0,Corpus Christi,TX
+0,0,0.0,1,0,Monthly,0,Metairie,LA
+0,0,0.0,1,1,Monthly,1,Columbus,OH
+1,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Haverhill,MA
+0,0,0.0,1,1,Monthly,0,Seattle,WA
+1,0,0.0,1,0,Monthly,0,New London,CT
+1,0,0.0,1,0,Monthly,0,,
+1,0,0.0,1,0,Monthly,0,Sugar Land,TX
+0,1,1.0,1,1,Monthly,1,Providence,RI
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,1,Monthly,0,Baltimore,MD
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+0,0,0.0,1,1,Monthly,0,Cambridge,MA
+0,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,0,Monthly,0,Portland,OR
+1,0,0.0,1,0,Monthly,1,Madison,WI
+1,0,0.0,1,0,Monthly,0,Macon,GA
+1,0,0.0,1,1,Monthly,0,Sammamish,WA
+0,0,0.0,1,1,Monthly,1,Atlanta,GA
+1,0,0.0,1,0,Monthly,0,Jersey City,NJ
+1,0,0.0,1,1,Monthly,0,Miami Beach,FL
+1,0,0.0,1,0,Monthly,0,Fort Washington,MD
+1,0,0.0,1,0,Monthly,0,Colorado Springs,CO
+1,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,1,Monthly,0,White Plains,NY
+1,0,0.0,1,0,Monthly,0,Port Saint Lucie,FL
+0,0,0.0,1,0,Monthly,0,Boise,ID
+0,0,0.0,1,0,Monthly,0,Ridley Park,PA
+0,0,0.0,1,1,Monthly,1,Fairfax,VA
+1,0,0.0,1,0,Monthly,0,Rochester,NY
+1,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Butner,NC
+1,0,0.0,1,0,Monthly,1,Dallas,GA
+1,0,0.0,1,1,Monthly,1,Greeley,CO
+1,0,0.0,1,0,Monthly,0,Stratford,NJ
+1,0,0.0,1,1,Monthly,0,Kent,WA
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,1,Monthly,1,Suwanee,GA
+0,0,0.0,1,1,Monthly,0,Chicago,IL
+1,0,0.0,1,1,Monthly,0,,
+1,0,0.0,1,0,Monthly,1,Bedford,TX
+1,0,0.0,1,1,Monthly,0,Kent,WA
+0,0,0.0,1,1,Monthly,0,Washington,DC
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,1,Channelview,TX
+1,0,0.0,1,0,Monthly,0,Kenosha,WI
+1,0,0.0,1,0,Monthly,0,Madison,WI
+0,0,0.0,1,1,Monthly,1,Omaha,NE
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Durham,NC
+0,0,0.0,1,0,Monthly,0,Austin,TX
+0,0,0.0,1,1,Monthly,1,Arcadia,CA
+0,0,0.0,1,0,Monthly,0,De Soto,KS
+1,0,0.0,1,1,Monthly,0,Long Beach,CA
+0,0,0.0,1,0,Monthly,0,West Palm Beach,FL
+1,0,0.0,1,0,Monthly,0,Anchorage,AK
+1,0,0.0,1,0,Monthly,0,Milwaukee,WI
+1,0,0.0,1,1,Monthly,1,Seattle,WA
+0,0,0.0,1,1,Monthly,1,Liberty Hill,TX
+0,0,1.0,1,1,Monthly,1,Arvada,CO
+1,0,0.0,1,0,Monthly,0,San Diego,CA
+0,0,0.0,1,0,Monthly,1,Las Vegas,NV
+0,0,0.0,1,0,Monthly,1,Rogers,AR
+0,0,0.0,1,0,Monthly,1,Saint Louis,MI
+0,0,0.0,1,0,Monthly,1,Fort Smith,AR
+1,0,0.0,1,1,Monthly,1,Silver Spring,MD
+1,0,0.0,1,0,Monthly,0,Auburn,AL
+1,0,0.0,1,1,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,1,Monthly,1,Sherman Oaks,CA
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Urbana,IL
+1,0,0.0,1,0,Monthly,0,Odessa,FL
+1,0,0.0,1,0,Monthly,0,Saint Paul,MN
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,0,Monthly,1,Sarasota,FL
+1,0,0.0,1,0,Monthly,0,West Lafayette,IN
+1,0,0.0,1,0,Monthly,1,Raleigh,NC
+1,0,0.0,1,0,Monthly,0,Odessa,TX
+1,0,0.0,1,0,Monthly,1,Brookfield,WI
+1,0,0.0,1,1,Monthly,0,Medford,MA
+1,0,0.0,1,0,Monthly,0,Baltimore,MD
+1,0,0.0,1,0,Monthly,0,Madison,WI
+0,0,0.0,1,1,Monthly,0,Plainfield,NJ
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,0,Monthly,0,Fort Collins,CO
+0,0,0.0,1,0,Monthly,1,Battle Ground,WA
+0,0,0.0,1,1,Monthly,1,Hillsboro,OR
+1,0,0.0,1,1,Monthly,1,Glassboro,NJ
+0,0,0.0,1,0,Monthly,1,Springfield,MI
+0,0,0.0,1,0,Monthly,0,Overland Park,KS
+1,0,0.0,1,0,Monthly,0,Euless,TX
+1,0,0.0,1,0,Monthly,0,San Diego,CA
+0,0,0.0,1,1,Monthly,1,Philadelphia,PA
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Abilene,TX
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,0,Monthly,0,National City,CA
+0,0,0.0,1,1,Monthly,0,Oakland,CA
+1,0,0.0,1,0,Monthly,0,Baltimore,MD
+1,0,0.0,1,1,Monthly,0,New Bedford,MA
+1,0,0.0,1,1,Monthly,1,Arlington,TX
+1,0,0.0,1,0,Monthly,1,Apex,NC
+0,0,0.0,1,1,Monthly,0,Chicago,IL
+0,0,0.0,1,1,Monthly,1,Denver,CO
+1,0,0.0,1,1,Monthly,1,Florham Park,NJ
+1,0,0.0,1,0,Monthly,1,Mc Farland,WI
+1,0,0.0,1,0,Monthly,0,Owings Mills,MD
+1,0,0.0,1,1,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Randallstown,MD
+1,0,0.0,1,0,Monthly,1,Fargo,ND
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,0,Monthly,1,Glendale,AZ
+0,0,0.0,1,0,Monthly,0,Phoenix,AZ
+1,0,1.0,1,1,Monthly,1,Lynnwood,WA
+1,0,0.0,1,1,Monthly,1,Madison,WI
+0,0,0.0,1,0,Monthly,0,Philadelphia,PA
+1,0,0.0,1,0,Monthly,0,Commerce,TX
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,0,Monthly,0,Cordova,TN
+1,1,1.0,1,1,Monthly,1,Redmond,WA
+0,0,0.0,1,0,Monthly,1,Plymouth,IN
+0,0,0.0,1,1,Monthly,0,Raleigh,NC
+0,0,0.0,1,0,Monthly,0,Marietta,GA
+1,0,0.0,1,1,Monthly,1,Manchester,CT
+0,0,0.0,1,0,Monthly,0,Columbia,MO
+1,0,0.0,1,1,Monthly,1,Princeton,NJ
+1,0,0.0,1,0,Monthly,0,Gilbert,AZ
+1,0,0.0,1,0,Monthly,0,Pittsburgh,PA
+1,0,0.0,1,0,Monthly,0,Anchorage,AK
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Ypsilanti,MI
+0,0,0.0,1,0,Monthly,0,Milwaukee,WI
+1,0,0.0,1,0,Monthly,0,Austin,TX
+0,0,0.0,1,0,Monthly,1,Philadelphia,PA
+0,0,0.0,1,1,Monthly,1,Woodbridge,NJ
+1,0,0.0,1,0,Monthly,0,Grapevine,TX
+0,0,0.0,1,1,Monthly,0,Hanover,MD
+1,0,0.0,1,0,Monthly,0,Milwaukee,WI
+1,0,0.0,1,0,Monthly,1,Concord,NC
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+0,0,0.0,1,1,Monthly,1,Bellingham,WA
+1,0,0.0,1,0,Monthly,0,Van Wert,OH
+0,0,0.0,1,0,Monthly,0,Ames,IA
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,1,Enterprise,AL
+1,0,0.0,1,1,Monthly,0,Philadelphia,PA
+0,0,0.0,1,0,Monthly,1,Burlington,ND
+1,0,0.0,1,0,Monthly,0,Las Vegas,NV
+0,0,0.0,1,0,Monthly,0,Slc,UT
+1,0,0.0,1,0,Monthly,1,Edmonds,WA
+0,0,0.0,1,1,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Milwaukee,WI
+1,0,0.0,1,0,Monthly,0,Cleveland,OH
+1,0,0.0,1,1,Monthly,1,Roswell,GA
+0,0,0.0,1,0,Monthly,0,Oklahoma City,OK
+1,0,0.0,1,0,Monthly,1,Bethlehem,GA
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,0,Monthly,0,Anderson,IN
+1,0,0.0,1,0,Monthly,1,Indianapolis,IN
+0,0,0.0,1,0,Monthly,1,Georgetown,TX
+0,0,1.0,1,1,Monthly,1,Georgetown,TX
+0,0,0.0,1,0,Monthly,0,Harlingen,TX
+1,0,0.0,1,0,Monthly,0,Little Rock,AR
+1,0,0.0,1,0,Monthly,1,Clayton,NC
+1,0,0.0,1,0,Monthly,0,Lithonia,GA
+1,0,0.0,1,1,Monthly,1,Madison,WI
+1,0,0.0,1,0,Monthly,0,Moncure,NC
+1,0,0.0,1,0,Monthly,1,Euless,TX
+0,0,0.0,1,1,Monthly,1,Lake Orion,MI
+0,1,1.0,1,1,Monthly,1,Los Angeles,CA
+0,0,0.0,1,1,Monthly,1,Pflugerville,TX
+1,0,0.0,1,0,Monthly,0,Longview,TX
+1,0,0.0,1,0,Monthly,0,Memphis,TN
+1,0,0.0,1,0,Monthly,0,Bloomington,IN
+1,0,0.0,1,1,Monthly,0,Allston,MA
+0,0,0.0,1,0,Monthly,1,Plano,TX
+1,0,0.0,1,0,Monthly,0,Lawrenceville,GA
+0,0,0.0,1,0,Monthly,0,Marietta,GA
+0,0,0.0,1,0,Monthly,1,Rolla,MO
+1,0,0.0,1,0,Monthly,0,Davenport,IA
+0,0,0.0,1,0,Monthly,0,Jacksonville,FL
+0,0,0.0,1,0,Monthly,0,Vancouver,WA
+1,0,0.0,1,1,Monthly,1,Mountain View,CA
+1,0,0.0,1,0,Monthly,1,Round Rock,TX
+0,0,0.0,1,1,Monthly,1,Hanover,MD
+1,0,0.0,1,0,Monthly,0,Saint Louis,MO
+1,0,0.0,1,0,Monthly,1,Indianapolis,IN
+1,0,0.0,1,0,Monthly,0,Madison,WI
+1,0,0.0,1,0,Monthly,0,San Antonio,TX
+1,0,0.0,1,1,Monthly,0,Minneapolis,MN
+1,0,0.0,1,1,Monthly,0,Washington,DC
+0,0,0.0,1,1,Monthly,1,Ridgefield,WA
+0,0,0.0,1,0,Monthly,0,Indianapolis,IN
+1,0,0.0,1,0,Monthly,0,Bedford,TX
+1,0,0.0,1,0,Monthly,0,Evanston,IL
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Daytona Beach,FL
+0,0,0.0,1,0,Monthly,1,Portland,OR
+0,0,0.0,1,0,Monthly,0,Milwaukee,WI
+0,0,0.0,1,0,Monthly,0,Austin,TX
+0,0,0.0,1,0,Monthly,0,Denver,CO
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+0,0,1.0,1,1,Monthly,1,Saint Cloud,FL
+1,0,0.0,1,1,Monthly,0,Alameda,CA
+0,0,0.0,1,0,Monthly,0,Eagan,MN
+1,0,1.0,1,0,Monthly,1,Gastonia,NC
+0,0,0.0,1,0,Monthly,0,Oklahoma City,OK
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+0,0,0.0,1,0,Monthly,0,Lexington,KY
+0,0,0.0,1,0,Monthly,1,Canal Fulton,OH
+1,0,0.0,1,1,Monthly,1,Madison,WI
+0,0,1.0,1,1,Monthly,1,Clayton,NC
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,0,Monthly,0,Manchester,NH
+1,0,0.0,1,0,Monthly,0,Milwaukee,WI
+0,0,0.0,1,0,Monthly,0,Phoenix,AZ
+1,0,0.0,1,0,Monthly,1,Waterloo,IA
+0,0,1.0,1,1,Monthly,1,Bloomington,IN
+1,0,0.0,1,0,Monthly,0,Glen Burnie,MD
+1,0,0.0,1,0,Monthly,0,Verona,WI
+0,0,0.0,1,1,Monthly,1,Ponte Vedra,FL
+1,0,0.0,1,1,Monthly,0,Kirkland,WA
+0,0,0.0,1,0,Monthly,0,Grandview Heights,OH
+1,0,0.0,1,0,Monthly,0,Colorado Springs,CO
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+0,0,0.0,1,1,Monthly,0,Oakland,CA
+1,0,0.0,1,0,Monthly,0,Urbandale,IA
+1,0,0.0,1,0,Monthly,0,Middlesex,NC
+0,0,0.0,1,1,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,1,Saint Louis,MO
+1,0,0.0,1,0,Monthly,0,Fort Worth,TX
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,1,Blue Springs,MO
+0,0,0.0,1,0,Monthly,1,Huntersville,NC
+0,0,0.0,1,0,Monthly,0,Scottsdale,AZ
+1,0,0.0,1,0,Monthly,1,Cincinnati,OH
+1,0,0.0,1,1,Monthly,0,Seattle,WA
+0,0,0.0,1,0,Monthly,0,Salt Lake City,UT
+1,0,0.0,1,0,Monthly,0,Portland,OR
+0,0,0.0,1,0,Monthly,0,Portland,OR
+0,0,0.0,1,0,Monthly,0,Glens Falls,NY
+0,0,0.0,1,1,Monthly,1,Dallas,TX
+1,0,0.0,1,1,Monthly,0,Saint Louis Park,MN
+1,0,0.0,1,1,Monthly,0,Herndon,VA
+1,0,1.0,1,1,Monthly,1,Valrico,FL
+0,0,0.0,1,0,Monthly,0,Brooklyn Center,MN
+1,0,0.0,1,1,Monthly,1,Orinda,CA
+0,0,0.0,1,1,Monthly,0,Atlanta,GA
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+0,0,0.0,1,1,Monthly,0,Mendota Heights,MN
+0,0,0.0,1,1,Monthly,1,,
+1,0,0.0,1,0,Monthly,0,Homestead,PA
+1,0,0.0,1,0,Monthly,1,Edmond,OK
+1,0,0.0,1,0,Monthly,0,Carrboro,NC
+1,0,0.0,1,1,Monthly,1,Northridge,CA
+1,0,0.0,1,0,Monthly,0,Colorado Springs,CO
+1,0,0.0,1,1,Monthly,0,Lebanon,NH
+1,0,0.0,1,0,Monthly,0,Arlington,TX
+1,0,0.0,1,1,Monthly,0,Vancouver,WA
+0,0,0.0,1,1,Monthly,1,Los Angeles,CA
+1,0,0.0,1,1,Monthly,0,Milwaukee,WI
+1,0,0.0,1,0,Monthly,1,Charlotte,NC
+1,0,0.0,1,0,Monthly,0,Boone,IA
+0,0,0.0,1,0,Monthly,0,Flagstaff,AZ
+0,0,0.0,1,1,Monthly,1,Los Angeles,CA
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Kokomo,IN
+1,0,0.0,1,1,Monthly,0,Renton,WA
+1,0,0.0,1,1,Monthly,0,Chula Vista,CA
+1,0,0.0,1,0,Monthly,0,Odessa,TX
+1,0,0.0,1,0,Monthly,0,Phoenix,AZ
+0,0,0.0,1,0,Monthly,0,Georgetown,TX
+1,0,0.0,1,0,Monthly,0,Humble,TX
+1,0,0.0,1,1,Monthly,0,Renton,WA
+1,0,0.0,1,0,Monthly,0,Lawrenceville,GA
+1,0,0.0,1,0,Monthly,1,Saint Louis,MO
+1,0,0.0,1,1,Monthly,0,Orange,CA
+0,0,0.0,1,0,Monthly,1,Charlotte,NC
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Tallahassee,FL
+0,0,0.0,1,0,Monthly,0,Albuquerque,NM
+0,0,0.0,1,0,Monthly,0,Canyon Lake,TX
+0,0,0.0,1,0,Monthly,0,Sioux Falls,SD
+1,0,0.0,1,1,Monthly,0,Moreno Valley,CA
+0,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Minneapolis,MN
+0,0,0.0,1,1,Monthly,1,San Diego,CA
+0,0,0.0,1,0,Monthly,1,Ames,IA
+1,0,0.0,1,0,Monthly,0,Stockbridge,GA
+1,0,0.0,1,1,Monthly,1,Bothell,WA
+1,0,0.0,1,0,Monthly,1,Hampton,VA
+1,0,0.0,1,1,Monthly,0,North Tonawanda,NY
+1,0,0.0,1,1,Monthly,0,Miami,FL
+0,0,0.0,1,0,Monthly,1,Houston,TX
+0,0,1.0,1,1,Monthly,1,West Columbia,SC
+1,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Kissimmee,FL
+1,0,0.0,1,0,Monthly,1,Lawrenceville,GA
+1,0,0.0,1,0,Monthly,0,Pensacola,FL
+1,0,0.0,1,0,Monthly,0,Lincoln,NE
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,1.0,1,1,Monthly,1,Buckeye,AZ
+1,0,0.0,1,0,Monthly,0,Ames,IA
+1,0,0.0,1,0,Monthly,1,Norman,OK
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+0,0,0.0,1,0,Monthly,0,Kansas City,MO
+0,0,0.0,1,0,Monthly,0,Doylestown,PA
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,1,Colorado Springs,CO
+1,0,0.0,1,1,Monthly,1,Antioch,TN
+1,0,0.0,1,1,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Bloomington,IN
+1,0,1.0,1,0,Monthly,1,Lexington,SC
+0,0,0.0,1,0,Monthly,0,Camas,WA
+1,0,0.0,1,0,Monthly,0,Phoenix,AZ
+0,0,0.0,1,0,Monthly,0,Cedar Park,TX
+0,0,0.0,1,0,Monthly,0,Anchorage,AK
+1,0,0.0,1,0,Monthly,0,Dayton,OH
+1,0,0.0,1,0,Monthly,1,Kansas City,MO
+1,0,0.0,1,0,Monthly,0,Minneapolis,MN
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,1,Monthly,0,Mercer Island,WA
+1,0,0.0,1,0,Monthly,0,Hilliard,OH
+1,0,0.0,1,0,Monthly,1,Euless,TX
+0,0,0.0,1,1,Monthly,0,Dallas,TX
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Tallahassee,FL
+0,0,0.0,1,0,Monthly,1,Lubbock,TX
+1,0,0.0,1,0,Monthly,0,Asheville,NC
+1,0,0.0,1,0,Monthly,0,Springfield,MO
+1,0,0.0,1,0,Monthly,0,Denver,CO
+1,0,0.0,1,1,Monthly,0,Rancho Cucamonga,CA
+0,0,1.0,1,1,Monthly,1,Kernersville,NC
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+0,0,0.0,1,0,Monthly,1,Albuquerque,NM
+1,0,0.0,1,0,Monthly,1,Euless,TX
+1,0,0.0,1,0,Monthly,1,Ruskin,FL
+0,0,0.0,1,1,Monthly,1,Brunswick,OH
+0,0,0.0,1,1,Monthly,1,Saint Louis,MO
+1,0,0.0,1,0,Monthly,0,Baltimore,MD
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,1,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Oklahoma City,OK
+0,0,0.0,1,0,Monthly,0,Eagan,MN
+0,0,0.0,1,0,Monthly,0,Sioux Falls,SD
+0,0,0.0,1,0,Monthly,0,Anchorage,AK
+1,0,0.0,1,0,Monthly,1,Goodyear,AZ
+1,0,0.0,1,1,Monthly,1,Humble,TX
+1,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,0,Monthly,1,Ruskin,FL
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Lakewood,CO
+0,0,0.0,1,1,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+0,0,0.0,1,0,Monthly,1,Dallas,GA
+1,0,1.0,1,1,Monthly,1,Glendale,AZ
+0,0,0.0,1,1,Monthly,0,Davenport,IA
+1,0,0.0,1,0,Monthly,1,Columbia,SC
+1,0,0.0,1,0,Monthly,0,Vancouver,WA
+1,0,0.0,1,0,Monthly,0,Independence,MO
+0,0,0.0,1,1,Monthly,1,Irondale,AL
+1,0,0.0,1,0,Monthly,0,Pico Rivera,CA
+1,0,0.0,1,0,Monthly,0,Orlando,FL
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,0,Monthly,1,Stratford,NJ
+1,0,0.0,1,0,Monthly,0,Delafield,WI
+1,0,0.0,1,1,Monthly,1,Lincoln,NE
+1,0,0.0,1,0,Monthly,0,Jacksonville,FL
+1,0,0.0,1,1,Monthly,0,Bellevue,WA
+0,0,0.0,1,1,Monthly,0,West Covina,CA
+0,0,0.0,1,0,Monthly,0,Belmont,NC
+1,0,0.0,1,0,Monthly,0,Laurel,MD
+1,0,0.0,1,0,Monthly,0,Colorado Springs,CO
+0,0,0.0,1,1,Monthly,0,Menifee,CA
+0,0,1.0,1,1,Monthly,1,Portland,OR
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,0,Monthly,0,Wichita,KS
+1,0,0.0,1,0,Monthly,1,Lexington,SC
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,1.0,1,1,Monthly,1,Tolleson,AZ
+1,0,0.0,1,0,Monthly,1,Sioux Falls,SD
+0,0,0.0,1,0,Monthly,1,Universal City,TX
+0,0,1.0,1,1,Monthly,1,Dundee,OR
+1,0,0.0,1,0,Monthly,0,Plainsboro,NJ
+1,0,0.0,1,0,Monthly,1,Euless,TX
+1,0,0.0,1,0,Monthly,0,Tampa,FL
+1,0,0.0,1,0,Monthly,0,Norfolk,VA
+0,0,0.0,1,0,Monthly,0,Denton,TX
+1,0,0.0,1,1,Monthly,1,Everett,WA
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Glen Burnie,MD
+1,0,0.0,1,0,Monthly,1,Madison,WI
+1,0,0.0,1,0,Monthly,0,Mckeesport,PA
+1,0,0.0,1,0,Monthly,0,Carbon Cliff,IL
+0,0,0.0,1,0,Monthly,0,Arvada,CO
+0,0,0.0,1,1,Monthly,1,Fuquay Varina,NC
+1,0,0.0,1,0,Monthly,1,Memphis,TN
+1,0,0.0,1,0,Monthly,0,Reno,NV
+0,0,0.0,1,1,Monthly,1,Elk River,MN
+0,0,0.0,1,0,Monthly,0,Chicago,IL
+0,0,0.0,1,0,Monthly,0,Dexter,MO
+0,0,0.0,1,0,Monthly,1,Baton Rouge,LA
+1,0,1.0,1,1,Monthly,1,Columbus,OH
+0,0,0.0,1,0,Monthly,1,Rolla,MO
+1,0,0.0,1,0,Monthly,0,Commerce,TX
+0,0,0.0,1,1,Monthly,0,Bend,OR
+1,0,0.0,1,0,Monthly,1,Woodstock,GA
+1,0,0.0,1,0,Monthly,0,Peoria,AZ
+1,0,0.0,1,0,Monthly,1,Lufkin,TX
+1,0,0.0,1,1,Monthly,1,Herndon,VA
+1,0,0.0,1,1,Monthly,0,Saint Louis Park,MN
+1,0,1.0,1,1,Monthly,1,Sugar Hill,GA
+1,0,0.0,1,0,Monthly,0,Milford,OH
+1,0,0.0,1,0,Monthly,0,San Antonio,TX
+1,0,0.0,1,1,Monthly,0,Woodland Hills,CA
+1,0,0.0,1,1,Monthly,1,Odenton,MD
+0,0,0.0,1,1,Monthly,1,Thousand Oaks,CA
+1,0,0.0,1,1,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,0,New Kensington,PA
+0,0,0.0,1,0,Monthly,0,Portland,OR
+0,0,0.0,1,1,Monthly,1,Corona Del Mar,CA
+1,0,0.0,1,0,Monthly,1,Canton,OH
+0,0,0.0,1,0,Monthly,1,Noblesville,IN
+0,0,0.0,1,1,Monthly,1,Santa Monica,CA
+1,0,0.0,1,0,Monthly,0,Chapel Hill,NC
+0,0,0.0,1,1,Monthly,1,Findlay,OH
+1,0,0.0,1,0,Monthly,0,Kirkland,WA
+1,0,0.0,1,0,Monthly,0,Decatur,GA
+0,0,0.0,1,1,Monthly,0,Dallas,TX
+1,0,1.0,1,1,Monthly,1,Columbus,OH
+1,0,0.0,1,1,Monthly,1,Des Moines,WA
+0,0,0.0,1,0,Monthly,0,Pearland,TX
+0,0,0.0,1,0,Monthly,0,Austin,TX
+0,0,1.0,1,1,Monthly,1,,
+1,0,0.0,1,1,Monthly,1,Henrico,VA
+0,0,0.0,1,0,Monthly,0,Vancouver,WA
+1,0,0.0,1,0,Monthly,0,Roanoke,VA
+1,0,0.0,1,0,Monthly,0,Spokane Valley,WA
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,0,Long Beach,CA
+1,0,0.0,1,1,Monthly,0,Kirkland,WA
+0,0,0.0,1,0,Monthly,0,Atlanta,GA
+1,0,0.0,1,0,Monthly,0,Lake Elsinore,CA
+1,0,0.0,1,0,Monthly,1,Fort Smith,AR
+1,0,0.0,1,1,Monthly,0,Alexandria,VA
+0,0,0.0,1,1,Monthly,0,Venice,CA
+0,0,0.0,1,1,Monthly,0,Evanston,IL
+0,0,0.0,1,0,Monthly,0,Baltimore,MD
+1,0,0.0,1,0,Monthly,0,Milwaukee,WI
+1,0,0.0,1,0,Monthly,1,Concord,NC
+1,0,0.0,1,0,Monthly,1,Concord,NC
+1,0,0.0,1,0,Monthly,1,Lafayette,IN
+1,0,0.0,1,1,Monthly,1,Westlake Village,CA
+0,0,0.0,1,1,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Bedford,TX
+1,0,0.0,1,1,Monthly,0,Tampa,FL
+0,0,0.0,1,1,Monthly,1,Valdosta,GA
+1,0,0.0,1,0,Monthly,0,Longview,TX
+1,0,0.0,1,1,Monthly,0,Issaquah,WA
+1,0,0.0,1,1,Monthly,1,Pine Valley,UT
+1,0,0.0,1,0,Monthly,0,Birmingham,AL
+1,0,0.0,1,0,Monthly,0,Morrisville,NC
+1,0,0.0,1,0,Monthly,0,Portland,OR
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,0,Monthly,0,Saint Louis,MO
+1,0,0.0,1,0,Monthly,0,Longmont,CO
+0,0,0.0,1,0,Monthly,0,Austin,TX
+0,0,0.0,1,1,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Springfield,MO
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Gainesville,FL
+1,0,0.0,1,0,Monthly,0,Springfield,MO
+0,0,0.0,1,0,Monthly,1,Henderson,TX
+1,0,0.0,1,0,Monthly,0,San Antonio,TX
+1,0,0.0,1,0,Monthly,0,Winston Salem,NC
+1,0,0.0,1,0,Monthly,0,Arlington,TX
+1,0,0.0,1,0,Monthly,0,Baton Rouge,LA
+1,0,0.0,1,0,Monthly,0,Lumberton,NJ
+1,0,0.0,1,0,Monthly,0,Windsor,WI
+0,0,0.0,1,1,Monthly,0,Glendale,CA
+1,0,1.0,1,1,Monthly,1,Madison,WI
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,1,Monthly,1,San Diego,CA
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,0,Monthly,0,Round Rock,TX
+0,0,0.0,1,1,Monthly,1,Saint Petersburg,FL
+1,0,0.0,1,0,Monthly,0,Ann Arbor,MI
+1,0,0.0,1,0,Monthly,0,Saint Louis,MO
+0,0,0.0,1,0,Monthly,0,Spokane,WA
+1,0,0.0,1,1,Monthly,0,Winooski,VT
+1,0,0.0,1,0,Monthly,0,Raleigh,NC
+1,0,1.0,1,1,Monthly,1,Houston,TX
+1,0,0.0,1,0,Monthly,0,Portland,OR
+1,0,0.0,1,0,Monthly,0,Coventry,RI
+1,0,0.0,1,0,Monthly,0,Beaverton,OR
+1,0,0.0,1,1,Monthly,0,Austin,TX
+0,0,1.0,1,0,Monthly,1,Manhattan,KS
+0,1,1.0,1,1,Monthly,1,San Juan Capistrano,CA
+1,0,0.0,1,1,Monthly,0,Ellicott City,MD
+1,0,0.0,1,1,Monthly,0,Golden Valley,MN
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,West Lafayette,IN
+1,0,0.0,1,1,Monthly,1,Alpharetta,GA
+0,0,0.0,1,1,Monthly,0,Miami,FL
+1,0,0.0,1,0,Monthly,0,Colorado Springs,CO
+1,0,0.0,1,0,Monthly,1,Riverview,FL
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,0,Monthly,0,Middletown,CT
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,0,Monthly,1,Houston,TX
+0,0,0.0,1,0,Monthly,0,Austin,TX
+0,0,0.0,1,1,Monthly,1,Encinitas,CA
+0,0,0.0,1,1,Monthly,1,Fort Collins,CO
+1,0,1.0,1,1,Monthly,1,Manhattan,KS
+1,0,1.0,1,1,Monthly,1,Charlotte,NC
+1,0,0.0,1,1,Monthly,1,Elkridge,MD
+1,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Findlay,OH
+0,0,0.0,1,0,Monthly,1,Omaha,NE
+1,0,0.0,1,0,Monthly,0,Saginaw,MI
+1,0,0.0,1,1,Monthly,0,Kent,WA
+0,0,0.0,1,0,Monthly,0,Lincoln,NE
+0,0,0.0,1,0,Monthly,1,Dexter,MO
+0,0,1.0,1,1,Monthly,1,Gastonia,NC
+1,0,0.0,1,0,Monthly,0,Petersburg,VA
+0,0,0.0,1,0,Monthly,0,Kansas City,MO
+0,0,0.0,1,0,Monthly,0,Gretna,NE
+0,0,1.0,1,1,Monthly,1,Arlington,TX
+1,0,0.0,1,0,Monthly,1,Alpharetta,GA
+1,0,0.0,1,1,Monthly,0,Northbrook,IL
+1,0,0.0,1,1,Monthly,0,Detroit,MI
+1,0,0.0,1,0,Monthly,0,Eden Prairie,MN
+1,0,0.0,1,0,Monthly,1,Raleigh,NC
+1,0,0.0,1,1,Monthly,0,Woodbridge,VA
+1,0,0.0,1,0,Monthly,0,Bloomington,MN
+0,0,0.0,1,0,Monthly,1,Austin,TX
+0,0,0.0,1,1,Monthly,0,Franklin Lakes,NJ
+0,0,0.0,1,1,Monthly,0,Sherman Oaks,CA
+1,0,0.0,1,0,Monthly,0,San Marcos,TX
+0,0,0.0,1,0,Monthly,0,Milwaukee,WI
+1,0,0.0,1,0,Monthly,0,Everett,WA
+1,0,0.0,1,0,Monthly,0,Bremerton,WA
+1,0,0.0,1,0,Monthly,0,Annapolis,MD
+1,0,0.0,1,0,Monthly,0,San Antonio,TX
+1,0,0.0,1,0,Monthly,0,Lafayette,LA
+1,0,0.0,1,0,Monthly,0,Cincinnati,OH
+0,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,1,Lawrenceville,GA
+1,0,0.0,1,0,Monthly,1,Bothell,WA
+1,0,0.0,1,0,Monthly,1,Forest Lake,MN
+1,0,1.0,1,1,Monthly,1,Saint Johns,FL
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,1,Harlingen,TX
+1,0,0.0,1,0,Monthly,0,Marietta,GA
+1,0,0.0,1,1,Monthly,0,Seattle,WA
+0,0,0.0,1,1,Monthly,1,Los Angeles,CA
+1,0,1.0,1,0,Monthly,0,Cincinnati,OH
+1,0,0.0,1,0,Monthly,1,Smyrna,GA
+0,0,0.0,1,0,Monthly,0,Portland,OR
+1,0,1.0,1,1,Monthly,1,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Sioux Falls,SD
+1,0,0.0,1,1,Monthly,1,Encino,CA
+1,0,0.0,1,0,Monthly,1,Dallas,GA
+1,0,0.0,1,1,Monthly,0,Tampa,FL
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+0,0,0.0,1,0,Monthly,1,Marshall,MI
+0,0,0.0,1,1,Monthly,0,Downey,CA
+0,0,0.0,1,1,Monthly,1,Omaha,NE
+0,0,0.0,1,1,Monthly,1,Las Vegas,NV
+1,0,0.0,1,0,Monthly,0,Atlanta,GA
+1,0,0.0,1,0,Monthly,1,Indianapolis,IN
+1,0,0.0,1,0,Monthly,0,Minneapolis,MN
+0,0,0.0,1,1,Monthly,1,Champaign,IL
+1,0,0.0,1,1,Monthly,1,Jersey City,NJ
+1,0,0.0,1,0,Monthly,0,Atlanta,GA
+1,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,1,Monthly,1,Cherry Hill,NJ
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,1,Arlington,TX
+1,0,1.0,1,1,Monthly,1,Maricopa,AZ
+1,0,0.0,1,0,Monthly,0,San Antonio,TX
+1,0,0.0,1,0,Monthly,0,Orlando,FL
+1,0,0.0,1,0,Monthly,0,Ypsilanti,MI
+0,0,0.0,1,1,Monthly,1,Los Angeles,CA
+1,0,0.0,1,1,Monthly,1,Berkeley,CA
+0,0,0.0,1,0,Monthly,0,Rochester,MN
+1,0,0.0,1,0,Monthly,0,Knoxville,TN
+1,0,0.0,1,0,Monthly,1,Brown Deer,WI
+0,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,1,Monthly,0,Providence,RI
+0,0,0.0,1,0,Monthly,0,Philadelphia,PA
+1,0,0.0,1,1,Monthly,0,Hartford,CT
+1,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,0,Windermere,FL
+1,0,0.0,1,0,Monthly,1,Vancouver,WA
+0,0,0.0,1,0,Monthly,0,Reno,NV
+0,0,0.0,1,0,Monthly,0,Pittsburgh,PA
+1,0,0.0,1,0,Monthly,1,Independence,IA
+0,0,0.0,1,0,Monthly,0,Paducah,KY
+1,0,0.0,1,0,Monthly,0,Milwaukee,WI
+1,0,0.0,1,0,Monthly,1,Peoria,AZ
+1,0,0.0,1,0,Monthly,0,Springfield,MO
+0,0,0.0,1,0,Monthly,0,Springdale,AR
+1,0,0.0,1,0,Monthly,0,Vancouver,WA
+0,0,0.0,1,0,Monthly,0,Lenexa,KS
+1,0,0.0,1,1,Monthly,1,Sammamish,WA
+1,0,0.0,1,0,Monthly,0,Cleburne,TX
+1,0,0.0,1,0,Monthly,0,Springfield,MO
+0,0,0.0,1,1,Monthly,1,Lenexa,KS
+0,0,0.0,1,1,Monthly,1,Los Angeles,CA
+0,0,0.0,1,0,Monthly,1,Hixson,TN
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+0,0,0.0,1,1,Monthly,0,Seattle,WA
+1,0,0.0,1,0,Monthly,0,Baton Rouge,LA
+1,0,0.0,1,1,Monthly,0,Mequon,WI
+1,0,0.0,1,1,Monthly,0,Los Angeles,CA
+0,0,0.0,1,1,Monthly,1,Roswell,GA
+1,0,0.0,1,1,Monthly,1,North Bergen,NJ
+0,0,0.0,1,1,Monthly,1,Van Nuys,CA
+0,0,0.0,1,0,Monthly,1,Phoenix,AZ
+1,0,0.0,1,0,Monthly,0,Edmond,OK
+0,0,0.0,1,1,Monthly,1,Pittsburgh,PA
+1,0,0.0,1,1,Monthly,0,Frederick,MD
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,0,Monthly,0,Altoona,IA
+1,0,0.0,1,1,Monthly,0,Somerville,MA
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,1,Monthly,0,Arlington,VA
+1,0,0.0,1,1,Monthly,0,Suwanee,GA
+0,0,0.0,1,0,Monthly,0,Lexington,KY
+0,0,0.0,1,1,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,0,Washington,DC
+1,0,0.0,1,0,Monthly,0,Columbus,OH
+0,0,0.0,1,0,Monthly,0,District Heights,MD
+1,0,0.0,1,0,Monthly,0,Vancouver,WA
+0,0,0.0,1,0,Monthly,0,Forest Grove,OR
+1,0,0.0,1,0,Monthly,0,Knightdale,NC
+0,0,0.0,1,0,Monthly,0,Gresham,OR
+0,0,0.0,1,0,Monthly,0,Tulsa,OK
+0,0,0.0,1,0,Monthly,0,San Antonio,TX
+0,0,0.0,1,1,Monthly,0,Arlington,VA
+1,0,0.0,1,0,Monthly,1,Marietta,GA
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Clarkston,MI
+1,0,0.0,1,0,Monthly,0,Bloomington,IL
+1,0,0.0,1,0,Monthly,0,Casar,NC
+1,0,1.0,1,1,Monthly,1,Burleson,TX
+1,0,0.0,1,1,Monthly,1,Smyrna,GA
+1,0,0.0,1,1,Monthly,1,Denver,CO
+0,0,0.0,1,1,Monthly,0,Santa Rosa,CA
+1,0,0.0,1,1,Monthly,1,Downey,CA
+0,0,0.0,1,1,Monthly,1,Mundelein,IL
+0,0,0.0,1,1,Monthly,0,Hyattsville,MD
+1,0,0.0,1,1,Monthly,0,Chelsea,MA
+0,0,0.0,1,1,Monthly,1,Encino,CA
+1,0,0.0,1,0,Monthly,1,Sugar Notch,PA
+0,0,0.0,1,1,Monthly,0,Seattle,WA
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,1,Monthly,0,Chicago,IL
+1,0,1.0,1,1,Monthly,1,Kent,WA
+0,0,0.0,1,0,Monthly,0,Rexburg,ID
+1,0,0.0,1,1,Monthly,1,Manassas,VA
+1,0,0.0,1,1,Monthly,0,Fairfax,VA
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,1,Monthly,0,Chelsea,MA
+1,0,0.0,1,0,Monthly,0,Tallahassee,FL
+0,0,0.0,1,1,Monthly,0,Long Beach,CA
+1,0,0.0,1,0,Monthly,0,Cypress,TX
+0,1,0.0,1,1,Monthly,1,Orlando,FL
+1,0,0.0,1,0,Monthly,0,Denver,CO
+1,0,0.0,1,0,Monthly,0,Edmond,OK
+0,0,1.0,1,1,Monthly,1,Baltimore,MD
+1,0,0.0,1,0,Monthly,1,Lilburn,GA
+0,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Fort Collins,CO
+1,0,0.0,1,0,Monthly,0,Indianola,IA
+1,0,0.0,1,0,Monthly,0,Towson,MD
+0,0,0.0,1,1,Monthly,0,Cliffside Park,NJ
+1,0,0.0,1,0,Monthly,0,Randallstown,MD
+1,0,0.0,1,0,Monthly,0,Las Vegas,NV
+0,0,0.0,1,0,Monthly,1,Jonesboro,GA
+0,0,0.0,1,0,Monthly,0,Ames,IA
+0,0,0.0,1,0,Monthly,0,Vandalia,OH
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,0,Monthly,0,Ann Arbor,MI
+1,0,0.0,1,0,Monthly,0,Denver,CO
+1,0,1.0,1,0,Monthly,0,Springfield,MO
+1,0,0.0,1,1,Monthly,0,Minneapolis,MN
+1,0,0.0,1,1,Monthly,0,Madison,WI
+1,0,0.0,1,0,Monthly,0,Phoenix,AZ
+1,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,1,Carrboro,NC
+1,0,0.0,1,0,Monthly,0,Marietta,GA
+1,0,0.0,1,1,Monthly,0,Pico Rivera,CA
+0,0,0.0,1,0,Monthly,0,Glendale,AZ
+1,0,0.0,1,1,Monthly,0,Kent,WA
+1,0,0.0,1,1,Monthly,0,Mountain View,CA
+0,0,0.0,1,0,Monthly,0,Los Angeles,CA
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,0,Monthly,1,Bridgeton,MO
+0,0,0.0,1,1,Monthly,1,Christiansburg,VA
+1,0,0.0,1,0,Monthly,0,Chesapeake,VA
+1,0,0.0,1,0,Monthly,0,Eagan,MN
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Cary,NC
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,0,Monthly,0,Suwanee,GA
+1,0,0.0,1,0,Monthly,0,Midland,TX
+1,0,0.0,1,1,Monthly,1,Kirkland,WA
+0,0,0.0,1,0,Monthly,0,Bowling Green,KY
+1,0,0.0,1,0,Monthly,0,Tampa,FL
+0,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,1,Monthly,0,Cambridge,MA
+1,0,0.0,1,0,Monthly,0,Sartell,MN
+1,0,0.0,1,0,Monthly,0,Reno,NV
+0,0,0.0,1,1,Monthly,1,San Ysidro,CA
+0,0,0.0,1,1,Monthly,0,Atlanta,GA
+1,0,0.0,1,0,Monthly,0,Little Rock,AR
+1,0,0.0,1,0,Monthly,0,College Station,TX
+0,0,0.0,1,1,Monthly,0,Snohomish,WA
+1,0,1.0,1,1,Monthly,1,Madison,WI
+0,0,0.0,1,1,Monthly,1,Brookfield,CT
+1,0,0.0,1,0,Monthly,1,,
+0,0,0.0,1,0,Monthly,1,Albuquerque,NM
+0,0,0.0,1,0,Monthly,0,Phoenix,AZ
+1,0,0.0,1,0,Monthly,0,Phoenix,AZ
+0,0,0.0,1,0,Monthly,1,Rogers,AR
+1,0,0.0,1,0,Monthly,0,Franklin,WI
+1,0,0.0,1,0,Monthly,1,Lawrenceville,GA
+1,0,0.0,1,0,Monthly,0,Laurel,MD
+1,0,0.0,1,0,Monthly,0,Plymouth,MN
+1,1,1.0,1,1,Monthly,1,West Lafayette,IN
+0,0,0.0,1,0,Monthly,0,Atlanta,GA
+1,0,0.0,1,0,Monthly,0,Boise,ID
+1,0,0.0,1,0,Monthly,0,Clarkston,MI
+1,0,0.0,1,0,Monthly,0,Miami,FL
+1,0,0.0,1,0,Monthly,0,Overland Park,KS
+0,0,1.0,1,1,Monthly,1,Thornton,CO
+1,0,0.0,1,1,Monthly,0,Portland,OR
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,0,Monthly,0,Minot,ND
+1,0,0.0,1,0,Monthly,0,Colorado Springs,CO
+1,0,0.0,1,1,Monthly,0,Boston,MA
+1,0,0.0,1,0,Monthly,0,Omaha,NE
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Mesa,AZ
+1,0,0.0,1,1,Monthly,1,Gaithersburg,MD
+0,0,1.0,1,1,Monthly,1,Willis,TX
+1,0,0.0,1,0,Monthly,0,Nashville,TN
+1,0,0.0,1,1,Monthly,0,Tukwila,WA
+0,0,0.0,1,0,Monthly,0,Lafayette,IN
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+0,0,0.0,1,1,Monthly,0,Reston,VA
+1,0,0.0,1,0,Monthly,1,Middleton,WI
+0,0,0.0,1,0,Monthly,0,Columbus,OH
+0,0,0.0,1,0,Monthly,0,Dallas,TX
+0,0,0.0,1,1,Monthly,1,Davenport,IA
+1,0,0.0,1,0,Monthly,1,Kenosha,WI
+0,0,0.0,1,0,Monthly,0,Anderson,SC
+1,0,0.0,1,1,Monthly,0,Chicago,IL
+0,0,0.0,1,0,Monthly,1,Williston,ND
+1,0,0.0,1,1,Monthly,0,Elizabeth,NJ
+1,0,0.0,1,0,Monthly,0,Kent,WA
+1,0,0.0,1,0,Monthly,0,Bremerton,WA
+1,0,0.0,1,1,Monthly,0,Mountlake Terrace,WA
+0,0,0.0,1,0,Monthly,0,Beulah,ND
+1,0,0.0,1,0,Monthly,0,Denver,CO
+1,0,0.0,1,0,Monthly,1,Raleigh,NC
+0,0,0.0,1,1,Monthly,1,Atlanta,GA
+1,0,0.0,1,0,Monthly,0,Abilene,TX
+0,1,1.0,1,1,Monthly,1,Rosemount,MN
+1,0,0.0,1,0,Monthly,0,Tulsa,OK
+1,0,0.0,1,0,Monthly,0,Anderson,IN
+0,0,0.0,1,1,Monthly,1,Irondale,AL
+1,0,0.0,1,1,Monthly,0,Marina Del Rey,CA
+0,0,0.0,1,0,Monthly,0,Englewood,CO
+1,0,0.0,1,0,Monthly,0,Lincoln,NE
+0,0,0.0,1,0,Monthly,0,Carbondale,IL
+1,0,0.0,1,1,Monthly,1,Fort Lee,NJ
+1,0,0.0,1,1,Monthly,0,Cambridge,MA
+0,0,0.0,1,0,Monthly,0,Seattle,WA
+0,0,0.0,1,0,Monthly,0,Philadelphia,PA
+1,0,1.0,1,1,Monthly,1,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Tampa,FL
+0,0,1.0,1,1,Monthly,1,Houston,TX
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+0,0,1.0,1,0,Monthly,1,Hinesville,GA
+1,0,0.0,1,0,Monthly,0,Norman,OK
+1,0,0.0,1,0,Monthly,0,Saint Paul,MN
+1,0,0.0,1,0,Monthly,0,Hampton,VA
+0,0,0.0,1,0,Monthly,0,Las Vegas,NV
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,0,Monthly,1,Dallas,TX
+1,0,0.0,1,0,Monthly,1,Holt,MI
+1,0,0.0,1,0,Monthly,0,Milwaukee,WI
+1,0,0.0,1,0,Monthly,0,Marshall,MI
+0,0,0.0,1,1,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Manson,NC
+1,0,0.0,1,0,Monthly,0,Cordova,TN
+0,0,0.0,1,0,Monthly,0,Columbia,SC
+0,0,0.0,1,0,Monthly,1,Chapel Hill,NC
+1,0,0.0,1,1,Monthly,0,Oxford,NC
+0,0,0.0,1,0,Monthly,0,Fishers,IN
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+0,0,0.0,1,1,Monthly,1,Normal,IL
+1,0,0.0,1,0,Monthly,1,Houston,TX
+1,0,0.0,1,1,Monthly,1,Midland,TX
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,1,Chelsea,MA
+0,0,0.0,1,0,Monthly,0,Roanoke,VA
+1,0,0.0,1,1,Monthly,1,Fort Worth,TX
+1,0,0.0,1,0,Monthly,0,Colorado Springs,CO
+1,0,0.0,1,0,Monthly,0,Arlington,VA
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,1,Monthly,1,Kansas City,MO
+0,0,0.0,1,0,Monthly,0,Oregon City,OR
+1,0,1.0,1,0,Monthly,1,Pendleton,SC
+1,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Minneapolis,MN
+1,0,0.0,1,0,Monthly,1,Clayton,NC
+1,0,0.0,1,1,Monthly,1,Newton,MA
+1,0,0.0,1,0,Monthly,0,Cypress,TX
+0,0,0.0,1,0,Monthly,0,Norfolk,VA
+0,0,0.0,1,0,Monthly,0,Bellingham,WA
+0,0,0.0,1,1,Monthly,1,,
+0,0,0.0,1,1,Monthly,1,Miami Beach,FL
+1,0,0.0,1,1,Monthly,1,Everett,WA
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+0,1,1.0,1,1,Monthly,1,Portland,OR
+0,0,0.0,1,0,Monthly,0,Albany,NY
+0,0,0.0,1,0,Monthly,0,Phoenix,AZ
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,1,Blue Springs,MO
+1,0,0.0,1,0,Monthly,0,Lexington,KY
+1,0,0.0,1,0,Monthly,0,Fort Myers,FL
+1,0,0.0,1,0,Monthly,0,Baton Rouge,LA
+1,0,0.0,1,0,Monthly,0,Gonzales,LA
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Saint George,UT
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Shreveport,LA
+1,0,0.0,1,0,Monthly,0,Plymouth,MN
+0,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,0,Monthly,1,Cary,NC
+1,0,0.0,1,0,Monthly,0,Golden Valley,MN
+0,0,0.0,1,1,Monthly,1,Huntington Beach,CA
+0,0,0.0,1,0,Monthly,1,Hilliard,OH
+0,0,0.0,1,1,Monthly,1,Cincinnati,OH
+1,0,0.0,1,0,Monthly,0,Vancouver,WA
+1,0,0.0,1,0,Monthly,1,Houston,TX
+1,0,0.0,1,0,Monthly,1,Waverly,IA
+0,0,0.0,1,0,Monthly,0,Coraopolis,PA
+0,0,0.0,1,0,Monthly,0,Atlanta,GA
+0,0,1.0,1,1,Monthly,1,Encinitas,CA
+1,0,0.0,1,0,Monthly,0,Thornton,CO
+0,0,0.0,1,0,Monthly,0,Portland,OR
+0,0,0.0,1,0,Monthly,0,,
+1,0,0.0,1,0,Monthly,1,Houston,TX
+1,0,0.0,1,0,Monthly,1,Spring,TX
+1,0,0.0,1,0,Monthly,1,Concord,NC
+1,0,0.0,1,0,Monthly,0,Kirkwood,MO
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,1,1.0,1,1,Monthly,1,Cornelius,NC
+0,0,0.0,1,0,Monthly,1,Tulsa,OK
+1,0,0.0,1,0,Monthly,0,Cincinnati,OH
+1,0,0.0,1,0,Monthly,0,Wilmington,DE
+1,0,0.0,1,1,Monthly,1,Monrovia,CA
+1,0,0.0,1,1,Monthly,1,Urbana,IL
+1,0,0.0,1,0,Monthly,0,Wasilla,AK
+0,0,0.0,1,0,Monthly,0,San Antonio,TX
+1,0,0.0,1,0,Monthly,0,Manassas Park,VA
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Cleveland,OH
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,1,Monthly,1,Davenport,IA
+1,0,0.0,1,1,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,1,Richmond,CA
+1,0,0.0,1,1,Monthly,0,Denver,CO
+1,0,0.0,1,0,Monthly,0,Bedford,TX
+0,0,0.0,1,0,Monthly,0,Villa Park,IL
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+0,0,0.0,1,0,Monthly,0,Wilkes Barre,PA
+1,0,0.0,1,0,Monthly,1,Menasha,WI
+1,0,0.0,1,0,Monthly,0,Clackamas,OR
+0,0,0.0,1,1,Monthly,1,Hanover,MD
+1,0,0.0,1,0,Monthly,1,Saint Louis,MO
+1,0,0.0,1,0,Monthly,0,Overland Park,KS
+1,0,1.0,1,1,Monthly,1,Columbus,OH
+1,0,0.0,1,0,Monthly,0,Lafayette,IN
+1,0,0.0,1,1,Monthly,1,Alpharetta,GA
+1,0,0.0,1,1,Monthly,1,Ellicott City,MD
+1,0,0.0,1,1,Monthly,1,Linthicum Heights,MD
+0,0,0.0,1,1,Monthly,1,Rowlett,TX
+1,0,0.0,1,1,Monthly,1,West Hollywood,CA
+1,0,0.0,1,1,Monthly,1,South Plainfield,NJ
+1,0,0.0,1,1,Monthly,1,Windermere,FL
+1,0,0.0,1,0,Monthly,1,Virginia Beach,VA
+1,0,0.0,1,1,Monthly,0,Chicago,IL
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Tallahassee,FL
+1,0,0.0,1,1,Monthly,1,Cleveland,OH
+1,0,0.0,1,0,Monthly,0,Euless,TX
+1,0,0.0,1,0,Monthly,0,Norman,OK
+1,0,1.0,1,1,Monthly,1,Madison,WI
+1,0,0.0,1,0,Monthly,0,Madison,WI
+1,0,0.0,1,0,Monthly,0,Flagstaff,AZ
+1,0,0.0,1,0,Monthly,1,Lafayette,IN
+0,0,0.0,1,0,Monthly,1,Shreveport,LA
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,1,Monthly,0,Dallas,TX
+1,0,0.0,1,1,Monthly,0,Plainsboro,NJ
+0,0,0.0,1,1,Monthly,0,Kirkland,WA
+1,0,0.0,1,1,Monthly,0,Austin,TX
+0,0,0.0,1,0,Monthly,1,Decatur,GA
+0,0,1.0,1,1,Monthly,1,Monroe,OH
+1,0,0.0,1,0,Monthly,1,Durham,NC
+1,0,0.0,1,0,Monthly,0,Colorado Springs,CO
+0,0,0.0,1,0,Monthly,0,Frankfort,KY
+1,0,0.0,1,0,Monthly,0,,
+1,0,0.0,1,0,Monthly,1,Longview,TX
+0,0,0.0,1,1,Monthly,0,Paoli,PA
+1,0,0.0,1,0,Monthly,0,Hillsboro,OR
+0,0,0.0,1,1,Monthly,1,Washington,DC
+1,0,0.0,1,0,Monthly,0,Bellingham,WA
+1,0,0.0,1,1,Monthly,1,Canton,MI
+1,0,0.0,1,0,Monthly,0,Saint Louis Park,MN
+1,0,1.0,1,1,Monthly,1,San Diego,CA
+0,0,0.0,1,0,Monthly,0,Fargo,ND
+1,0,0.0,1,1,Monthly,1,Marietta,GA
+1,0,0.0,1,1,Monthly,0,Providence,RI
+1,0,0.0,1,1,Monthly,0,Washington,DC
+1,0,0.0,1,1,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Rochester,MN
+0,0,0.0,1,1,Monthly,1,Edgewater,NJ
+1,0,0.0,1,0,Monthly,0,Minneapolis,MN
+1,0,0.0,1,1,Monthly,0,Bellevue,WA
+0,0,1.0,1,1,Monthly,1,Monroe,OH
+0,0,0.0,1,0,Monthly,1,Durham,NC
+1,0,0.0,1,1,Monthly,1,Harrison,NJ
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,1,Greensboro,NC
+1,0,0.0,1,0,Monthly,0,Minneapolis,MN
+0,0,0.0,1,0,Monthly,1,Concord,NC
+1,0,0.0,1,0,Monthly,0,Eagan,MN
+1,0,1.0,1,1,Monthly,1,Jersey City,NJ
+1,0,0.0,1,0,Monthly,0,West Valley City,UT
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+0,0,0.0,1,0,Monthly,1,Tuscaloosa,AL
+0,0,0.0,1,0,Monthly,1,Atlanta,GA
+0,1,1.0,1,1,Monthly,1,Corona Del Mar,CA
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+0,0,0.0,1,1,Monthly,1,Easton,PA
+1,0,0.0,1,0,Monthly,0,Green Bay,WI
+0,0,0.0,1,1,Monthly,1,Austin,TX
+1,0,0.0,1,1,Monthly,0,Boston,MA
+0,0,1.0,1,1,Monthly,1,Orange,TX
+0,0,0.0,1,0,Monthly,0,Spokane,WA
+1,0,0.0,1,0,Monthly,0,Arlington,TX
+1,0,0.0,1,0,Monthly,0,Lilburn,GA
+1,0,0.0,1,0,Monthly,0,Rapid City,SD
+1,1,1.0,1,1,Monthly,1,Los Angeles,CA
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,0,Monthly,0,Olathe,KS
+1,0,0.0,1,1,Monthly,0,Seattle,WA
+0,0,0.0,1,0,Monthly,0,Keene,NH
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Omaha,NE
+0,0,0.0,1,1,Monthly,1,Brooklyn,NY
+1,0,0.0,1,0,Monthly,1,Cincinnati,OH
+1,0,0.0,1,1,Monthly,0,Springfield,NJ
+1,0,0.0,1,0,Monthly,0,Manchester,NH
+1,0,1.0,1,0,Monthly,1,Porter,TX
+1,0,0.0,1,0,Monthly,0,Davenport,IA
+1,0,0.0,1,1,Monthly,1,Bethesda,MD
+0,0,0.0,1,1,Monthly,0,Portland,OR
+1,0,0.0,1,0,Monthly,0,Bloomington,MN
+1,0,1.0,1,0,Monthly,1,Brandon,SD
+1,0,0.0,1,0,Monthly,0,Indianapolis,IN
+1,0,0.0,1,0,Monthly,0,Colorado Springs,CO
+1,0,0.0,1,0,Monthly,0,Somerdale,NJ
+1,0,0.0,1,0,Monthly,0,Cherry Hill,NJ
+1,0,0.0,1,1,Monthly,1,Bellingham,WA
+0,0,0.0,1,0,Monthly,1,Lytle,TX
+1,0,0.0,1,0,Monthly,0,Midland,TX
+0,0,0.0,1,1,Monthly,0,Arlington,VA
+1,0,0.0,1,1,Monthly,0,Long Beach,CA
+1,0,0.0,1,0,Monthly,0,Durham,NC
+1,0,0.0,1,0,Monthly,0,Orlando,FL
+0,0,0.0,1,0,Monthly,0,Blanco,TX
+0,0,0.0,1,1,Monthly,1,San Antonio,TX
+0,0,0.0,1,1,Monthly,1,Arcadia,CA
+1,0,0.0,1,0,Monthly,0,Ocala,FL
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+0,0,0.0,1,1,Monthly,1,Raleigh,NC
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Richmond,VA
+1,0,0.0,1,0,Monthly,1,Randallstown,MD
+0,0,0.0,1,1,Monthly,1,Oak Island,NC
+0,0,0.0,1,0,Monthly,0,Pleasanton,TX
+1,0,0.0,1,0,Monthly,0,Denver,CO
+1,0,0.0,1,1,Monthly,0,Woodbridge,VA
+1,0,0.0,1,1,Monthly,1,West New York,NJ
+1,0,0.0,1,0,Monthly,0,Kingwood,TX
+1,0,0.0,1,0,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,1,Tea,SD
+0,0,0.0,1,0,Monthly,0,Round Rock,TX
+0,0,1.0,1,1,Monthly,1,Lynchburg,VA
+1,0,0.0,1,0,Monthly,0,Randallstown,MD
+0,0,0.0,1,0,Monthly,0,Slidell,LA
+1,0,0.0,1,0,Monthly,0,New Carlisle,IN
+0,0,0.0,1,0,Monthly,0,Shaker Heights,OH
+0,0,0.0,1,1,Monthly,1,Oakland Township,MI
+0,0,0.0,1,1,Monthly,0,Montclair,NJ
+1,0,0.0,1,1,Monthly,1,Larchmont,NY
+1,0,0.0,1,1,Monthly,1,San Diego,CA
+1,0,0.0,1,0,Monthly,0,Philadelphia,PA
+1,0,0.0,1,0,Monthly,0,San Antonio,TX
+1,0,0.0,1,0,Monthly,1,Hortonville,WI
+1,0,0.0,1,1,Monthly,1,Arlington,TX
+1,0,0.0,1,0,Monthly,0,Warsaw,IN
+1,0,0.0,1,0,Monthly,0,Dewitt,MI
+1,0,0.0,1,1,Monthly,1,Sleepy Hollow,NY
+1,0,0.0,1,0,Monthly,0,Dayton,OH
+1,0,0.0,1,0,Monthly,0,Mishawaka,IN
+1,0,0.0,1,0,Monthly,0,Manhattan,KS
+1,0,0.0,1,0,Monthly,1,Massillon,OH
+0,0,0.0,1,1,Monthly,1,Clayton,NC
+0,0,0.0,1,1,Monthly,1,Irvine,CA
+0,0,0.0,1,0,Monthly,0,Red Oak,IA
+0,0,0.0,1,1,Monthly,0,Vancouver,WA
+1,0,0.0,1,0,Monthly,0,Milwaukee,WI
+0,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Minnetonka,MN
+1,0,0.0,1,0,Monthly,1,Cedar Falls,IA
+1,0,0.0,1,0,Monthly,1,Humble,TX
+1,0,0.0,1,1,Monthly,0,Atlanta,GA
+1,0,1.0,1,1,Monthly,1,Houston,TX
+1,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,1,Monthly,0,New Haven,CT
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,0,Monthly,1,Anchorage,AK
+1,0,0.0,1,0,Monthly,1,Frankfort,KY
+1,0,0.0,1,1,Monthly,1,Cypress,TX
+1,0,0.0,1,1,Monthly,0,Minneapolis,MN
+1,0,0.0,1,0,Monthly,1,Morrisville,NC
+1,0,0.0,1,0,Monthly,1,Glendale,AZ
+1,0,0.0,1,0,Monthly,0,Des Moines,IA
+1,0,0.0,1,0,Monthly,0,Cincinnati,OH
+1,0,0.0,1,0,Monthly,0,Los Angeles,CA
+1,0,0.0,1,1,Monthly,1,Stoughton,MA
+1,0,0.0,1,0,Monthly,1,Ripon,WI
+0,0,0.0,1,1,Monthly,0,Columbus,OH
+1,0,0.0,1,0,Monthly,1,Shawnee,KS
+1,0,0.0,1,0,Monthly,1,Cincinnati,OH
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,1,Monthly,0,Madison,WI
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Anoka,MN
+0,0,0.0,1,1,Monthly,1,Everett,WA
+0,0,0.0,1,1,Monthly,1,Midlothian,TX
+1,0,0.0,1,0,Monthly,0,Portland,OR
+1,0,0.0,1,0,Monthly,0,Anchorage,AK
+0,0,0.0,1,0,Monthly,0,Bridgeport,CT
+1,0,0.0,1,0,Monthly,0,Cincinnati,OH
+0,0,0.0,1,0,Monthly,0,Fort Myers,FL
+1,0,0.0,1,0,Monthly,0,Las Vegas,NV
+1,0,0.0,1,0,Monthly,0,Minneapolis,MN
+1,0,0.0,1,1,Monthly,0,Chicago,IL
+0,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Omaha,NE
+0,0,0.0,1,1,Monthly,1,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Bedford,TX
+1,0,0.0,1,1,Monthly,1,Los Angeles,CA
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,1,Monthly,1,Euless,TX
+0,0,0.0,1,1,Monthly,0,San Diego,CA
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,1,Irmo,SC
+1,0,0.0,1,0,Monthly,1,Sheboygan,WI
+1,0,0.0,1,1,Monthly,1,Mansfield,TX
+0,0,0.0,1,1,Monthly,1,Lake Charles,LA
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,1,Monthly,1,Portland,OR
+1,0,0.0,1,1,Monthly,1,Los Angeles,CA
+1,0,0.0,1,1,Monthly,0,Brea,CA
+1,0,0.0,1,0,Monthly,0,Bryan,TX
+1,0,0.0,1,0,Monthly,1,Appleton,WI
+0,0,0.0,1,1,Monthly,1,Windsor,PA
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,0,Monthly,0,Glen Burnie,MD
+0,0,0.0,1,0,Monthly,1,Weatherford,TX
+0,0,0.0,1,1,Monthly,0,Lakewood,CA
+1,0,0.0,1,1,Monthly,1,Carlsbad,CA
+1,0,0.0,1,1,Monthly,0,Pittsburgh,PA
+1,0,0.0,1,0,Monthly,0,North Kansas City,MO
+1,0,0.0,1,0,Monthly,1,Lynnwood,WA
+0,0,0.0,1,1,Monthly,1,Yorkville,IL
+0,1,0.0,1,1,Monthly,1,Haymarket,VA
+1,0,0.0,1,0,Monthly,0,Tacoma,WA
+1,0,0.0,1,0,Monthly,0,Anchorage,AK
+0,0,0.0,1,1,Monthly,1,Seattle,WA
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,0,Monthly,1,Fond Du Lac,WI
+1,0,0.0,1,1,Monthly,1,Snellville,GA
+1,0,0.0,1,1,Monthly,0,Londonderry,NH
+1,0,0.0,1,0,Monthly,1,Houston,TX
+1,0,0.0,1,1,Monthly,0,Torrance,CA
+0,0,0.0,1,1,Monthly,1,Spokane,WA
+1,0,0.0,1,1,Monthly,1,Madison,WI
+1,0,0.0,1,0,Monthly,0,Portland,OR
+0,0,0.0,1,0,Monthly,0,Decatur,GA
+0,0,0.0,1,1,Monthly,0,Sherman Oaks,CA
+1,0,0.0,1,0,Monthly,0,Saint Paul,MN
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Tempe,AZ
+0,0,0.0,1,0,Monthly,0,Phoenix,AZ
+0,0,0.0,1,0,Monthly,0,Ames,IA
+0,0,0.0,1,0,Monthly,0,Portland,OR
+1,0,0.0,1,0,Monthly,0,Arlington,TX
+1,0,0.0,1,0,Monthly,0,Maumee,OH
+0,0,1.0,1,1,Monthly,1,Clayton,NC
+1,0,0.0,1,0,Monthly,1,Loveland,OH
+0,0,0.0,1,1,Monthly,0,Brighton,CO
+0,0,0.0,1,0,Monthly,1,Raleigh,NC
+1,0,0.0,1,0,Monthly,0,Missouri City,TX
+1,0,0.0,1,0,Monthly,1,Madison,WI
+1,0,0.0,1,0,Monthly,0,Carrollton,TX
+1,0,0.0,1,0,Monthly,0,Minneapolis,MN
+0,0,0.0,1,0,Monthly,0,Schenectady,NY
+1,0,0.0,1,0,Monthly,1,Lexington,SC
+0,0,0.0,1,1,Monthly,0,Miami Beach,FL
+1,0,0.0,1,1,Monthly,0,Mountain View,CA
+1,0,0.0,1,0,Monthly,0,Portland,OR
+0,0,0.0,1,1,Monthly,1,Chicago,IL
+1,0,0.0,1,1,Monthly,0,Seattle,WA
+0,0,0.0,1,1,Monthly,1,Seattle,WA
+1,0,0.0,1,0,Monthly,1,Spring,TX
+1,0,0.0,1,0,Monthly,0,Buffalo,NY
+0,0,0.0,1,0,Monthly,1,Broomall,PA
+1,0,0.0,1,0,Monthly,0,Orlando,FL
+1,0,0.0,1,0,Monthly,0,Everett,WA
+0,0,0.0,1,0,Monthly,1,Austin,TX
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,1,Casar,NC
+1,0,0.0,1,0,Monthly,0,Edmonds,WA
+0,0,0.0,1,1,Monthly,1,Kansas City,MO
+1,0,0.0,1,0,Monthly,0,Waukesha,WI
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,South Dartmouth,MA
+0,0,0.0,1,0,Monthly,1,San Antonio,TX
+0,0,0.0,1,1,Monthly,0,Saratoga Springs,NY
+0,0,0.0,1,1,Monthly,1,Richardson,TX
+1,0,0.0,1,1,Monthly,0,Los Angeles,CA
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,1,West Hollywood,CA
+1,0,0.0,1,0,Monthly,0,Charlotte,NC
+0,0,0.0,1,0,Monthly,0,Salt Lake City,UT
+0,0,0.0,1,1,Monthly,1,Seattle,WA
+1,0,0.0,1,0,Monthly,0,Austell,GA
+1,0,0.0,1,1,Monthly,1,Mesa,AZ
+1,0,0.0,1,0,Monthly,0,Newport News,VA
+1,0,0.0,1,0,Monthly,0,Portland,OR
+0,0,0.0,1,0,Monthly,0,Columbus,GA
+1,0,0.0,1,1,Monthly,1,Madison,WI
+0,0,0.0,1,1,Monthly,1,Joliet,IL
+1,0,0.0,1,0,Monthly,0,Cincinnati,OH
+1,0,0.0,1,1,Monthly,1,Charlotte,NC
+1,0,0.0,1,0,Monthly,0,Harrison Township,MI
+0,0,0.0,1,1,Monthly,0,Beverly Hills,CA
+0,0,0.0,1,0,Monthly,0,Waterloo,IA
+0,0,0.0,1,1,Monthly,1,Orange,CA
+1,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,0,Monthly,1,,
+0,0,0.0,1,1,Monthly,0,Redondo Beach,CA
+1,0,0.0,1,1,Monthly,1,Crosby,TX
+0,0,0.0,1,1,Monthly,0,Seattle,WA
+1,0,0.0,1,1,Monthly,0,Fremont,CA
+1,0,0.0,1,0,Monthly,1,Marietta,GA
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,0,Monthly,1,Lincoln,NE
+1,0,0.0,1,0,Monthly,0,Denver,CO
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Des Moines,IA
+1,0,0.0,1,0,Monthly,0,Raleigh,NC
+0,0,0.0,1,0,Monthly,0,,
+0,0,0.0,1,0,Monthly,0,Marietta,GA
+1,0,0.0,1,0,Monthly,0,Henderson,KY
+0,0,0.0,1,0,Monthly,0,Portland,OR
+0,0,0.0,1,1,Monthly,0,Lakewood,CO
+0,0,0.0,1,1,Monthly,1,Kansas City,MO
+1,0,0.0,1,1,Monthly,1,Roswell,GA
+0,0,0.0,1,0,Monthly,0,Richardson,TX
+1,0,0.0,1,0,Monthly,0,Portland,OR
+0,0,0.0,1,1,Monthly,1,Hampshire,IL
+0,0,1.0,1,1,Monthly,1,Canonsburg,PA
+1,0,0.0,1,0,Monthly,0,West Allis,WI
+1,0,0.0,1,1,Monthly,0,Suwanee,GA
+0,0,0.0,1,1,Monthly,0,Palo Alto,CA
+1,0,0.0,1,1,Monthly,0,Austin,TX
+0,0,0.0,1,1,Monthly,0,Seattle,WA
+0,0,0.0,1,1,Monthly,1,San Antonio,TX
+1,0,0.0,1,1,Monthly,1,Lexington,SC
+1,0,0.0,1,0,Monthly,0,Springfield,MO
+1,0,0.0,1,0,Monthly,0,Tyler,TX
+0,0,0.0,1,0,Monthly,1,Sioux Falls,SD
+1,0,0.0,1,0,Monthly,1,Greenwood,IN
+1,0,0.0,1,0,Monthly,0,Boise,ID
+1,0,0.0,1,1,Monthly,0,Pico Rivera,CA
+1,0,0.0,1,1,Monthly,0,Austin,TX
+0,0,0.0,1,1,Monthly,0,Dallas,TX
+1,0,0.0,1,1,Monthly,1,Euless,TX
+0,0,0.0,1,0,Monthly,0,Galveston,TX
+1,0,0.0,1,0,Monthly,0,Madison,WI
+0,0,0.0,1,1,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Prairie Village,KS
+0,0,0.0,1,1,Monthly,1,New Castle,DE
+1,0,1.0,1,0,Monthly,1,Irmo,SC
+1,0,0.0,1,0,Monthly,0,Hartland,WI
+1,0,0.0,1,1,Monthly,1,Cedar Knolls,NJ
+0,0,0.0,1,1,Monthly,1,Royal Oak,MI
+1,0,0.0,1,0,Monthly,1,Cary,NC
+1,0,0.0,1,0,Monthly,1,Jackson,WI
+0,0,0.0,1,0,Monthly,0,Salt Lake City,UT
+1,0,0.0,1,1,Monthly,1,Philadelphia,PA
+1,0,0.0,1,0,Monthly,0,Ann Arbor,MI
+0,0,0.0,1,0,Monthly,1,Washington,MI
+0,0,0.0,1,0,Monthly,1,Chattanooga,TN
+1,0,0.0,1,0,Monthly,1,Madison,WI
+1,0,0.0,1,0,Monthly,1,Clayton,NC
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,0,Monthly,0,Hillsboro,OR
+1,0,0.0,1,0,Monthly,0,Delaware,OH
+1,0,0.0,1,0,Monthly,0,Anchorage,AK
+1,0,0.0,1,0,Monthly,0,Tampa,FL
+1,0,0.0,1,0,Monthly,1,Dallas,GA
+1,0,0.0,1,1,Monthly,0,Seal Beach,CA
+1,0,0.0,1,0,Monthly,0,Arlington,TX
+0,0,1.0,1,1,Monthly,1,Converse,TX
+1,0,0.0,1,1,Monthly,1,San Francisco,CA
+1,0,0.0,1,0,Monthly,1,Lawrence,KS
+1,0,0.0,1,1,Monthly,0,Edina,MN
+0,0,0.0,1,0,Monthly,1,Sterrett,AL
+0,0,0.0,1,1,Monthly,0,Pennsauken,NJ
+1,0,0.0,1,1,Monthly,0,Durham,NC
+1,0,0.0,1,1,Monthly,1,Cincinnati,OH
+0,0,0.0,1,1,Monthly,0,Edgewater,NJ
+0,0,0.0,1,0,Monthly,0,Danbury,CT
+0,0,0.0,1,0,Monthly,0,Dallas,TX
+0,0,0.0,1,0,Monthly,1,Mooresville,NC
+0,0,0.0,1,0,Monthly,0,Saint Louis,MO
+0,0,0.0,1,0,Monthly,1,Fort Smith,AR
+1,0,0.0,1,1,Monthly,0,Milford,CT
+0,0,0.0,1,0,Monthly,1,Burley,ID
+1,0,0.0,1,0,Monthly,1,Springfield,OH
+0,0,1.0,1,1,Monthly,1,Hurricane,UT
+0,0,0.0,1,0,Monthly,0,Little Rock,AR
+0,0,1.0,1,1,Monthly,1,Cincinnati,OH
+1,0,0.0,1,0,Monthly,0,Marlton,NJ
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+0,0,0.0,1,1,Monthly,1,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,1,Monthly,1,Mansfield,TX
+0,0,0.0,1,0,Monthly,0,Charlotte,NC
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,0,Monthly,1,Hiram,GA
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Bethesda,MD
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Vadnais Heights,MN
+1,0,0.0,1,0,Monthly,0,Grand Prairie,TX
+1,0,0.0,1,0,Monthly,0,Tampa,FL
+0,0,0.0,1,1,Monthly,1,Los Angeles,CA
+0,0,0.0,1,0,Monthly,0,Sioux Falls,SD
+1,0,0.0,1,0,Monthly,1,Randallstown,MD
+1,0,0.0,1,0,Monthly,0,Anchorage,AK
+1,0,0.0,1,0,Monthly,0,Winter Park,FL
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+0,0,0.0,1,1,Monthly,0,South Burlington,VT
+0,0,0.0,1,0,Monthly,0,Louisville,KY
+0,0,0.0,1,1,Monthly,1,Riverview,FL
+0,0,0.0,1,1,Monthly,1,Missoula,MT
+1,0,0.0,1,1,Monthly,0,San Diego,CA
+1,0,0.0,1,0,Monthly,0,Tampa,FL
+0,0,0.0,1,0,Monthly,0,Minneapolis,MN
+1,0,0.0,1,1,Monthly,0,Somerville,MA
+1,0,0.0,1,0,Monthly,0,Randallstown,MD
+0,0,0.0,1,0,Monthly,0,Beaver Dam,WI
+1,0,0.0,1,1,Monthly,1,Alpharetta,GA
+0,0,0.0,1,0,Monthly,0,Lebanon,OR
+1,0,0.0,1,0,Monthly,0,Denton,TX
+0,0,0.0,1,1,Monthly,0,Vista,CA
+1,0,0.0,1,0,Monthly,1,West Lafayette,IN
+0,0,0.0,1,1,Monthly,1,Denver,CO
+1,0,0.0,1,0,Monthly,0,Portland,OR
+0,0,1.0,1,1,Monthly,1,Henderson,NV
+0,0,0.0,1,0,Monthly,0,,
+1,0,0.0,1,0,Monthly,0,Bloomington,IN
+0,0,0.0,1,0,Monthly,0,Saint Paul,MN
+0,0,0.0,1,1,Monthly,0,Valley Village,CA
+0,0,0.0,1,0,Monthly,0,Westland,MI
+1,0,0.0,1,0,Monthly,1,Des Moines,IA
+0,0,0.0,1,0,Monthly,0,Richardson,TX
+0,0,0.0,1,1,Monthly,1,Atlanta,GA
+0,0,0.0,1,1,Monthly,0,Philadelphia,PA
+0,0,0.0,1,1,Monthly,1,Memphis,TN
+1,0,0.0,1,1,Monthly,1,Washington,DC
+1,0,0.0,1,1,Monthly,1,Pasadena,CA
+1,0,0.0,1,0,Monthly,0,Alpharetta,GA
+1,0,0.0,1,0,Monthly,0,Petersburg,VA
+0,0,0.0,1,0,Monthly,1,West Columbia,SC
+1,0,0.0,1,0,Monthly,1,Fort Collins,CO
+1,0,0.0,1,0,Monthly,1,Lithonia,GA
+0,0,1.0,1,1,Monthly,1,North Bethesda,MD
+1,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Bloomington,IN
+0,0,0.0,1,1,Monthly,1,Berkeley,CA
+1,0,0.0,1,0,Monthly,0,Edgerton,WI
+0,0,1.0,1,1,Monthly,1,Columbia,MO
+0,0,0.0,1,0,Monthly,0,Aloha,OR
+0,0,0.0,1,1,Monthly,0,Long Beach,CA
+1,0,0.0,1,1,Monthly,1,Los Angeles,CA
+1,0,0.0,1,1,Monthly,0,Chicago,IL
+0,0,0.0,1,0,Monthly,0,Minot,ND
+1,0,0.0,1,0,Monthly,1,Madison,WI
+0,0,0.0,1,1,Monthly,1,Cedar City,UT
+1,0,0.0,1,1,Monthly,0,Poulsbo,WA
+1,0,0.0,1,1,Monthly,0,Austin,TX
+0,0,0.0,1,1,Monthly,1,Beverly Hills,CA
+1,0,0.0,1,0,Monthly,0,Belleville,MI
+1,0,0.0,1,0,Monthly,0,Johnston,IA
+1,0,0.0,1,0,Monthly,1,Lithonia,GA
+1,0,0.0,1,0,Monthly,0,Denver,CO
+1,0,0.0,1,0,Monthly,0,Dike,IA
+0,0,0.0,1,0,Monthly,1,Milwaukie,OR
+0,0,1.0,1,1,Monthly,1,Columbia,SC
+1,0,0.0,1,1,Monthly,0,,
+1,0,0.0,1,0,Monthly,1,Jackson,WI
+0,0,0.0,1,0,Monthly,0,Salt Lake City,UT
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Saint Louis,MO
+0,0,0.0,1,0,Monthly,0,Round Rock,TX
+1,0,0.0,1,1,Monthly,1,Neptune City,NJ
+1,0,0.0,1,0,Monthly,0,Austin,TX
+0,0,0.0,1,1,Monthly,1,Raleigh,NC
+0,0,0.0,1,1,Monthly,0,Saint Paul,MN
+0,0,0.0,1,1,Monthly,1,Dallas,TX
+1,0,0.0,1,0,Monthly,1,Omaha,NE
+0,0,0.0,1,0,Monthly,1,Altoona,IA
+0,0,0.0,1,1,Monthly,1,San Diego,CA
+1,0,0.0,1,1,Monthly,0,Glendale,CA
+0,0,0.0,1,1,Monthly,0,Seattle,WA
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,0,Monthly,0,Spokane Valley,WA
+0,0,0.0,1,1,Monthly,0,Austin,TX
+0,0,0.0,1,1,Monthly,1,Alexandria,VA
+1,0,0.0,1,0,Monthly,0,Tigard,OR
+1,0,0.0,1,0,Monthly,0,Abilene,TX
+1,0,0.0,1,0,Monthly,1,Cheyenne,WY
+1,0,0.0,1,1,Monthly,1,Riverview,FL
+1,0,0.0,1,0,Monthly,0,Baton Rouge,LA
+0,0,0.0,1,0,Monthly,0,Tacoma,WA
+0,0,0.0,1,0,Monthly,0,Ames,IA
+0,0,0.0,1,0,Monthly,0,Ames,IA
+1,0,0.0,1,0,Monthly,1,Lithonia,GA
+0,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Saint Louis,MO
+0,0,0.0,1,0,Monthly,0,Ames,IA
+1,0,0.0,1,0,Monthly,0,Hampton,VA
+1,0,0.0,1,0,Monthly,1,Lansing,MI
+1,0,0.0,1,1,Monthly,0,Los Angeles,CA
+0,0,0.0,1,0,Monthly,0,Chubbuck,ID
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+0,0,1.0,1,1,Monthly,1,Grand Forks,ND
+0,0,0.0,1,0,Monthly,0,Minot,ND
+0,0,0.0,1,0,Monthly,0,Saint Paul,MN
+0,0,0.0,1,0,Monthly,1,Bentonville,AR
+1,0,0.0,1,0,Monthly,0,Minneapolis,MN
+1,0,0.0,1,0,Monthly,1,Euless,TX
+0,0,0.0,1,0,Monthly,1,,
+0,0,0.0,1,0,Monthly,0,Boise,ID
+0,0,0.0,1,0,Monthly,0,Denton,TX
+1,0,0.0,1,0,Monthly,0,Durham,NC
+1,0,0.0,1,0,Monthly,0,Pasadena,TX
+0,0,0.0,1,1,Monthly,1,American Fork,UT
+1,0,0.0,1,0,Monthly,0,Anchorage,AK
+1,0,0.0,1,0,Monthly,0,Milwaukee,WI
+1,0,0.0,1,0,Monthly,0,Atlanta,GA
+0,0,0.0,1,1,Monthly,1,Mountlake Terrace,WA
+0,0,0.0,1,1,Monthly,1,Bismarck,ND
+0,0,0.0,1,1,Monthly,1,Lubbock,TX
+0,0,0.0,1,1,Monthly,1,Washington,DC
+1,0,0.0,1,0,Monthly,0,Indianapolis,IN
+1,0,0.0,1,0,Monthly,0,Mountlake Terrace,WA
+1,0,0.0,1,0,Monthly,0,Fort Collins,CO
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,West Linn,OR
+1,0,1.0,1,1,Monthly,1,Euless,TX
+1,0,0.0,1,1,Monthly,1,Mequon,WI
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,1,Kansas City,MO
+1,0,0.0,1,0,Monthly,0,Salt Lake City,UT
+1,0,0.0,1,0,Monthly,0,Antioch,TN
+1,0,0.0,1,0,Monthly,0,Kingwood,TX
+1,0,1.0,1,1,Monthly,1,Denver,CO
+0,0,0.0,1,0,Monthly,1,Washington Township,MI
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,0,Monthly,0,Norfolk,NE
+1,0,0.0,1,0,Monthly,0,Taunton,MA
+1,0,0.0,1,0,Monthly,0,Manchester,NH
+1,0,0.0,1,1,Monthly,1,Kenmore,WA
+1,0,0.0,1,0,Monthly,0,Ann Arbor,MI
+1,0,0.0,1,1,Monthly,0,Washington,DC
+0,0,0.0,1,0,Monthly,1,Lexington,SC
+1,0,0.0,1,0,Monthly,1,Las Vegas,NV
+0,0,0.0,1,1,Monthly,0,Long Beach,CA
+1,0,0.0,1,0,Monthly,0,Laurel,MD
+0,0,0.0,1,0,Monthly,0,Austin,TX
+0,0,0.0,1,0,Monthly,0,Cedar Falls,IA
+1,0,0.0,1,0,Monthly,0,Cincinnati,OH
+1,0,0.0,1,0,Monthly,0,Rapid City,SD
+0,0,0.0,1,1,Monthly,0,Oceanside,CA
+1,0,0.0,1,1,Monthly,1,Colorado Springs,CO
+1,0,0.0,1,1,Monthly,0,Austin,TX
+0,0,0.0,1,0,Monthly,0,Denton,TX
+1,0,0.0,1,1,Monthly,0,Hanover,MD
+0,0,0.0,1,0,Monthly,1,Apex,NC
+1,0,0.0,1,0,Monthly,0,Elyria,OH
+1,0,0.0,1,0,Monthly,1,Dayton,OH
+1,0,0.0,1,0,Monthly,0,Denver,CO
+0,0,0.0,1,0,Monthly,1,Salt Lake City,UT
+1,0,0.0,1,1,Monthly,0,Austin,TX
+0,0,0.0,1,1,Monthly,1,Irondale,AL
+1,0,0.0,1,0,Monthly,0,Oaklyn,NJ
+0,0,0.0,1,0,Monthly,1,Grand Forks,ND
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,0,Monthly,1,Durham,NC
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Tallahassee,FL
+1,0,0.0,1,0,Monthly,0,Manchester,NH
+1,0,0.0,1,0,Monthly,0,Norman,OK
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,1,Monthly,1,Los Gatos,CA
+1,0,0.0,1,0,Monthly,1,Cottage Grove,MN
+0,0,0.0,1,1,Monthly,0,Hermosa Beach,CA
+0,0,0.0,1,0,Monthly,1,Concord,NC
+1,0,0.0,1,0,Monthly,0,Phoenix,AZ
+1,0,0.0,1,0,Monthly,1,Trenton,NJ
+0,0,0.0,1,1,Monthly,1,Saint Louis,MO
+1,0,0.0,1,0,Monthly,0,Minneapolis,MN
+0,0,0.0,1,0,Monthly,1,Minot,ND
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,0,Ann Arbor,MI
+1,0,0.0,1,0,Monthly,1,East Hartford,CT
+0,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,San Antonio,TX
+1,0,0.0,1,1,Monthly,1,Hackensack,NJ
+1,0,0.0,1,1,Monthly,0,Manchester,NH
+1,0,0.0,1,0,Monthly,0,Tulsa,OK
+1,0,0.0,1,1,Monthly,1,Abington,MA
+1,0,0.0,1,0,Monthly,1,San Antonio,TX
+0,0,0.0,1,0,Monthly,0,Pittsburgh,PA
+1,0,0.0,1,0,Monthly,0,Colorado Springs,CO
+1,0,0.0,1,1,Monthly,0,Cerritos,CA
+1,0,0.0,1,0,Monthly,0,Milwaukee,WI
+1,0,0.0,1,0,Monthly,0,Roswell,GA
+1,0,0.0,1,1,Monthly,1,Quincy,MA
+1,0,0.0,1,0,Monthly,0,Roselle Park,NJ
+0,0,0.0,1,0,Monthly,1,,
+1,0,0.0,1,0,Monthly,0,Knightdale,NC
+1,0,0.0,1,1,Monthly,1,Cedar Hill,TX
+0,0,0.0,1,1,Monthly,1,Pingree Grove,IL
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+0,0,0.0,1,0,Monthly,1,Saint Louis,MO
+1,0,0.0,1,1,Monthly,0,Washington,DC
+0,0,0.0,1,0,Monthly,0,Austin,TX
+0,0,0.0,1,1,Monthly,1,Portland,OR
+0,0,0.0,1,0,Monthly,0,Baton Rouge,LA
+0,0,0.0,1,0,Monthly,0,,
+1,0,0.0,1,0,Monthly,0,Saint Paul,MN
+0,0,0.0,1,1,Monthly,1,York,PA
+0,0,0.0,1,1,Monthly,0,Encinitas,CA
+1,0,0.0,1,0,Monthly,0,Las Vegas,NV
+1,0,0.0,1,1,Monthly,1,Ellicott City,MD
+0,0,1.0,1,1,Monthly,1,Saint Cloud,FL
+1,0,0.0,1,0,Monthly,0,Richmond,VA
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,0,Monthly,0,,
+0,0,0.0,1,1,Monthly,0,Arlington,VA
+1,0,0.0,1,1,Monthly,1,Hyattsville,MD
+1,0,0.0,1,0,Monthly,1,Maple Grove,MN
+1,0,0.0,1,0,Monthly,0,Springfield,OH
+1,0,0.0,1,0,Monthly,0,Ann Arbor,MI
+0,0,0.0,1,1,Monthly,0,Whitefish Bay,WI
+1,0,0.0,1,0,Monthly,0,Lexington Park,MD
+1,0,0.0,1,1,Monthly,0,Woodinville,WA
+1,0,0.0,1,0,Monthly,0,Bryan,TX
+1,0,0.0,1,0,Monthly,0,Saint Louis,MO
+0,0,0.0,1,0,Monthly,0,Philadelphia,PA
+0,0,1.0,1,1,Monthly,1,Skillman,NJ
+1,0,0.0,1,0,Monthly,1,Cary,NC
+1,0,0.0,1,0,Monthly,0,Monroeville,PA
+0,0,0.0,1,1,Monthly,0,Renton,WA
+0,0,0.0,1,0,Monthly,1,San Antonio,TX
+0,0,0.0,1,0,Monthly,0,Hoover,AL
+1,0,0.0,1,1,Monthly,0,Minneapolis,MN
+0,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,1,Monthly,0,Danbury,CT
+1,0,0.0,1,1,Monthly,1,Bellevue,WA
+1,0,0.0,1,1,Monthly,1,Austin,TX
+1,0,0.0,1,0,Monthly,0,Coraopolis,PA
+1,0,0.0,1,0,Monthly,0,Lawrenceville,GA
+1,0,0.0,1,1,Monthly,1,San Antonio,TX
+0,0,0.0,1,1,Monthly,1,Kaneohe,HI
+1,0,0.0,1,1,Monthly,1,Longmont,CO
+1,0,0.0,1,0,Monthly,0,Tacoma,WA
+1,0,0.0,1,0,Monthly,1,Anniston,AL
+1,0,0.0,1,1,Monthly,0,San Diego,CA
+0,0,0.0,1,0,Monthly,0,Norfolk,VA
+0,0,0.0,1,0,Monthly,0,San Antonio,TX
+0,0,0.0,1,0,Monthly,0,Troy,NY
+1,0,0.0,1,0,Monthly,0,Lewisville,TX
+1,0,0.0,1,0,Monthly,1,Colorado Springs,CO
+0,0,0.0,1,0,Monthly,1,Mandan,ND
+0,0,0.0,1,0,Monthly,0,Bossier City,LA
+1,0,0.0,1,1,Monthly,1,Orlando,FL
+1,0,0.0,1,1,Monthly,0,Jersey City,NJ
+1,0,0.0,1,0,Monthly,1,Omaha,NE
+1,0,0.0,1,0,Monthly,1,Clarkston,GA
+0,0,0.0,1,0,Monthly,0,Phoenix,AZ
+0,0,0.0,1,0,Monthly,1,San Antonio,TX
+1,0,0.0,1,0,Monthly,0,Overland Park,KS
+1,0,0.0,1,0,Monthly,1,Apex,NC
+0,0,0.0,1,1,Monthly,1,San Jose,CA
+0,0,0.0,1,1,Monthly,0,El Segundo,CA
+0,0,0.0,1,1,Monthly,1,Altoona,IA
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Omaha,NE
+0,0,0.0,1,0,Monthly,1,Shreveport,LA
+1,0,0.0,1,0,Monthly,0,Cleveland,OH
+1,0,0.0,1,1,Monthly,1,Hawthorne,CA
+1,0,0.0,1,0,Monthly,0,Hot Springs,AR
+1,0,0.0,1,0,Monthly,0,Ann Arbor,MI
+1,0,0.0,1,1,Monthly,0,Eugene,OR
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Wexford,PA
+1,0,0.0,1,1,Monthly,1,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Lenexa,KS
+0,0,0.0,1,1,Monthly,1,Gansevoort,NY
+0,0,0.0,1,1,Monthly,1,Kill Devil Hills,NC
+0,0,0.0,1,0,Monthly,0,Richardson,TX
+1,0,0.0,1,1,Monthly,0,Lynnwood,WA
+0,0,0.0,1,0,Monthly,0,Van Buren,AR
+1,0,0.0,1,0,Monthly,0,Beaverton,OR
+1,0,0.0,1,0,Monthly,0,Tucson,AZ
+1,0,0.0,1,0,Monthly,0,Baltimore,MD
+0,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,0,Monthly,0,Pasadena,TX
+0,0,0.0,1,1,Monthly,1,Reno,NV
+1,0,1.0,1,1,Monthly,1,Humble,TX
+1,0,0.0,1,1,Monthly,0,South Weymouth,MA
+0,0,0.0,1,1,Monthly,1,Winter Park,FL
+1,0,0.0,1,0,Monthly,0,West Haven,UT
+1,0,0.0,1,0,Monthly,0,Cincinnati,OH
+1,0,0.0,1,1,Monthly,0,Plainsboro,NJ
+1,0,0.0,1,0,Monthly,1,Hudson,IA
+0,0,0.0,1,0,Monthly,1,Jenks,OK
+0,0,0.0,1,0,Monthly,0,Edmond,OK
+1,0,0.0,1,0,Monthly,0,Gaithersburg,MD
+1,0,0.0,1,0,Monthly,0,Lewisville,TX
+0,0,0.0,1,0,Monthly,1,Fort Smith,AR
+1,0,0.0,1,1,Monthly,1,Mount Holly,NJ
+0,0,0.0,1,0,Monthly,1,Shawnee,OK
+0,0,0.0,1,1,Monthly,0,Everett,WA
+1,0,0.0,1,0,Monthly,0,Evansville,IN
+1,0,0.0,1,0,Monthly,0,Bloomington,IN
+0,0,0.0,1,0,Monthly,0,Glendale,AZ
+1,0,0.0,1,0,Monthly,0,Knoxville,TN
+0,0,0.0,1,0,Monthly,0,South Saint Paul,MN
+1,0,0.0,1,0,Monthly,0,Baltimore,MD
+0,0,0.0,1,0,Monthly,0,Des Moines,IA
+0,0,1.0,1,1,Monthly,1,Portland,OR
+1,0,0.0,1,0,Monthly,0,Happy Valley,OR
+1,0,0.0,1,0,Monthly,1,Federal Way,WA
+0,0,0.0,1,0,Monthly,1,Sioux Falls,SD
+1,0,0.0,1,0,Monthly,0,Maple Shade,NJ
+1,0,0.0,1,1,Monthly,0,Arlington,VA
+1,0,0.0,1,0,Monthly,0,Spring,TX
+0,0,1.0,1,1,Monthly,1,Columbus,OH
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,1,Monthly,0,Madison,WI
+0,0,0.0,1,1,Monthly,1,Matthews,NC
+1,0,0.0,1,0,Monthly,0,Orlando,FL
+1,0,0.0,1,0,Monthly,0,San Antonio,TX
+1,0,0.0,1,0,Monthly,1,Indianapolis,IN
+1,0,0.0,1,0,Monthly,0,Denton,TX
+0,0,0.0,1,0,Monthly,0,Ames,IA
+0,0,0.0,1,1,Monthly,0,San Diego,CA
+1,0,0.0,1,0,Monthly,0,Springfield,NJ
+1,0,0.0,1,0,Monthly,1,Coventry,RI
+0,0,0.0,1,1,Monthly,1,Mandan,ND
+1,0,0.0,1,0,Monthly,0,Sioux Falls,SD
+0,0,0.0,1,0,Monthly,0,Frederick,MD
+0,0,0.0,1,1,Monthly,1,Phoenix,AZ
+0,0,1.0,1,1,Monthly,1,Portland,OR
+1,0,0.0,1,0,Monthly,0,Norman,OK
+1,0,0.0,1,0,Monthly,0,Norwalk,IA
+0,0,1.0,1,1,Monthly,1,Middletown,OH
+0,0,0.0,1,1,Monthly,1,Dallas,TX
+0,0,0.0,1,0,Monthly,0,Wauwatosa,WI
+1,0,0.0,1,1,Monthly,0,Arlington,VA
+0,0,0.0,1,0,Monthly,0,Lubbock,TX
+1,0,0.0,1,1,Monthly,1,White Bear Lake,MN
+1,0,0.0,1,1,Monthly,0,Arlington,VA
+0,0,0.0,1,1,Monthly,1,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,1,Monthly,0,Washington,DC
+0,0,0.0,1,1,Monthly,1,Glenmont,NY
+0,0,0.0,1,1,Monthly,1,Charlotte,NC
+1,0,0.0,1,0,Monthly,1,Las Vegas,NV
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Raleigh,NC
+0,0,1.0,1,1,Monthly,1,Reno,NV
+0,0,0.0,1,0,Monthly,1,Rochester,NY
+0,0,0.0,1,0,Monthly,0,Austin,TX
+0,0,0.0,1,0,Monthly,1,Detroit,MI
+1,0,0.0,1,1,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Glen Burnie,MD
+1,0,0.0,1,0,Monthly,1,Brandon,FL
+1,0,0.0,1,0,Monthly,1,Greeley,CO
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,0,Monthly,1,New Braunfels,TX
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,1,Monthly,1,Sacramento,CA
+1,0,0.0,1,0,Monthly,0,Portland,OR
+1,0,0.0,1,1,Monthly,1,Cedar Knolls,NJ
+1,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,1,Monthly,1,Los Angeles,CA
+0,0,0.0,1,1,Monthly,1,Philadelphia,PA
+1,0,0.0,1,0,Monthly,1,Euless,TX
+1,0,0.0,1,0,Monthly,0,Milford,NH
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,1,Tea,SD
+0,0,0.0,1,1,Monthly,0,Washington,DC
+0,0,0.0,1,1,Monthly,0,Fort Lauderdale,FL
+0,0,0.0,1,0,Monthly,1,Louisville,OH
+1,0,0.0,1,0,Monthly,0,Lawrence,MA
+0,1,1.0,1,1,Monthly,1,Tallahassee,FL
+1,0,0.0,1,1,Monthly,1,Jersey City,NJ
+1,0,1.0,1,0,Monthly,1,Locust,NC
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,0,Monthly,1,Kansas City,MO
+1,0,0.0,1,0,Monthly,0,Salt Lake City,UT
+1,0,0.0,1,0,Monthly,0,Cary,NC
+1,0,0.0,1,0,Monthly,0,Des Moines,IA
+0,0,0.0,1,1,Monthly,0,La Verne,CA
+0,0,0.0,1,1,Monthly,0,Arlington,VA
+1,0,0.0,1,0,Monthly,0,,
+1,0,0.0,1,1,Monthly,0,Seattle,WA
+1,0,0.0,1,1,Monthly,0,Saint Paul,MN
+0,0,0.0,1,0,Monthly,0,Minneapolis,MN
+1,0,0.0,1,1,Monthly,1,Tampa,FL
+1,0,0.0,1,1,Monthly,1,Denver,CO
+1,0,0.0,1,1,Monthly,0,Austin,TX
+0,0,0.0,1,1,Monthly,1,Eagle River,AK
+0,0,0.0,1,1,Monthly,1,Philadelphia,PA
+1,0,0.0,1,0,Monthly,0,Kent,WA
+1,0,1.0,1,1,Monthly,1,Long Beach,CA
+0,0,0.0,1,1,Monthly,1,Baton Rouge,LA
+1,0,0.0,1,0,Monthly,0,Cincinnati,OH
+0,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,1,Monthly,0,Austin,TX
+0,0,0.0,1,0,Monthly,1,Sioux Falls,SD
+1,0,0.0,1,0,Monthly,0,Springdale,AR
+1,0,0.0,1,0,Monthly,0,Franklin,OH
+1,0,0.0,1,1,Monthly,0,Hyde Park,MA
+1,0,0.0,1,1,Monthly,0,Chicago,IL
+1,0,0.0,1,1,Monthly,1,East Orange,NJ
+1,0,0.0,1,0,Monthly,1,Pittsburgh,PA
+1,0,0.0,1,0,Monthly,0,Glen Burnie,MD
+0,0,0.0,1,1,Monthly,1,Mandan,ND
+1,0,0.0,1,0,Monthly,0,Eatontown,NJ
+1,0,0.0,1,0,Monthly,0,Macon,GA
+0,0,0.0,1,0,Monthly,0,Union City,GA
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,1,Monthly,0,Raleigh,NC
+1,0,0.0,1,1,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,1,Madison,TN
+1,0,0.0,1,0,Monthly,0,Jacksonville,FL
+0,0,0.0,1,1,Monthly,1,Fort Collins,CO
+1,0,0.0,1,1,Monthly,0,Boston,MA
+0,0,0.0,1,1,Monthly,1,Denver,CO
+0,0,0.0,1,0,Monthly,1,Frederick,MD
+1,0,0.0,1,0,Monthly,0,Sioux Falls,SD
+1,0,0.0,1,1,Monthly,1,Madison,WI
+0,0,0.0,1,1,Monthly,1,Tuscaloosa,AL
+1,0,0.0,1,0,Monthly,1,Columbia,SC
+1,0,0.0,1,0,Monthly,1,Waverly,IA
+0,0,0.0,1,0,Monthly,0,Portland,OR
+0,0,0.0,1,0,Monthly,1,Clayton,NC
+0,0,0.0,1,1,Monthly,1,Auburn Hills,MI
+1,0,0.0,1,0,Monthly,0,Denver,CO
+1,0,0.0,1,0,Monthly,0,Essexville,MI
+0,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Minneapolis,MN
+1,0,0.0,1,0,Monthly,0,Austin,TX
+0,0,0.0,1,0,Monthly,0,Tuscaloosa,AL
+0,0,0.0,1,1,Monthly,1,Aurora,CO
+0,0,0.0,1,1,Monthly,1,Dallas,TX
+1,0,0.0,1,1,Monthly,0,Los Angeles,CA
+0,0,0.0,1,1,Monthly,0,North Hollywood,CA
+1,0,0.0,1,0,Monthly,0,Phoenix,AZ
+1,0,0.0,1,1,Monthly,0,Bellevue,WA
+0,0,0.0,1,0,Monthly,0,Springfield,MO
+0,0,0.0,1,0,Monthly,1,Tulare,CA
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Loveland,CO
+0,0,0.0,1,0,Monthly,1,Clayton,NC
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Lafayette,IN
+1,0,0.0,1,0,Monthly,0,Saint Louis,MO
+0,0,1.0,1,1,Monthly,1,Clayton,NC
+1,0,0.0,1,0,Monthly,0,Toledo,OH
+1,0,0.0,1,0,Monthly,0,Stow,OH
+1,0,0.0,1,1,Monthly,1,Saint Louis Park,MN
+1,0,0.0,1,0,Monthly,0,Cleveland,OH
+0,0,0.0,1,0,Monthly,0,Nevada,IA
+1,0,0.0,1,0,Monthly,0,Homestead,PA
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Raleigh,NC
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+0,0,1.0,1,1,Monthly,1,Saint George,UT
+1,0,0.0,1,0,Monthly,0,Tucson,AZ
+0,0,0.0,1,0,Monthly,0,Grand Forks,ND
+0,0,0.0,1,1,Monthly,1,Chicago,IL
+1,0,0.0,1,1,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Urbandale,IA
+1,0,0.0,1,1,Monthly,1,Colorado Springs,CO
+0,0,0.0,1,1,Monthly,0,Beverly Hills,CA
+1,0,0.0,1,0,Monthly,0,Madison,WI
+0,0,0.0,1,1,Monthly,0,Harrison,NY
+1,0,0.0,1,1,Monthly,0,Boston,MA
+1,0,0.0,1,0,Monthly,0,Woodbridge,VA
+1,0,0.0,1,0,Monthly,0,Austin,TX
+0,0,1.0,1,0,Monthly,1,Junction City,KS
+0,0,0.0,1,0,Monthly,0,Seattle,WA
+1,0,0.0,1,0,Monthly,0,Alexandria,VA
+1,0,0.0,1,0,Monthly,0,Wenatchee,WA
+0,0,1.0,1,1,Monthly,1,Orlando,FL
+0,0,0.0,1,0,Monthly,0,Boise,ID
+1,0,0.0,1,0,Monthly,0,Minneapolis,MN
+1,0,0.0,1,1,Monthly,1,Madison,WI
+1,0,0.0,1,0,Monthly,0,Manchester,NH
+1,0,0.0,1,0,Monthly,1,Knightdale,NC
+1,0,0.0,1,0,Monthly,0,Colorado Springs,CO
+0,0,0.0,1,0,Monthly,1,Fayetteville,AR
+1,0,0.0,1,0,Monthly,0,Philadelphia,PA
+0,0,0.0,1,1,Monthly,0,Arlington,VA
+1,0,0.0,1,0,Monthly,0,Arlington,TX
+1,0,0.0,1,0,Monthly,0,Loveland,OH
+1,0,0.0,1,0,Monthly,0,Norman,OK
+1,0,0.0,1,1,Monthly,0,Kirkland,WA
+1,0,0.0,1,1,Monthly,0,Detroit,MI
+1,0,0.0,1,0,Monthly,0,Stone Mountain,GA
+1,0,0.0,1,0,Monthly,0,Savannah,GA
+1,0,0.0,1,1,Monthly,0,Winooski,VT
+0,0,0.0,1,0,Monthly,0,Ames,IA
+1,0,1.0,1,0,Monthly,0,Birmingham,AL
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+0,0,0.0,1,1,Monthly,0,Bellevue,WA
+0,0,0.0,1,0,Monthly,1,Myrtle Beach,SC
+1,0,0.0,1,0,Monthly,0,Norman,OK
+1,0,0.0,1,0,Monthly,0,Buffalo,NY
+0,0,0.0,1,0,Monthly,1,Saint Petersburg,FL
+0,0,0.0,1,0,Monthly,0,Detroit,MI
+1,0,0.0,1,0,Monthly,0,Vancouver,WA
+0,0,0.0,1,1,Monthly,0,Washington,DC
+0,0,0.0,1,0,Monthly,1,Schofield,WI
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,1,Monthly,1,Lynnwood,WA
+0,0,0.0,1,1,Monthly,1,Grand Junction,CO
+1,0,0.0,1,0,Monthly,0,Eagan,MN
+0,0,0.0,1,0,Monthly,1,Longview,TX
+0,0,0.0,1,0,Monthly,1,Lafayette,IN
+1,0,0.0,1,0,Monthly,0,Oklahoma City,OK
+0,0,1.0,1,1,Monthly,1,Winter Garden,FL
+0,0,0.0,1,1,Monthly,1,Georgetown,TX
+1,0,0.0,1,1,Monthly,1,Jersey City,NJ
+1,0,0.0,1,1,Monthly,0,Springfield,NJ
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Marietta,GA
+1,0,0.0,1,1,Monthly,1,Redmond,WA
+1,0,0.0,1,1,Monthly,0,Millersville,MD
+1,0,0.0,1,0,Monthly,1,Houston,TX
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,1,Oklahoma City,OK
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,1,Monthly,0,Columbia,MD
+1,0,0.0,1,0,Monthly,0,Vancouver,WA
+1,0,0.0,1,1,Monthly,0,Camarillo,CA
+0,0,0.0,1,0,Monthly,0,Austin,TX
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+0,0,0.0,1,1,Monthly,1,Grandy,NC
+1,0,0.0,1,0,Monthly,0,Roswell,GA
+0,0,0.0,1,0,Monthly,1,Washington Township,MI
+1,0,0.0,1,1,Monthly,1,Antioch,TN
+1,0,0.0,1,0,Monthly,0,Anchorage,AK
+1,0,0.0,1,0,Monthly,0,Las Vegas,NV
+1,0,0.0,1,0,Monthly,0,Cincinnati,OH
+0,0,0.0,1,0,Monthly,0,Philadelphia,PA
+1,0,0.0,1,1,Monthly,1,Peoria,AZ
+1,0,0.0,1,0,Monthly,0,Norman,OK
+1,0,0.0,1,0,Monthly,0,Perry Hall,MD
+0,0,0.0,1,1,Monthly,1,Encinitas,CA
+1,0,0.0,1,1,Monthly,0,Garfield,NJ
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,1,Monthly,0,Jersey City,NJ
+0,0,0.0,1,0,Monthly,0,Minot,ND
+1,0,0.0,1,0,Monthly,0,Salt Lake City,UT
+1,0,0.0,1,0,Monthly,0,Porterville,CA
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Broadview Heights,OH
+0,0,0.0,1,0,Monthly,1,Pikesville,MD
+0,0,0.0,1,0,Monthly,0,Portland,OR
+1,0,0.0,1,0,Monthly,0,Westerville,OH
+1,0,1.0,1,0,Monthly,1,Glendale,AZ
+0,0,0.0,1,1,Monthly,1,Tuscaloosa,AL
+1,0,0.0,1,0,Monthly,0,Lawrence,NJ
+0,0,1.0,1,0,Monthly,1,Rochester,NY
+1,0,0.0,1,0,Monthly,0,Wichita,KS
+1,0,0.0,1,0,Monthly,0,New Brighton,MN
+0,0,0.0,1,1,Monthly,1,Charleston,SC
+0,0,0.0,1,1,Monthly,0,Santa Ana,CA
+0,0,0.0,1,1,Monthly,1,Bothell,WA
+1,0,0.0,1,0,Monthly,0,Springfield,MO
+1,0,0.0,1,0,Monthly,0,Greenville,NC
+1,0,0.0,1,1,Monthly,1,Los Angeles,CA
+1,0,0.0,1,0,Monthly,1,Clayton,NC
+1,0,0.0,1,0,Monthly,0,North Muskegon,MI
+1,0,0.0,1,0,Monthly,0,Saint Joseph,MO
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,1,Monthly,1,Newton Highlands,MA
+0,0,0.0,1,1,Monthly,0,Hamden,CT
+0,0,0.0,1,0,Monthly,1,Springdale,AR
+0,0,0.0,1,0,Monthly,1,Mooresville,NC
+1,0,0.0,1,0,Monthly,0,Plainfield,IN
+0,0,0.0,1,1,Monthly,1,Durham,NC
+0,0,0.0,1,1,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Tulsa,OK
+1,0,0.0,1,1,Monthly,1,Katy,TX
+1,0,0.0,1,0,Monthly,0,Renton,WA
+1,0,0.0,1,0,Monthly,1,Irmo,SC
+0,0,0.0,1,0,Monthly,0,Fayetteville,AR
+1,0,0.0,1,0,Monthly,0,Decatur,GA
+0,0,0.0,1,1,Monthly,1,Charlotte,NC
+1,0,0.0,1,0,Monthly,0,Sandy,UT
+1,0,0.0,1,1,Monthly,1,Cherry Hill,NJ
+0,0,1.0,1,1,Monthly,1,Lexington,SC
+1,0,0.0,1,0,Monthly,1,Marietta,GA
+1,0,0.0,1,1,Monthly,0,Minneapolis,MN
+1,0,0.0,1,1,Monthly,0,Washington,DC
+1,0,0.0,1,0,Monthly,0,Norman,OK
+1,0,0.0,1,0,Monthly,1,Horicon,WI
+0,0,0.0,1,0,Monthly,0,Golden,CO
+1,0,0.0,1,0,Monthly,0,Bedford,TX
+1,0,0.0,1,0,Monthly,0,Hamilton,OH
+0,0,0.0,1,0,Monthly,0,Overland Park,KS
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,1,Cincinnati,OH
+1,0,0.0,1,0,Monthly,0,Renton,WA
+0,0,0.0,1,0,Monthly,0,Rolla,MO
+0,0,0.0,1,0,Monthly,0,Hopkins,MN
+0,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Bloomington,IN
+1,0,0.0,1,0,Monthly,0,Carmel,IN
+0,0,0.0,1,0,Monthly,1,Henderson,NV
+0,0,0.0,1,0,Monthly,1,Austin,TX
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Alexandria,VA
+1,0,0.0,1,1,Monthly,1,Columbia,MD
+0,0,0.0,1,0,Monthly,0,Grand Forks,ND
+0,0,0.0,1,1,Monthly,0,Hanover,MD
+0,0,0.0,1,1,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Middleton,WI
+0,0,0.0,1,1,Monthly,0,Portland,OR
+0,0,0.0,1,1,Monthly,1,Portland,OR
+1,0,0.0,1,0,Monthly,0,Norman,OK
+1,0,0.0,1,1,Monthly,1,Ramona,CA
+1,0,0.0,1,0,Monthly,0,Grand Rapids,MI
+0,0,0.0,1,0,Monthly,1,Minot,ND
+0,0,0.0,1,1,Monthly,0,Radnor,PA
+1,0,0.0,1,1,Monthly,0,Arlington,VA
+1,0,0.0,1,1,Monthly,1,Minneapolis,MN
+1,0,1.0,1,1,Monthly,1,Saint Petersburg,FL
+0,0,0.0,1,1,Monthly,1,Portland,OR
+1,0,0.0,1,0,Monthly,1,Yorktown,VA
+1,0,0.0,1,0,Monthly,0,Anchorage,AK
+0,0,0.0,1,0,Monthly,1,Hutchinson,MN
+1,0,0.0,1,0,Monthly,1,Powder Springs,GA
+0,0,0.0,1,1,Monthly,1,Orlando,FL
+0,0,0.0,1,0,Monthly,1,Mount Holly,NC
+0,0,0.0,1,1,Monthly,1,Downers Grove,IL
+1,0,0.0,1,0,Monthly,0,Racine,WI
+1,0,0.0,1,0,Monthly,1,Mooresville,NC
+1,0,0.0,1,0,Monthly,1,Dayton,OH
+1,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,0,Boulder,CO
+1,0,0.0,1,0,Monthly,0,Roswell,GA
+0,0,0.0,1,0,Monthly,0,,
+1,0,0.0,1,1,Monthly,0,Washington,DC
+1,0,0.0,1,0,Monthly,0,Lakewood,CO
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+0,0,0.0,1,0,Monthly,1,Clementon,NJ
+0,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Apopka,FL
+1,0,0.0,1,1,Monthly,1,Oxnard,CA
+0,0,0.0,1,0,Monthly,1,Raleigh,NC
+1,0,0.0,1,1,Monthly,0,Washington,DC
+1,0,0.0,1,1,Monthly,1,Denver,CO
+0,0,0.0,1,1,Monthly,0,Rockville,MD
+1,0,0.0,1,0,Monthly,0,Athens,GA
+1,0,0.0,1,0,Monthly,0,Tuscaloosa,AL
+1,0,0.0,1,0,Monthly,1,Lexington,SC
+1,0,0.0,1,1,Monthly,0,Renton,WA
+1,0,0.0,1,0,Monthly,0,Scottsdale,AZ
+1,0,1.0,1,1,Monthly,1,Saginaw,TX
+0,0,0.0,1,1,Monthly,1,Bismarck,ND
+0,0,0.0,1,1,Monthly,0,Jersey City,NJ
+1,0,0.0,1,1,Monthly,1,Oklahoma City,OK
+1,0,0.0,1,0,Monthly,0,Denver,CO
+1,0,1.0,1,1,Monthly,1,Walnut Creek,CA
+1,0,1.0,1,1,Monthly,1,Madison,WI
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,1,Monthly,1,Nixa,MO
+0,0,0.0,1,1,Monthly,1,Bastrop,TX
+0,0,0.0,1,0,Monthly,1,Burleson,TX
+1,0,0.0,1,0,Monthly,1,Marshall,MI
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Blue Springs,MO
+1,0,0.0,1,0,Monthly,1,La Vergne,TN
+0,0,1.0,1,0,Monthly,1,Garland,TX
+0,0,0.0,1,0,Monthly,0,Frederick,MD
+1,0,0.0,1,0,Monthly,0,Sterling Heights,MI
+1,0,0.0,1,0,Monthly,0,Appleton,WI
+0,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Lexington,KY
+0,0,0.0,1,0,Monthly,1,Lady Lake,FL
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,1,Monthly,1,Odenton,MD
+1,0,0.0,1,1,Monthly,1,Lees Summit,MO
+1,0,0.0,1,0,Monthly,0,Texarkana,TX
+1,0,0.0,1,0,Monthly,0,Vancouver,WA
+1,0,0.0,1,0,Monthly,0,Plymouth,MN
+0,0,0.0,1,0,Monthly,1,Hattiesburg,MS
+1,0,0.0,1,0,Monthly,1,Morrisville,NC
+1,0,0.0,1,0,Monthly,0,Orem,UT
+1,0,0.0,1,0,Monthly,0,Arlington,TX
+1,0,0.0,1,0,Monthly,0,Elkhart,IN
+1,0,0.0,1,0,Monthly,0,Edina,MN
+0,0,0.0,1,1,Monthly,0,Hackensack,NJ
+1,0,0.0,1,0,Monthly,0,New Bedford,MA
+1,0,0.0,1,1,Monthly,0,Tampa,FL
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Minneapolis,MN
+1,0,0.0,1,1,Monthly,0,Austin,TX
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,0,Monthly,0,Birmingham,AL
+1,0,0.0,1,0,Monthly,0,Sioux Falls,SD
+1,0,0.0,1,0,Monthly,0,Springfield,MO
+0,0,0.0,1,0,Monthly,0,Rotterdam,NY
+0,0,0.0,1,0,Monthly,1,San Antonio,TX
+1,0,0.0,1,1,Monthly,0,Minneapolis,MN
+1,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,1,Port Richey,FL
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,1,Monthly,0,Madison,WI
+0,0,0.0,1,0,Monthly,0,Sioux Falls,SD
+1,0,0.0,1,0,Monthly,0,Peoria,AZ
+1,0,0.0,1,0,Monthly,0,Cincinnati,OH
+1,0,0.0,1,0,Monthly,0,Coraopolis,PA
+1,0,0.0,1,1,Monthly,0,Minneapolis,MN
+0,0,0.0,1,0,Monthly,0,Minot,ND
+1,0,0.0,1,0,Monthly,0,Cleveland,OH
+1,0,0.0,1,0,Monthly,0,Barrington,NJ
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,0,Monthly,0,Fargo,ND
+1,0,0.0,1,0,Monthly,1,Dallas,GA
+1,0,0.0,1,0,Monthly,0,Madison,WI
+0,0,0.0,1,0,Monthly,0,Ames,IA
+0,0,1.0,1,1,Monthly,1,Battle Ground,WA
+1,0,0.0,1,0,Monthly,0,Cary,NC
+1,0,0.0,1,0,Monthly,0,Forest Lake,MN
+1,0,0.0,1,0,Monthly,0,Virginia Beach,VA
+0,0,0.0,1,1,Monthly,1,Sausalito,CA
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,0,Minneapolis,MN
+1,0,0.0,1,0,Monthly,0,Lafayette,IN
+1,0,0.0,1,0,Monthly,0,Rahway,NJ
+1,0,0.0,1,1,Monthly,0,Orland Park,IL
+1,0,0.0,1,0,Monthly,1,Harrisburg,SD
+1,0,0.0,1,1,Monthly,1,Denver,CO
+1,0,0.0,1,0,Monthly,0,Columbia,SC
+1,0,0.0,1,1,Monthly,1,Upper Marlboro,MD
+1,0,0.0,1,0,Monthly,0,Eatontown,NJ
+1,0,0.0,1,1,Monthly,1,Mason,OH
+1,0,1.0,1,0,Monthly,1,Hoschton,GA
+1,0,0.0,1,0,Monthly,0,Marietta,GA
+0,0,0.0,1,1,Monthly,1,North Haven,CT
+0,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,1,Monroe,NC
+0,0,0.0,1,1,Monthly,1,Livermore,CA
+0,0,0.0,1,0,Monthly,1,Iowa City,IA
+0,0,1.0,1,1,Monthly,1,Destin,FL
+0,0,0.0,1,1,Monthly,1,Rock Hill,SC
+0,0,0.0,1,0,Monthly,1,Round Rock,TX
+1,0,0.0,1,0,Monthly,1,Lithonia,GA
+1,0,0.0,1,1,Monthly,1,Alpharetta,GA
+1,0,0.0,1,0,Monthly,0,San Antonio,TX
+0,0,0.0,1,1,Monthly,0,Seattle,WA
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Edmond,OK
+0,1,1.0,1,1,Monthly,1,Las Vegas,NV
+0,0,0.0,1,1,Monthly,0,Washington,DC
+0,0,0.0,1,1,Monthly,1,Asheville,NC
+1,0,0.0,1,0,Monthly,1,Sioux Falls,SD
+0,0,1.0,1,1,Monthly,1,Clayton,NC
+0,0,0.0,1,0,Monthly,0,Phoenix,AZ
+0,0,0.0,1,1,Monthly,1,Ann Arbor,MI
+1,0,0.0,1,0,Monthly,0,Richmond,VA
+1,0,0.0,1,0,Monthly,0,Atlanta,GA
+1,0,0.0,1,0,Monthly,0,Greeley,CO
+1,0,0.0,1,0,Monthly,0,Lakeville,MN
+1,0,0.0,1,0,Monthly,0,Madison,WI
+1,0,0.0,1,1,Monthly,0,Washington,DC
+0,0,1.0,1,1,Monthly,1,Monroe,OH
+0,0,0.0,1,0,Monthly,0,Los Angeles,CA
+1,0,1.0,1,1,Monthly,1,Lawrenceville,GA
+1,0,0.0,1,1,Monthly,0,Austin,TX
+0,0,0.0,1,0,Monthly,0,Portland,OR
+1,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Hartford,CT
+1,0,0.0,1,0,Monthly,1,Columbia,SC
+1,0,0.0,1,0,Monthly,1,Snellville,GA
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,1,Houston,TX
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,1,Monthly,1,Laurel,MD
+1,0,0.0,1,1,Monthly,1,Beverly Hills,CA
+1,0,0.0,1,1,Monthly,0,Milford,CT
+0,0,0.0,1,0,Monthly,0,Des Moines,IA
+0,0,0.0,1,1,Monthly,1,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,West Des Moines,IA
+1,0,0.0,1,1,Monthly,1,Hermitage,TN
+0,0,0.0,1,1,Monthly,0,Chicago,IL
+0,0,0.0,1,1,Monthly,0,La Mesa,CA
+1,0,0.0,1,1,Monthly,1,Long Branch,NJ
+0,0,0.0,1,0,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+0,0,0.0,1,0,Monthly,0,Oklahoma City,OK
+1,0,0.0,1,0,Monthly,1,Kernersville,NC
+1,0,0.0,1,0,Monthly,0,Gladstone,OR
+1,0,0.0,1,1,Monthly,1,Windermere,FL
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,0,Eden Prairie,MN
+1,0,0.0,1,1,Monthly,1,Las Vegas,NV
+1,0,0.0,1,0,Monthly,0,Saint Louis,MO
+0,0,0.0,1,1,Monthly,0,Chicago,IL
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,0,Monthly,0,Tucson,AZ
+1,0,0.0,1,1,Monthly,0,Tampa,FL
+1,0,0.0,1,1,Monthly,1,Owings Mills,MD
+1,0,0.0,1,0,Monthly,0,Durham,NC
+0,0,0.0,1,0,Monthly,0,Dallas,TX
+1,0,0.0,1,0,Monthly,1,Antioch,TN
+1,0,0.0,1,0,Monthly,0,Irving,TX
+1,0,1.0,1,1,Monthly,1,Orinda,CA
+0,0,0.0,1,0,Monthly,0,Crystal,MN
+1,0,0.0,1,1,Monthly,1,Hendersonville,TN
+1,0,0.0,1,0,Monthly,1,Forest Grove,OR
+1,0,0.0,1,1,Monthly,0,Washington,DC
+0,0,0.0,1,0,Monthly,0,Bremerton,WA
+1,0,0.0,1,0,Monthly,1,Omaha,NE
+1,0,0.0,1,0,Monthly,0,Plainsboro,NJ
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,1.0,1,1,Monthly,1,Fort Worth,TX
+1,0,0.0,1,0,Monthly,0,Lincoln,NE
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+0,0,0.0,1,0,Monthly,0,,
+1,0,0.0,1,0,Monthly,0,Colorado Springs,CO
+0,0,0.0,1,1,Monthly,0,Aurora,CO
+0,0,0.0,1,0,Monthly,1,Gastonia,NC
+0,0,1.0,1,0,Monthly,1,Kansas City,MO
+0,0,0.0,1,1,Monthly,0,Downers Grove,IL
+1,0,0.0,1,0,Monthly,0,,
+0,0,0.0,1,0,Monthly,0,Elkhorn,NE
+0,0,0.0,1,0,Monthly,1,Clayton,NC
+0,0,0.0,1,1,Monthly,0,Camarillo,CA
+1,0,0.0,1,0,Monthly,0,Springfield,MO
+1,0,0.0,1,0,Monthly,0,Saint Petersburg,FL
+0,0,0.0,1,0,Monthly,0,Lafayette,IN
+0,0,0.0,1,0,Monthly,1,Grand Forks,ND
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,1,Monthly,0,Madison,WI
+1,0,0.0,1,1,Monthly,1,Waltham,MA
+0,0,0.0,1,1,Monthly,1,Ridgecrest,CA
+0,0,0.0,1,0,Monthly,0,Pontiac,MI
+1,0,0.0,1,0,Monthly,0,Salt Lake City,UT
+1,0,0.0,1,0,Monthly,0,Maitland,FL
+0,0,0.0,1,1,Monthly,1,Cape Girardeau,MO
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,0,Monthly,0,Tempe,AZ
+1,0,0.0,1,0,Monthly,0,Houston,TX
+1,0,0.0,1,0,Monthly,0,Kokomo,IN
+1,0,0.0,1,0,Monthly,0,Greenfield,WI
+0,0,0.0,1,1,Monthly,0,Denver,CO
+1,0,0.0,1,0,Monthly,1,Kannapolis,NC
+0,0,0.0,1,0,Monthly,1,Toledo,OH
+1,0,0.0,1,0,Monthly,0,Saint Petersburg,FL
+0,0,0.0,1,1,Monthly,0,Millburn,NJ
+1,0,0.0,1,0,Monthly,0,Oklahoma City,OK
+1,0,0.0,1,0,Monthly,0,,
+0,0,0.0,1,1,Monthly,1,Windsor,CO
+0,0,0.0,1,1,Monthly,1,Palo Cedro,CA
+1,0,0.0,1,0,Monthly,0,Ann Arbor,MI
+1,0,0.0,1,0,Monthly,0,Colorado Springs,CO
+1,0,0.0,1,0,Monthly,1,Antioch,TN
+1,0,0.0,1,0,Monthly,1,Lexington,SC
+1,0,0.0,1,1,Monthly,1,Charlestown,MA
+0,0,0.0,1,0,Monthly,0,Fort Worth,TX
+0,0,0.0,1,1,Monthly,0,Denver,CO
+0,0,0.0,1,0,Monthly,0,Lawrence,KS
+0,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,0,Monthly,1,Denver,CO
+1,0,0.0,1,1,Monthly,0,Corona,CA
+1,0,0.0,1,0,Monthly,0,Orange,TX
+1,0,0.0,1,0,Monthly,0,Tucson,AZ
+1,0,0.0,1,0,Monthly,0,Tomball,TX
+0,0,0.0,1,1,Monthly,1,Yorkville,IL
+1,0,1.0,1,1,Monthly,1,Bethlehem,GA
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,1,Monthly,0,Philadelphia,PA
+1,0,0.0,1,1,Monthly,1,Aberdeen,MD
+0,0,0.0,1,0,Monthly,1,Fort Smith,AR
+1,0,0.0,1,0,Monthly,1,Douglasville,GA
+0,0,0.0,1,1,Monthly,1,Rockville,MD
+0,1,1.0,1,1,Monthly,1,Huntersville,NC
+1,0,0.0,1,0,Monthly,0,Sioux Falls,SD
+1,0,1.0,1,1,Monthly,1,Columbia,SC
+0,0,1.0,1,1,Monthly,1,Murfreesboro,TN
+1,0,0.0,1,1,Monthly,0,Jersey City,NJ
+1,0,0.0,1,0,Monthly,0,Glen Burnie,MD
+1,0,0.0,1,1,Monthly,1,Phoenix,AZ
+1,0,0.0,1,0,Monthly,1,Cary,NC
+0,0,0.0,1,0,Monthly,0,,
+1,0,0.0,1,0,Monthly,0,Saint Paul,MN
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,0,Monthly,0,San Marcos,TX
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,1,Monthly,0,Livermore,CA
+0,0,0.0,1,0,Monthly,0,Austin,TX
+1,0,0.0,1,1,Monthly,0,Philadelphia,PA
+0,0,0.0,1,0,Monthly,0,Austin,TX
+0,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,1,Holly Springs,NC
+0,0,0.0,1,1,Monthly,0,Silver Spring,MD
+1,0,0.0,1,0,Monthly,0,Oklahoma City,OK
+1,0,0.0,1,0,Monthly,0,Minneapolis,MN
+1,0,0.0,1,0,Monthly,0,Winter Park,FL
+1,0,0.0,1,0,Monthly,0,Pittsburgh,PA
+1,0,0.0,1,0,Monthly,0,Waukee,IA
+0,0,0.0,1,1,Monthly,1,Seattle,WA
+1,0,0.0,1,0,Monthly,0,Englewood,FL
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,1,Monthly,0,Los Angeles,CA
+1,0,0.0,1,0,Monthly,0,Colorado Springs,CO
+0,0,0.0,1,0,Monthly,0,Columbus,OH
+1,0,0.0,1,1,Monthly,1,Anchorage,AK
+1,0,0.0,1,1,Monthly,1,Mansfield,TX
+1,0,0.0,1,0,Monthly,1,El Paso,TX
+1,0,0.0,1,0,Monthly,0,New Port Richey,FL
+1,0,1.0,1,1,Monthly,1,Charlotte,NC
+1,0,0.0,1,0,Monthly,1,Glendale,AZ
+1,0,0.0,1,1,Monthly,0,Stoughton,MA
+0,0,0.0,1,0,Monthly,0,Lone Tree,CO
+1,0,0.0,1,0,Monthly,0,Kansas City,MO
+1,0,0.0,1,1,Monthly,1,Jacksonville,FL
+1,1,1.0,1,1,Monthly,1,Lutz,FL
+1,0,0.0,1,0,Monthly,0,Las Vegas,NV
+1,0,0.0,1,0,Monthly,1,Fargo,ND
+0,0,0.0,1,0,Monthly,1,Hattiesburg,MS
+1,0,0.0,1,0,Monthly,0,Orlando,FL
+1,0,0.0,1,0,Monthly,0,Saint Louis,MO
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+1,0,0.0,1,1,Monthly,1,Greensboro,NC
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+1,0,0.0,1,0,Monthly,0,Buford,GA
+0,0,0.0,1,0,Monthly,0,Lakewood,CO
+1,0,0.0,1,0,Monthly,0,Ballwin,MO
+1,0,0.0,1,0,Monthly,0,Burlington,NC
+1,0,0.0,1,0,Monthly,0,Cincinnati,OH
+1,0,0.0,1,0,Monthly,1,Marietta,GA
+1,0,0.0,1,0,Monthly,0,Columbia,MO
+1,0,0.0,1,1,Monthly,0,Austin,TX
+0,0,1.0,1,1,Monthly,1,Lexington,SC
+1,0,0.0,1,1,Monthly,1,Madison,WI
+1,0,0.0,1,0,Monthly,0,Lynchburg,VA
+1,0,0.0,1,0,Monthly,1,Germantown,WI
+1,0,0.0,1,0,Monthly,0,Lafayette,IN
+0,0,0.0,1,0,Monthly,0,Saint Louis,MO
+0,0,0.0,1,1,Monthly,0,San Diego,CA
+1,0,0.0,1,1,Monthly,1,Spring,TX
+0,0,0.0,1,0,Monthly,0,Orlando,FL
+1,0,0.0,1,0,Monthly,0,Orlando,FL
+0,0,0.0,1,1,Monthly,0,Saint Paul,MN
+0,0,0.0,1,1,Monthly,1,Hanover,MD
+1,0,0.0,1,0,Monthly,1,Norcross,GA
+1,0,0.0,1,0,Monthly,0,Milwaukee,WI
+0,0,0.0,1,1,Monthly,1,Smyrna,GA
+1,0,1.0,1,1,Monthly,1,Cedar Falls,IA
+1,0,1.0,1,0,Monthly,1,Hampton,GA
+1,0,0.0,1,1,Monthly,0,San Diego,CA
+1,0,0.0,1,1,Monthly,0,Edmonds,WA
+0,0,0.0,1,0,Monthly,0,Merriam,KS
+1,0,0.0,1,0,Monthly,0,Tucson,AZ
+0,0,0.0,1,0,Monthly,0,Monroe,MI
+1,0,0.0,1,0,Monthly,0,Dallas,TX
+0,0,0.0,1,0,Monthly,0,Portland,OR
+1,0,0.0,1,1,Monthly,0,Austin,TX
+1,0,0.0,1,0,Monthly,0,Shawnee Mission,KS
+1,0,0.0,1,0,Monthly,0,Gainesville,FL
+0,0,0.0,1,1,Monthly,0,Huntington Beach,CA
+1,0,0.0,1,1,Monthly,0,San Francisco,CA
+0,0,0.0,1,0,Monthly,1,Lynchburg,VA
+1,0,0.0,1,0,Monthly,0,Houston,TX
+0,0,0.0,1,0,Monthly,1,Plano,TX
+0,0,0.0,1,0,Monthly,0,Charlotte,NC
+0,0,0.0,1,0,Monthly,0,Oklahoma City,OK
+1,0,0.0,1,1,Monthly,0,Boston,MA
+1,0,0.0,1,1,Monthly,1,Riverview,FL
+0,1,1.0,1,1,Monthly,1,Baton Rouge,LA
+1,0,0.0,1,0,Monthly,0,Kansas City,KS
+0,0,0.0,1,1,Monthly,0,Seattle,WA
+0,0,1.0,1,1,Monthly,1,Reno,NV
+0,0,0.0,1,0,Monthly,0,Raleigh,NC
+1,0,0.0,1,0,Monthly,0,Alvin,TX
+1,0,0.0,1,0,Monthly,0,Chicago,IL
+0,0,0.0,1,1,Monthly,0,West Hollywood,CA
+1,0,0.0,1,0,Monthly,0,Cincinnati,OH
+0,0,0.0,1,0,Monthly,0,Hazelwood,MO
+1,0,0.0,1,0,Monthly,0,Omaha,NE
+1,0,1.0,1,1,Monthly,1,Waxhaw,NC
+1,0,0.0,1,0,Monthly,0,Chula Vista,CA
+1,0,0.0,1,0,Monthly,0,Euless,TX
+1,0,0.0,1,0,Monthly,0,Bedford,TX
+1,0,0.0,1,1,Monthly,1,Colorado Springs,CO
+1,0,0.0,1,0,Monthly,0,Cedar Falls,IA
+1,0,0.0,1,0,Monthly,0,Manchester,NH
+1,0,0.0,1,0,Monthly,0,,
+1,0,0.0,1,0,Monthly,0,Leavenworth,KS
+0,0,0.0,1,0,Monthly,0,Corpus Christi,TX
